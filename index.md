@@ -2,19 +2,19 @@
   body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
-    background-color: #f4f4f9;
+    background-color: #f9f9f9;
     color: #333;
     margin: 0;
     padding: 0;
   }
-  h1 {
-    color: #2c3e50;
+  h1, h2 {
     text-align: center;
-    margin-top: 20px;
+    color: #2c3e50;
   }
   h2 {
-    color: #34495e;
+    margin-top: 20px;
     border-bottom: 2px solid #3498db;
+    display: inline-block;
     padding-bottom: 5px;
   }
   a {
@@ -25,54 +25,48 @@
     text-decoration: underline;
   }
   .container {
-    max-width: 800px;
-    margin: 20px auto;
+    max-width: 700px;
+    margin: 30px auto;
     padding: 20px;
-    background: #fff;
+    background: #ffffff;
     border-radius: 8px;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
   ul {
-    list-style-type: square;
+    list-style-type: disc;
     margin-left: 20px;
   }
   footer {
     text-align: center;
-    margin-top: 20px;
+    margin-top: 30px;
     font-size: 0.9em;
     color: #777;
   }
 </style>
 
 <div class="container">
-  # Solid-State Physics Research
+  <h1>Solid-State Physics Research</h1>
 
-  Welcome to my research page! Here, I share my work and insights into the fascinating field of solid-state physics.
+  <p>Welcome to my research page! Here, I share my work and insights into the fascinating field of solid-state physics.</p>
 
-  ## About My Research
+  <h2>About My Research</h2>
+  <p>I specialize in exploring the properties of materials at the atomic and molecular levels. My work focuses on:</p>
+  <ul>
+    <li><strong>Crystal structures</strong> and their electronic properties.</li>
+    <li><strong>Semiconductors</strong> and their applications in modern technology.</li>
+    <li><strong>Quantum phenomena</strong> in solid-state systems.</li>
+  </ul>
 
-  I specialize in exploring the properties of materials at the atomic and molecular levels. My work focuses on:
-  - **Crystal structures** and their electronic properties.
-  - **Semiconductors** and their applications in modern technology.
-  - **Quantum phenomena** in solid-state systems.
+  <h2>Publications</h2>
+  <ul>
+    <li><a href="#">Electronic Structure Calculations</a> - Published in <em>Journal of Solid-State Physics</em>, 2023.</li>
+    <li><a href="#">Magnetism in Materials</a> - Published in <em>Materials Science Letters</em>, 2024.</li>
+    <li><a href="#">Probing Lattice Dynamics</a> - Published in <em>Materials Science Letters</em>, 2024.</li>
+  </ul>
 
+  <h2>Contact</h2>
+  <p>I’d love to connect and discuss solid-state physics! Feel free to reach out via <a href="mailto:email@example.com">email@example.com</a>.</p>
 
-  ## Publications
-
-  - [Electronic Structure Calculations](#)  
-    Published in *Journal of Solid-State Physics*, 2023.
-
-  - [Magnetism In materials](#)  
-    Published in *Materials Science Letters*, 2024.
-
-  - [Probing Lattice Dynamics](#)  
-    Published in *Materials Science Letters*, 2024.
-
-  ## Contact
-
-  I’d love to connect and discuss solid-state physics! Feel free to reach out via [email@example.com](mailto:email@example.com).
-
-  ---
   <footer>
     Thank you for visiting my page!
   </footer>
