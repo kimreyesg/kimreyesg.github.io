@@ -13,7 +13,7 @@ layout: default
 <p>These computer simulations let scientists "test drive" materials before making them in a lab, saving time and resources. It's like being able to design and test a car completely in a computer game before building it in real life. The knowledge from this field directly impacts technology you use daily—from the chips in your laptop to the materials in your bike frame to the screen you're reading this on right now.</p>
 </div>
 
-<img src="./chip.jpg" alt="Chip Semiconductor" width="500">
+<img src="./chip.jpg" alt="Chip Semiconductor">
 
 ## Overview
 
@@ -24,7 +24,7 @@ layout: default
 
 ### About
 
-![Kim](./portrait2.png)
+![Kim](./portrait2.jpg)
 
 The study and design of materials have been the foundation of modern technology. The incredible amount of work and attention to detail that goes into every device we use in our daily lives is a remarkable journey of exploration, research, and calculation. I am Dr. Greis Kim, assistant professor in the Physics and Astronomy department at SUNY New Paltz, and my research focuses on studying materials using computational techniques. These techniques allow us to simulate the electronic behavior, optical response, and stability of material prototypes for various applications that meet current technological needs.
 
