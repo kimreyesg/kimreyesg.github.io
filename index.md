@@ -29,15 +29,16 @@ layout: default
 <img src="./portrait2.jpg" alt="Kim" style="width: 150px; height: auto;">
 </div>
 
-The study and design of materials have been the foundation of modern technology. The incredible amount of work and attention to detail that goes into every device we use in our daily lives is a remarkable journey of exploration, research, and calculation. I am assistant professor or physics in the Physics and Astronomy department at SUNY New Paltz, and my research focuses on studying materials using computational techniques. These techniques allow us to simulate the electronic behavior, optical response, and stability of material prototypes for various applications that meet current technological needs.
+I am assistant professor or physics in the Physics and Astronomy department at SUNY New Paltz, and my research focuses on studying materials using computational techniques. These techniques allow us to simulate the electronic behavior, optical response, and stability of material prototypes for various applications that meet current technological needs.
 
 
 
 
-#### Research
+
+### Research
 
 
-##### Teaching
+### Teaching
 
 
 ```
