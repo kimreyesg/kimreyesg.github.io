@@ -60,8 +60,6 @@
   <h2>Contact</h2>
   <p>I’d love to connect and discuss solid-state physics! Feel free to reach out via <a href="mailto:email@example.com">email@example.com</a>.</p>
 
-  <footer>
-    Department of Physics and Astronomy, SUNY New Paltz, New Paltz, New York.
-  </footer>
+
 </div>
 
