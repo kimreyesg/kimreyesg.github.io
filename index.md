@@ -56,24 +56,16 @@
   - **Semiconductors** and their applications in modern technology.
   - **Quantum phenomena** in solid-state systems.
 
-  ## Current Projects
-
-  Here are some of the projects I’m currently working on:
-  - **Project 1: Quantum Dot Simulations**  
-    Investigating the electronic properties of quantum dots for next-generation computing.
-    
-  - **Project 2: High-Temperature Superconductors**  
-    Exploring materials that exhibit superconductivity at higher temperatures.
-
-  - **Project 3: Nanostructured Materials**  
-    Developing nanostructures for enhanced energy storage and conversion.
 
   ## Publications
 
-  - [Paper 1: Title of Your Paper](#)  
+  - [Electronic Structure Calculations](#)  
     Published in *Journal of Solid-State Physics*, 2023.
 
-  - [Paper 2: Title of Another Paper](#)  
+  - [Magnetism In materials](#)  
+    Published in *Materials Science Letters*, 2024.
+
+  - [Probing Lattice Dynamics](#)  
     Published in *Materials Science Letters*, 2024.
 
   ## Contact
