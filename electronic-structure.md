@@ -1,3 +1,8 @@
+---
+title: Electronic Structure Calculations
+nav_exclude: true
+---
+
 # Electronic Structure Calculations
 
 Electronic structure calculations are a cornerstone of modern materials science and solid-state physics. These calculations allow us to predict the behavior of electrons in a material, which is essential for understanding its properties.
