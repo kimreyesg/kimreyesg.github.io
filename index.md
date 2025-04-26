@@ -13,7 +13,7 @@ layout: default
 <p>These computer simulations let scientists "test drive" materials before making them in a lab, saving time and resources. It's like being able to design and test a car completely in a computer game before building it in real life. The knowledge from this field directly impacts technology you use daily—from the chips in your laptop to the materials in your bike frame to the screen you're reading this on right now.</p>
 </div>
 
-<img src="./chip.jpg" alt="Chip Semiconductor" width="300">
+<img src="./chip.jpg" alt="Chip Semiconductor" style="width: 500px; height: auto;">
 
 ## Overview
 
