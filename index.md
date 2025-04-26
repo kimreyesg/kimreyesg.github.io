@@ -28,17 +28,22 @@ layout: default
 <div style="text-align: center;">
 <img src="./portrait2.jpg" alt="Kim" style="width: 150px; height: auto;">
 </div>
+<div style="text-align: center; font-size: 0.9em; color: gray;">
+<p>Figure: Dr. Greis J. Kim Reyes, Assistant Professor of Physics and Astronomy at SUNY New Paltz.</p>
+</div>
 
-I am assistant professor or physics in the Physics and Astronomy department at SUNY New Paltz, and my research focuses on studying materials using computational techniques. These techniques allow us to simulate the electronic behavior, optical response, and stability of material prototypes for various applications that meet current technological needs.
-
-
+I am assistant professor or physics in the Physics and Astronomy Department at SUNY New Paltz, and my research focuses on studying materials using computational techniques. These techniques allow us to simulate the electronic behavior, optical response, and stability of material prototypes for various applications that meet current technological needs. In addition, I am passion in teaching and combine my lectures with simulations and many problem solving sessions.
 
 
 
 ### Research
 
++ My research focuses on data-driven techniques to address critical challenges in materials science. These techniques are applied to several key areas, including sustainable energy storage and generation systems, catalytic devices, perovskites, defects in semiconductors, and next-generation semiconductors.
+
 
 ### Teaching
+
+
 
 
 ```
