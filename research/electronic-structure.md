@@ -1,5 +1,6 @@
 ---
 title: Electronic Structure Calculations
+nav_exclude: true
 ---
 
 # Electronic Structure Calculations
