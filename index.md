@@ -13,7 +13,7 @@ Calculate electronic structures to see how electrons move through materials (thi
 These computer simulations let scientists "test drive" materials before making them in a lab, saving time and resources. It's like being able to design and test a car completely in a computer game before building it in real life. The knowledge from this field directly impacts technology you use daily—from the chips in your laptop to the materials in your bike frame to the screen you're reading this on right now.
 </div>
 
-![Chip Semiconductor](./chip.jpg)
+![Chip Semiconductor](./chip.png)
 
 ## Overview
 
