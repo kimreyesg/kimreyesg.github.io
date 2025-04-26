@@ -26,8 +26,15 @@ The knowledge from this field directly impacts technology you use daily—from t
 
 ### About
 
-The study and design of materials have been the foundation of modern technology. The incredible amount of work and attention to detail that goes into every device we use in our daily lives is a remarkable journey of exploration, research, and calculation. I am Dr. Greis Kim, an assistant professor in the Physics and Astronomy department at SUNY New Paltz, and my research focuses on studying materials using computational techniques. These techniques allow us to simulate the electronic behavior, optical response, and stability of material prototypes for various applications that meet current technological needs.
-There should be whitespace between paragraphs.
+
+
+The study and design of materials have been the foundation of modern technology. The incredible amount of work and attention to detail that goes into every device we use in our daily lives is a remarkable journey of exploration, research, and calculation. I am Dr. Greis Kim, assistant professor in the Physics and Astronomy department at SUNY New Paltz, and my research focuses on studying materials using computational techniques. These techniques allow us to simulate the electronic behavior, optical response, and stability of material prototypes for various applications that meet current technological needs.
+
 
 #### My Research
 
+
+
+```
+Physics and Astronomy Department, SUNY New Paltz, New Paltz, New York
+```
