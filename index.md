@@ -22,6 +22,7 @@ The knowledge from this field directly impacts technology you use daily—from t
 
 [Electronic Structure Calculations](./electronic-structure.md).
 
+* * *
 
 ### About
 
