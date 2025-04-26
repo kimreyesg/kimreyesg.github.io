@@ -18,7 +18,7 @@ layout: default
 ## Overview
 
 
-[Electronic Structure Calculations](./electronic-structure.md).
+* [Electronic Structure Calculations](./electronic-structure.md).
 
 * * *
 
