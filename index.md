@@ -53,30 +53,28 @@ I am Assistant Professor of Physics in the Physics and Astronomy Department at S
 
 #### Relevant Research:
 
-```markdown
+
 <div style="text-align: justify;">
     <p>
         <strong>Giant Narrow-Band Optical Absorption and Distinctive Excitonic Structures of Monolayer C<sub>3</sub>N and C<sub>3</sub>B</strong><br>
         Z. Tang, G. J. Cruz, Y. Wu, W. Xia, F. Jia, W. Zhang, P. Zhang - <em>Physical Review Applied</em>, 2022
     </p>
 </div>
-```
-```markdown
+
 <div style="text-align: justify;">
     <p>
         <strong>Giant Excitonic Effects in Vacancy-Ordered Double Perovskites</strong><br>
         F. Zhang, W. Gao, G. J. Cruz, Y. Sun, P. Zhang, J. Zhao - <em>Physical Review B</em>, 2023
     </p>
 </div>
-```
-```markdown
+
 <div style="text-align: justify;">
     <p>
         <strong>Quasiparticle Band Structures of the 4d Perovskite Oxides SrZrO<sub>3</sub> and BaZrO<sub>3</sub></strong><br>
         G. Lopez-Candales, Z. Tang, G. J. Cruz, W. Xia, F. Jia - <em>Physical Review B</em>, 2021
     </p>
 </div>
-```
+
 
 
 ### Teaching
