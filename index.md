@@ -8,7 +8,7 @@ layout: default
   <img src="./structure_spin_soft.gif" alt="Rotating Structure" style="max-width: 200px; width: 100%; height: auto;">
 </div>
 <div style="text-align: center; font-size: 0.9em; color: gray;">
-<p> NaCl, Sodium Chloride Crystal Structure</p>
+<p> NaCl, Sodium Chloride Crystal Structure 🧂</p>
 </div>
 
 
