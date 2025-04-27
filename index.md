@@ -5,7 +5,7 @@ layout: default
 # Computational Solid State Physics
 
 <div style="text-align: center; margin: 20px 0;">
-  <img src="./structure_spin_soft.gif" alt="Rotating Structure" style="max-width: 200px; width: 100%; height: auto;">
+  <img src="./structure_spin_soft.gif" alt="Rotating Structure" style="max-width: 150px; width: 100%; height: auto;">
 </div>
 
 
