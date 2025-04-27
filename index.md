@@ -5,8 +5,9 @@ layout: default
 # Computational Solid State Physics
 
 <div style="text-align: center; margin: 20px 0;">
-  <img src="./structure_spin_soft.gif" alt="Rotating Structure" style="max-width: 400px; width: 100%; height: auto; box-shadow: 0px 4px 15px rgba(0,0,0,0.3); border-radius: 10px;">
+  <img src="./structure_spin_soft.gif" alt="Rotating Structure" style="max-width: 400px; width: 100%; height: auto;">
 </div>
+
 
 
 <div style="text-align: justify;">
