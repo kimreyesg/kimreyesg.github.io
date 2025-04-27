@@ -53,12 +53,14 @@ I am Assistant Professor of Physics in the Physics and Astronomy Department at S
 
 ### Teaching
 
-| head1        | head two          | three |
+Teaching is one of my greatest passions. I believe that education is a two-way street where I not only share knowledge but also learn from my students' unique perspectives and insights. Over the years, I have had the privilege of teaching a variety of courses in English, ranging from introductory physics to quantum mechanics. My teaching philosophy emphasizes clarity, engagement, and the integration of real-world applications to make complex concepts accessible and relatable. I strive to create an interactive learning environment where students feel encouraged to ask questions, think critically, and explore the fascinating world of physics.
+
+| Year        | Course         | Credits |
 |:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-```
-Physics and Astronomy Department, SUNY New Paltz, New Paltz, New York
-```
+| Fall 2024    | General Physics 1 | 3     |
+|              | Quantum Physics   | 3     |
+| Spring 2025  | General Physics 1 | 3     |
+|              | General Physics Lab 2 | 1 |
+| Fall 2025    | General Physics 1 | 3     |
+|              | Quantum Physics   | 3     |
+|              | General Physics Lab 2 | 1 |
