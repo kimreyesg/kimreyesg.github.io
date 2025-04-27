@@ -35,7 +35,7 @@ layout: default
 
 I am Assistant Professor of Physics in the Physics and Astronomy Department at SUNY New Paltz, and my research focuses on studying materials using computational techniques. These techniques allow us to simulate the electronic behavior, optical response, and stability of material prototypes for various applications that meet current technological needs. In addition, I am passionate about teaching and combine my lectures with simulations and many problem-solving sessions.
 
-##### Contact
+#### Contact
 <dl>
 <dt>Email:</dt>
 <dd>kimreyesg@newpaltz.edu</dd>
@@ -51,12 +51,14 @@ I am Assistant Professor of Physics in the Physics and Astronomy Department at S
 
 [Google Scholar Profile](https://scholar.google.com/citations?user=R3wN1y8AAAAJ&hl=en)
 
-
 ### Teaching
 
-
-
-
+| head1        | head two          | three |
+|:-------------|:------------------|:------|
+| ok           | good swedish fish | nice  |
+| out of stock | good and plenty   | nice  |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |
 ```
 Physics and Astronomy Department, SUNY New Paltz, New Paltz, New York
 ```
