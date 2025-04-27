@@ -51,6 +51,17 @@ I am Assistant Professor of Physics in the Physics and Astronomy Department at S
 
 [Google Scholar Profile](https://scholar.google.com/citations?user=R3wN1y8AAAAJ&hl=en)
 
+#### Relevant Research:
+
+```markdown
+<div style="text-align: justify;">
+    <p>
+        <strong>Giant Narrow-Band Optical Absorption and Distinctive Excitonic Structures of Monolayer C<sub>3</sub>N and C<sub>3</sub>B</strong><br>
+        Z. Tang, G. J. Cruz, Y. Wu, W. Xia, F. Jia, W. Zhang, P. Zhang - <em>Physical Review Applied</em>, 2022
+    </p>
+</div>
+```
+
 ### Teaching
 
 Teaching is one of my greatest passions. I believe that education is a two-way street where I not only share knowledge but also learn from my students' unique perspectives and insights. Over the years, I have had the privilege of teaching a variety of courses in English, ranging from introductory physics to quantum mechanics. My teaching philosophy emphasizes clarity, engagement, and the integration of real-world applications to make complex concepts accessible and relatable. I strive to create an interactive learning environment where students feel encouraged to ask questions, think critically, and explore the fascinating world of physics.
