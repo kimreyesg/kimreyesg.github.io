@@ -61,6 +61,23 @@ I am Assistant Professor of Physics in the Physics and Astronomy Department at S
     </p>
 </div>
 ```
+```markdown
+<div style="text-align: justify;">
+    <p>
+        <strong>Giant Excitonic Effects in Vacancy-Ordered Double Perovskites</strong><br>
+        F. Zhang, W. Gao, G. J. Cruz, Y. Sun, P. Zhang, J. Zhao - <em>Physical Review B</em>, 2023
+    </p>
+</div>
+```
+```markdown
+<div style="text-align: justify;">
+    <p>
+        <strong>Quasiparticle Band Structures of the 4d Perovskite Oxides SrZrO<sub>3</sub> and BaZrO<sub>3</sub></strong><br>
+        G. Lopez-Candales, Z. Tang, G. J. Cruz, W. Xia, F. Jia - <em>Physical Review B</em>, 2021
+    </p>
+</div>
+```
+
 
 ### Teaching
 
