@@ -43,9 +43,7 @@ I am Assistant Professor of Physics in the Physics and Astronomy Department at S
 
 + My research focuses on data-driven techniques to address critical challenges in materials science. These techniques are applied to several key areas, including sustainable energy storage and generation systems, catalytic materials, perovskites, defects in semiconductors, and next-generation semiconductors.
 
-[Google Scholar Profile](https://scholar.google.com/citations?user=R3wN1y8AAAAJ&hl=en)
-
-#### Relevant Research:
+#### Recent Research:
 
 
 <div style="text-align: justify;">
@@ -69,6 +67,7 @@ I am Assistant Professor of Physics in the Physics and Astronomy Department at S
     </p>
 </div>
 
+[Google Scholar Profile](https://scholar.google.com/citations?user=R3wN1y8AAAAJ&hl=en)
 
 * * *
 
