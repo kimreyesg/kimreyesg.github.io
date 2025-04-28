@@ -54,7 +54,7 @@ Similarly, Roy Plunkett, a chemist at DuPont, discovered polytetrafluoroethylene
 
 
 
-[Google Scholar Profile](https://scholar.google.com/citations?user=R3wN1y8AAAAJ&hl=en)
+[Google Scholar Profile](https://scholar.google.com/citations?user=R3wN1y8AAAAJ&hl=en).
 
 * * *
 
