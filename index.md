@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Computational Solid State Physics
+## Computational Solid State
 
 <div style="text-align: center; margin: 20px 0;">
   <img src="./structure_spin_soft.gif" alt="Rotating Structure" style="max-width: 200px; width: 100%; height: auto;">
@@ -31,7 +31,7 @@ layout: default
 </div>
 
 
-### Solid-State Calculations at a Glance
+#### Solid-State Calculations at a Glance
 
 * [Electronic Structure Calculations](./electronic-structure.md).
 * [Probing Lattice Dynamics](./phonons.md).
