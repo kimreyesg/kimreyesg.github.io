@@ -5,12 +5,12 @@
 - 2017-2024 **Ph.D. in Physics**
 
     - University at Buffalo, SUNY, Buffalo, New York, US
-         Thesis: Defect-Enable Novel Properties: Photocatalyst, Intermediate Band Semiconductors and Magnetism
+         - Thesis: Defect-Enable Novel Properties: Photocatalyst, Intermediate Band Semiconductors and Magnetism
 
 - 2010-2014 **Master in Science: Physics**
 
     - Universidad Nacional de Colombia, Bogotá, Colombia
-        Thesis: Diagrama de Fases de Átomos Bosónicos Sujetos a Confinamiento no Diagonal
+        - Thesis: Diagrama de Fases de Átomos Bosónicos Sujetos a Confinamiento no Diagonal
 
 - 2004-2010 **Bachelor's Degree: Physics-Education**
 
@@ -40,8 +40,8 @@
 ### Research Experience
 2019-2024  **Doctoral Researcher**
 
-SUNY Buffalo.
-Key projects:
+- SUNY Buffalo.
+- Key projects:
 
 * Intermediate Band semiconductors for solar cell technology
 * Jahn-Teller effect on CdS doped with Ni
@@ -49,28 +49,28 @@ Key projects:
 
 2015-2017  **Research Assistant**
 
-Universidad Nacional de Colombia.
-Group of Correlated Systems (SISCO)
-Researched ground state phase diagrams of Bosonic systems in one dimension using DMRG
+- Universidad Nacional de Colombia.
+- Group of Correlated Systems (SISCO)
+- Researched ground state phase diagrams of Bosonic systems in one dimension using DMRG
 
 * * *
 ### Selected Publications
 
-* <div style="text-align: justify;">
+ <div style="text-align: justify;">
     <p>
         <strong>Giant Narrow-Band Optical Absorption and Distinctive Excitonic Structures of Monolayer C<sub>3</sub>N and C<sub>3</sub>B</strong><br>
         Z. Tang, G. J. Cruz, Y. Wu, W. Xia, F. Jia, W. Zhang, P. Zhang - <em>Physical Review Applied</em>, 2022
     </p>
 </div>
 
-* <div style="text-align: justify;">
+ <div style="text-align: justify;">
     <p>
         <strong>Giant Excitonic Effects in Vacancy-Ordered Double Perovskites</strong><br>
         F. Zhang, W. Gao, G. J. Cruz, Y. Sun, P. Zhang, J. Zhao - <em>Physical Review B</em>, 2023
     </p>
 </div>
 
-* <div style="text-align: justify;">
+ <div style="text-align: justify;">
     <p>
         <strong>Quasiparticle Band Structures of the 4d Perovskite Oxides SrZrO<sub>3</sub> and BaZrO<sub>3</sub></strong><br>
         G. Lopez-Candales, Z. Tang, G. J. Cruz, W. Xia, F. Jia - <em>Physical Review B</em>, 2021
