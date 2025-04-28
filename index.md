@@ -24,6 +24,8 @@ Similarly, Roy Plunkett, a chemist at DuPont, discovered polytetrafluoroethylene
 ### Solid-State Calculations at a Glance
 
 * [Electronic Structure Calculations](./electronic-structure.md).
+* [Probing Lattice Dynamics](./phonons.md).
+
 
 * * *
 
