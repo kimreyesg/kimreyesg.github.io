@@ -1,18 +1,18 @@
 # Simplified CV
-## Greis J. Kim Reyes, Ph.D.
+### Greis J. Kim Reyes, Ph.D.
 ### Education
 
 - 2017-2024 **Ph.D. in Physics**
 
     - University at Buffalo, SUNY, Buffalo, New York, US
-    - Theoretical Condensed Matter Physics and Materials Science
-    - Thesis: Defect-Enable Novel Properties: Photocatalyst, Intermediate Band Semiconductors and Magnetism
+        - Theoretical Condensed Matter Physics and Materials Science
+        - Thesis: Defect-Enable Novel Properties: Photocatalyst, Intermediate Band Semiconductors and Magnetism
 
 - 2010-2014 **Master in Science: Physics**
 
     - Universidad Nacional de Colombia, Bogotá, Colombia
-    - Theoretical Condensed Matter Physics
-    - Thesis: Diagrama de Fases de Átomos Bosónicos Sujetos a Confinamiento no Diagonal
+        - Theoretical Condensed Matter Physics
+        - Thesis: Diagrama de Fases de Átomos Bosónicos Sujetos a Confinamiento no Diagonal
 
 - 2004-2010 **Bachelor's Degree: Physics-Education**
 
@@ -91,6 +91,6 @@ Researched ground state phase diagrams of Bosonic systems in one dimension using
 
 1. Spanish (Native)
 1. English (Professional)
-1. Korean (For fun)
+1. Korean (Amateur)
 
 [Back to Home](index.md)
