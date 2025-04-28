@@ -11,12 +11,15 @@ layout: default
 <p> NaCl, Sodium Chloride Crystal Structure 🧂</p>
 </div>
 
-
 <div style="text-align: justify;">
-<p>Have you ever wondered why your smartphone works, how solar panels capture energy, or what makes some materials magnetic? Solid-state and materials science holds answers. This exciting field explores how atoms arrange themselves in materials and how these arrangements create the properties we see and use every day. </p>
+<p>
+The study and design of materials form the backbone of modern technology. The extensive effort and meticulous attention to detail involved in every device we use daily represent a remarkable journey of exploration, research, and calculations with intriguing origins. Over the years, many essential materials have been discovered by chance. For instance, saccharin was accidentally found in 1879 by Constantine Fahlberg while working at Johns Hopkins University, where he noticed a sweet taste on his hands after handling coal tar derivatives. Similarly, Roy Plunkett, a chemist at DuPont, discovered polytetrafluoroethylene (PTFE), later known as Teflon, in 1938 while researching refrigerants. Another notable accident in discovery occurred with X-rays, which Wilhelm Conrad Roentgen, a German physicist, stumbled upon in 1895 during experiments with cathode ray tubes.
 
-<p>These computer simulations let scientists "test drive" materials before making them in a lab, saving time and resources. It's like being able to design and test a car completely in a computer game before building it in real life. The knowledge from this field directly impacts technology you use daily—from the chips in your laptop to the materials in your bike frame to the screen you're reading this on right now.</p>
-</div>
+While these histories inspire awe due to their roots in genuine curiosity, today, a vast field of opportunities has emerged through computational techniques. First-principle methods enable us to simulate the electronic behavior, optical response, and stability of material prototypes for various applications that cater to contemporary technological needs. More recently, machine learning techniques have transformed the landscape of materials search by predicting a significant number of prototype materials capable of optimizing and launching new materials.
+</p>
+
+
+ 
 
 ## Overview
 
@@ -33,7 +36,8 @@ layout: default
 <p>Dr. Greis J. Kim Reyes</p>
 </div>
 
-I am Assistant Professor of Physics in the Physics and Astronomy Department at SUNY New Paltz, and my research focuses on studying materials using computational techniques. These techniques allow us to simulate the electronic behavior, optical response, and stability of material prototypes for various applications that meet current technological needs. In addition, I am passionate about teaching and combine my lectures with simulations and many problem-solving sessions.
+<div style="text-align: justify;">
+<p>I am Assistant Professor of Physics in the Physics and Astronomy Department at SUNY New Paltz, and my research focuses on studying materials using computational techniques. These techniques allow us to simulate the electronic behavior, optical response, and stability of material prototypes for various applications that meet current technological needs. In addition, I am passionate about teaching and combine my lectures with simulations and many problem-solving sessions.</p>
 
 
 
@@ -41,7 +45,8 @@ I am Assistant Professor of Physics in the Physics and Astronomy Department at S
 
 ### Research
 
-+ My research focuses on data-driven techniques to address critical challenges in materials science. These techniques are applied to several key areas, including sustainable energy storage and generation systems, catalytic materials, perovskites, defects in semiconductors, and next-generation semiconductors.
+<div style="text-align: justify;">
+<p>My long-term research objectives are centered on understanding and predicting the properties of materials from first principles. This includes a concerted effort to investigate advanced semiconductor materials, particularly intermediate band semiconductors, to explore their unique electronic properties and potential applications. Additionally, I seek to examine defects in solids, which play a critical role in determining material behavior, and to study magnetic materials using density functional theory. Through these investigations, I aim to enhance the computational materials design process and contribute to the development of innovative theoretical and computational techniques for novel and nanostructured materials.</p>
 
 #### Recent Research:
 
@@ -73,7 +78,9 @@ I am Assistant Professor of Physics in the Physics and Astronomy Department at S
 
 ### Teaching
 
-Teaching is one of my greatest passions. I believe that education is a two-way street where I not only share knowledge but also learn from my students' unique perspectives and insights. Over the years, I have had the privilege of teaching a variety of courses in English, ranging from introductory physics to quantum mechanics. My teaching philosophy emphasizes clarity, engagement, and the integration of real-world applications to make complex concepts accessible and relatable. I strive to create an interactive learning environment where students feel encouraged to ask questions, think critically, and explore the fascinating world of physics.
+<div style="text-align: justify;">
+<p>
+Teaching is one of my greatest passions. I believe that education is a two-way street where I not only share knowledge but also learn from my students' unique perspectives and insights. Over the years, I have had the privilege of teaching a variety of courses, ranging from introductory physics to quantum mechanics. My teaching philosophy emphasizes clarity, engagement, and the integration of real-world applications to make complex concepts accessible and relatable. I strive to create an interactive learning environment where students feel encouraged to ask questions, think critically, and explore the world of physics.</p>
 
 | Year        | Course         | Credits |
 |:-------------|:------------------|:------|
