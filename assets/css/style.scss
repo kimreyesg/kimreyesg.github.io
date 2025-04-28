@@ -24,4 +24,41 @@ body {
   p {
     font-size: 16px; /* Adjust paragraph font size */
   }
+  @media (max-width: 768px) {
+    /* Adjust font sizes for smaller screens */
+    body {
+      font-size: 14px;
+    }
+  
+    h1 {
+      font-size: 1.8em;
+    }
+  
+    h2 {
+      font-size: 1.5em;
+    }
+  
+    h3 {
+      font-size: 1.3em;
+    }
+  
+    /* Add padding and center-align content */
+    .content {
+      padding: 10px;
+      text-align: center;
+    }
+  
+    /* Stack flexbox elements vertically */
+    .flex-container {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+    }
+  
+    /* Adjust images to fit smaller screens */
+    img {
+      max-width: 100%;
+      height: auto;
+    }
+  }
 
