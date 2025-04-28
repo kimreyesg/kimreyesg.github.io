@@ -6,9 +6,6 @@ Phonon calculations probe the vibrational properties of a crystal by computing i
 
 Expand the total energy to second order in atomic displacements about equilibrium.
 
-Procedure:
-
-Relax the structure to its ground state.
 
 Compute forces resulting from small displacements of atoms (finite differences or density-functional perturbation theory).
 
