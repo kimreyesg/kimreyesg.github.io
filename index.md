@@ -97,3 +97,6 @@ Teaching is one of my greatest passions. I believe that education is a two-way s
 <dt>Phone:</dt>
 <dd>(845) 257-3734</dd>
 </dl>
+<div style="text-align: center;">
+<img src="./NewPaltz-night-slider.jpg" alt="SUNY New Paltz" style="width: 200px; height: auto;">
+</div>
