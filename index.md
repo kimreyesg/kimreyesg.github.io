@@ -12,6 +12,7 @@ layout: default
 </div>
 
 <div style="text-align: justify;">
+
 <p> The study and design of materials form the backbone of modern technology. The extensive effort and meticulous attention to detail involved in every device we use daily represent a remarkable journey of exploration, research, and calculations with, sometimes, intriguing origins.</p>
 
 <p> Over the years, many essential materials have been discovered by chance. For instance, saccharin was accidentally found in 1879 by Constantine Fahlberg while working at Johns Hopkins University, where he noticed a sweet taste on his hands after handling coal tar derivatives. 
@@ -20,9 +21,9 @@ Similarly, Roy Plunkett, a chemist at DuPont, discovered polytetrafluoroethylene
 <p> While these histories inspire awe due to their roots in genuine curiosity, today, a vast field of opportunities has emerged through computational techniques. First-principle methods enable us to simulate the electronic behavior, optical response, and stability of material prototypes for various applications that cater to contemporary technological needs. Even more recently, machine learning techniques have transformed the landscape of materials search by predicting a significant number of prototype materials capable of optimizing and launching new materials.
 </p>
 
-## Solid-State Calculations at a Glance
+### Solid-State Calculations at a Glance
 
-
+Solid-state computational techniques play a critical role in advancing our understanding of materials properties. This section provides an overview of selected methods, including electronic structure, phonon, and spin-polarized calculations.
 
 * [Electronic Structure Calculations](./electronic-structure.md).
 
