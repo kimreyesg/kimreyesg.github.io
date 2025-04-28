@@ -38,4 +38,5 @@ Despite its broad success, standard DFT is known to systematically:
 * Strongly correlated materials (e.g., transition metal oxides) are poorly described by standard DFT.
 
 * Need for higher-level corrections (e.g., GW approximation, hybrid functionals).
+
 [Back to Home](index.md)
