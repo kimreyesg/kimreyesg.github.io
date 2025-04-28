@@ -35,6 +35,7 @@ layout: default
 
 * [Electronic Structure Calculations](./electronic-structure.md).
 * [Probing Lattice Dynamics](./phonons.md).
+* [Spin-Polarized Calculations](./spin-polarized.md).
 
 
 * * *
