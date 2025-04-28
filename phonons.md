@@ -15,13 +15,18 @@ To assess a system's stability, one generates phonon dispersion spectra by:
 * Expanding the total energy as a second-order Taylor series around atomic equilibrium positions
 * Calculating forces produced by small atomic displacements (via finite differences or DFPT)
 * Constructing and diagonalizing the dynamical matrix to find eigenvalues (ω²) at each k-point
-Implementation approaches:
-* Supercell methods with explicit atomic displacements
-* More efficient linear-response calculations using density-functional perturbation theory within the primitive cell
+After this, some implementation approaches, such as supercell methods with explicit atomic displacements
+or more efficient linear-response calculations using density-functional perturbation theory within the primitive cell.
+
 Key conclusions from phonon calculations:
+
 * Imaginary modes (appearing as negative ω² values) reveal instabilities indicating potential structural distortions or phase transitions
 * Absence of imaginary modes confirms dynamic stability with the structure representing a true minimum on the potential energy surface
-Limitations of the method:
+
+As usual, these theoretical calculations also imply some limitations of the method:
+
 * Approximations inherent in DFT (exchange-correlation functional limitations)
 * Constraints of the harmonic approximation
 * Finite temperature effects not captured in ground-state calculations
+
+[Back to Home](index.md)
