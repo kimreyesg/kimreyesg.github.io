@@ -1,10 +1,9 @@
-# 🌐 Academic Website & Research Repository
+# 💻🧪 Academic Website & Research Repository
 
 Welcome!  
 This repository hosts the source code for my **personal academic website**, and serves as the starting point for sharing my research, teaching materials, and computational projects in **Solid State Physics** and **Quantum Mechanics**.
 
-🔗 **Visit the live site:** [https://kimreyesg.github.io/](https://kimreyesg.github.io/)  
-*(replace with your actual link!)*
+🔗 **Visit the live site:** [https://kimreyesg.github.io/](https://kimreyesg.github.io/)
 
 ---
 
@@ -32,8 +31,6 @@ Other specialized repositories (for codes and simulations) will be linked from t
 
 ## 📜 License
 Website content and associated materials are shared for academic and educational purposes.  
-If you wish to reuse substantial portions of code or content, please contact me for permission or collaboration.
-
 ---
 
 ## 📬 Contact
