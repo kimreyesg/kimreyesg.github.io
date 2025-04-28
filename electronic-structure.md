@@ -4,7 +4,7 @@ Electronic structure calculations are a cornerstone of modern materials science 
 
 
 <div style="text-align: center;">
-<img src="./bandstructure.png" alt="BandStruct" style="width: 150px; height: auto;">
+<img src="./bandstructure.png" alt="BandStruct" style="width: 300px; height: auto;">
 </div>
 
 Using methods like the **tight-binding model** and **density functional theory (DFT)**, researchers can study:
