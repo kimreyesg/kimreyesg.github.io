@@ -42,7 +42,7 @@ Similarly, Roy Plunkett, a chemist at DuPont, discovered polytetrafluoroethylene
 <p> I am Assistant Professor of Physics in the Physics and Astronomy Department at SUNY New Paltz, and my research focuses on studying materials using computational techniques. These techniques allow us to simulate the electronic behavior, optical response, and stability of material prototypes for various applications that meet current technological needs. In addition, I am passionate about teaching and combine my lectures with simulations and many problem-solving sessions.</p>
 </div>
 
-
+* [Simplified CV](./cv.md).
 
 * * *
 
@@ -52,29 +52,7 @@ Similarly, Roy Plunkett, a chemist at DuPont, discovered polytetrafluoroethylene
 <p>My long-term research objectives are centered on understanding and predicting the properties of materials from first principles. This includes a concerted effort to investigate advanced semiconductor materials, particularly intermediate band semiconductors, to explore their unique electronic properties and potential applications. Additionally, I seek to examine defects in solids, which play a critical role in determining material behavior, and to study magnetic materials using density functional theory. Through these investigations, I aim to enhance the computational materials design process and contribute to the development of innovative theoretical and computational techniques for novel and nanostructured materials.</p>
 </div>
 
-#### Recent Research:
 
-
-<div style="text-align: justify;">
-    <p>
-        <strong>Giant Narrow-Band Optical Absorption and Distinctive Excitonic Structures of Monolayer C<sub>3</sub>N and C<sub>3</sub>B</strong><br>
-        Z. Tang, G. J. Cruz, Y. Wu, W. Xia, F. Jia, W. Zhang, P. Zhang - <em>Physical Review Applied</em>, 2022
-    </p>
-</div>
-
-<div style="text-align: justify;">
-    <p>
-        <strong>Giant Excitonic Effects in Vacancy-Ordered Double Perovskites</strong><br>
-        F. Zhang, W. Gao, G. J. Cruz, Y. Sun, P. Zhang, J. Zhao - <em>Physical Review B</em>, 2023
-    </p>
-</div>
-
-<div style="text-align: justify;">
-    <p>
-        <strong>Quasiparticle Band Structures of the 4d Perovskite Oxides SrZrO<sub>3</sub> and BaZrO<sub>3</sub></strong><br>
-        G. Lopez-Candales, Z. Tang, G. J. Cruz, W. Xia, F. Jia - <em>Physical Review B</em>, 2021
-    </p>
-</div>
 
 [Google Scholar Profile](https://scholar.google.com/citations?user=R3wN1y8AAAAJ&hl=en)
 
