@@ -40,7 +40,7 @@ layout: default
 
 * * *
 
-# About
+### About
 
 <div style="text-align: center;">
 <img src="./portrait2.jpg" alt="Kim" style="width: 150px; height: auto;">
@@ -57,7 +57,7 @@ layout: default
 
 * * *
 
-## Research
+### Research
 
 <div style="text-align: justify;">
 <p>My long-term research objectives are centered on understanding and predicting the properties of materials from first principles. This includes a concerted effort to investigate advanced semiconductor materials, particularly intermediate band semiconductors, to explore their unique electronic properties and potential applications. Additionally, I seek to examine defects in solids, which play a critical role in determining material behavior, and to study magnetic materials using density functional theory. Through these investigations, I aim to enhance the computational materials design process and contribute to the development of innovative theoretical and computational techniques for novel and nanostructured materials.</p>
@@ -69,7 +69,7 @@ layout: default
 
 * * *
 
-## Teaching
+### Teaching
 
 
 <div style="text-align: justify;">
@@ -87,7 +87,7 @@ layout: default
 |              | General Physics Lab 2 | 1 |
 
 
-## Contact
+### Contact
 <dl>
 <dt>Email:</dt>
 <dd>kimreyesg@newpaltz.edu</dd>
