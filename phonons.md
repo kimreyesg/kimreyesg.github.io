@@ -9,7 +9,7 @@ Phonon calculations probe the vibrational properties of a crystal by computing i
 <p> A vibrational mode of a diatomic molecule</p>
 </div>
 
-## Harmonic Approximation
+### Harmonic Approximation
 
 To assess a system's stability, one generates phonon dispersion spectra by:
 * Expanding the total energy as a second-order Taylor series around atomic equilibrium positions
