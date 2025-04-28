@@ -72,3 +72,13 @@ body {
       padding: 10px;
     }
   }
+  @media (max-width: 768px) {
+    nav ul {
+      display: none; /* Hide the menu by default */
+      flex-direction: column;
+    }
+  
+    nav:hover ul {
+      display: flex; /* Show the menu on hover */
+    }
+  }
