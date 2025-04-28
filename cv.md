@@ -5,21 +5,19 @@
 - 2017-2024 **Ph.D. in Physics**
 
     - University at Buffalo, SUNY, Buffalo, New York, US
-        - Theoretical Condensed Matter Physics and Materials Science
-        - Thesis: Defect-Enable Novel Properties: Photocatalyst, Intermediate Band Semiconductors and Magnetism
+         Thesis: Defect-Enable Novel Properties: Photocatalyst, Intermediate Band Semiconductors and Magnetism
 
 - 2010-2014 **Master in Science: Physics**
 
     - Universidad Nacional de Colombia, Bogotá, Colombia
-        - Theoretical Condensed Matter Physics
-        - Thesis: Diagrama de Fases de Átomos Bosónicos Sujetos a Confinamiento no Diagonal
+        Thesis: Diagrama de Fases de Átomos Bosónicos Sujetos a Confinamiento no Diagonal
 
 - 2004-2010 **Bachelor's Degree: Physics-Education**
 
     - Universidad Distrital Francisco José de Caldas, Bogotá, Colombia
 
 ### Academic Experience
-Fall 2024 - present  **Assistant Professor of Physics**
+2024 - present  **Assistant Professor of Physics**
 
 - SUNY New Paltz, Department of Physics and Astronomy
 
@@ -36,27 +34,19 @@ Fall 2024 - present  **Assistant Professor of Physics**
 - Universidad Distrital Francisco José de Caldas, Bogotá, Colombia
 
 ### Research Experience
-2019-2024  Doctoral Researcher
+2019-2024  **Doctoral Researcher**
 
-University at Buffalo, SUNY
-Predicted electronic, optical, and stability properties of semiconductors using Density Functional Theory (DFT)
+SUNY Buffalo.
 Key projects:
 
-* Intermediate Band semiconductors for solar cell technology
-* Jahn-Teller effect on CdS doped with Ni
-* Excitonic properties of 2D C3N and C3B alloys
+1. Intermediate Band semiconductors for solar cell technology
+1. Jahn-Teller effect on CdS doped with Ni
+1. Excitonic properties of 2D C<sub>3</sub>N and C<sub>3</sub>B alloys
 
-2015-2017  Research Assistant
+2015-2017  **Research Assistant**
 
 Universidad Nacional de Colombia, Group of Correlated Systems (SISCO)
 Researched ground state phase diagrams of Bosonic systems in one dimension using DMRG
-
-### Technical Skills
-
-* Programming: Fortran, Bash, Mathematica
-* Software: VASP, Quantum Espresso, PARATEC, Berkeley GW, Phonopy, LOBSTER
-* Document Preparation: LaTeX, Inkscape
-* Learning Management: Blackboard-Brightspace
 
 ### Selected Publications
 
@@ -83,9 +73,9 @@ Researched ground state phase diagrams of Bosonic systems in one dimension using
 
 ### Awards
 
-* Bahethi Scholarship, SUNY Buffalo, Buffalo, New York (2022)
-* Silvestro Scholarship, SUNY Buffalo, Buffalo, New York (2022)
-* Marshall Plan Foundation, Johannes Keppler Universität, Linz, Austria (2018)
+1. Bahethi Scholarship, SUNY Buffalo, Buffalo, New York (2022)
+1. Silvestro Scholarship, SUNY Buffalo, Buffalo, New York (2022)
+1. Marshall Plan Foundation, Johannes Keppler Universität, Linz, Austria (2018)
 
 ### Languages
 
