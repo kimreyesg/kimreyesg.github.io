@@ -14,8 +14,18 @@ layout: default
 <div style="text-align: justify;">
 <p>The study and design of materials form the backbone of modern technology. The extensive effort and meticulous attention to detail involved in every device we use daily represent a remarkable journey of exploration, research, and calculations with, sometimes, intriguing origins.</p>
 
-<p>Over the years, many essential materials have been discovered by chance. For instance, saccharin was accidentally found in 1879 by Constantine Fahlberg while working at Johns Hopkins University, where he noticed a sweet taste on his hands after handling coal tar derivatives. 
-Similarly, Roy Plunkett, a chemist at DuPont, discovered polytetrafluoroethylene (PTFE), later known as Teflon, in 1938 while researching refrigerants.  And how to forget the very first Nobel Prize in Physics: X-rays, which Wilhelm Conrad Roentgen, a German physicist, stumbled upon in 1895 during experiments with cathode ray tubes. </p>
+<div style="display: flex; align-items: flex-start; gap: 20px;">
+    <div style="flex: 2; text-align: justify;">
+        <p>Over the years, many essential materials have been discovered by chance. For instance, saccharin was accidentally found in 1879 by Constantine Fahlberg while working at Johns Hopkins University, where he noticed a sweet taste on his hands after handling coal tar derivatives. 
+        Similarly, Roy Plunkett, a chemist at DuPont, discovered polytetrafluoroethylene (PTFE), later known as Teflon, in 1938 while researching refrigerants. And how to forget the very first Nobel Prize in Physics: X-rays, which Wilhelm Conrad Roentgen, a German physicist, stumbled upon in 1895 during experiments with cathode ray tubes.</p>
+    </div>
+    <div style="flex: 1; text-align: center;">
+        <img src="./Fahlberg.png" alt="Fahlberg" style="width: 150px; height: auto;">
+        <div style="font-size: 0.9em; color: gray;">
+            <p>Fahlberg imagined by ChatGPT.</p>
+        </div>
+    </div>
+</div>
 
  <p>While these histories evoke admiration due to their roots in genuine curiosity and consistent work, today, a vast field of opportunities has emerged through computational techniques. First-principle methods enable us to simulate the electronic behavior, optical response, and stability of material prototypes for various applications that are projected to contemporary technological needs. Even more recently, Machine Learning techniques have transformed the landscape of materials search by predicting a significant number of prototype materials capable of optimizing and launching new materials.</p>
 </div>
@@ -54,7 +64,7 @@ Similarly, Roy Plunkett, a chemist at DuPont, discovered polytetrafluoroethylene
 
 
 
-[Google Scholar Profile](https://scholar.google.com/citations?user=R3wN1y8AAAAJ&hl=en).
+* [Google Scholar Profile](https://scholar.google.com/citations?user=R3wN1y8AAAAJ&hl=en).
 
 * * *
 
