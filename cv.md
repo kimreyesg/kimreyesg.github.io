@@ -1,6 +1,6 @@
 # Simplified CV
-### Greis J. Kim Reyes, Ph.D.
-### Education
+## Greis J. Kim Reyes, Ph.D.
+## Education
 
 - 2017-2024 **Ph.D. in Physics**
 
@@ -16,7 +16,7 @@
 
     - Universidad Distrital Francisco José de Caldas, Bogotá, Colombia
 
-### Academic Experience
+## Academic Experience
 2024 - present  **Assistant Professor of Physics**
 
 - SUNY New Paltz, Department of Physics and Astronomy
@@ -33,7 +33,7 @@
 
 - Universidad Distrital Francisco José de Caldas, Bogotá, Colombia
 
-### Research Experience
+## Research Experience
 2019-2024  **Doctoral Researcher**
 
 SUNY Buffalo.
@@ -48,7 +48,7 @@ Key projects:
 Universidad Nacional de Colombia, Group of Correlated Systems (SISCO)
 Researched ground state phase diagrams of Bosonic systems in one dimension using DMRG
 
-### Selected Publications
+## Selected Publications
 
 <div style="text-align: justify;">
     <p>
@@ -71,13 +71,13 @@ Researched ground state phase diagrams of Bosonic systems in one dimension using
     </p>
 </div>
 
-### Awards
+## Awards
 
 1. Bahethi Scholarship, SUNY Buffalo, Buffalo, New York (2022)
 1. Silvestro Scholarship, SUNY Buffalo, Buffalo, New York (2022)
 1. Marshall Plan Foundation, Johannes Keppler Universität, Linz, Austria (2018)
 
-### Languages
+## Languages
 
 1. Spanish (Native)
 1. English (Professional)
