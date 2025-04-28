@@ -12,7 +12,6 @@ layout: default
 </div>
 
 <div style="text-align: justify;">
-
 <p> The study and design of materials form the backbone of modern technology. The extensive effort and meticulous attention to detail involved in every device we use daily represent a remarkable journey of exploration, research, and calculations with, sometimes, intriguing origins.</p>
 
 <p> Over the years, many essential materials have been discovered by chance. For instance, saccharin was accidentally found in 1879 by Constantine Fahlberg while working at Johns Hopkins University, where he noticed a sweet taste on his hands after handling coal tar derivatives. 
@@ -38,8 +37,8 @@ Solid-state computational techniques play a critical role in advancing our under
 <p>Dr. Greis J. Kim Reyes</p>
 </div>
 
-<div style="text-align: justify;">
-<p>I am Assistant Professor of Physics in the Physics and Astronomy Department at SUNY New Paltz, and my research focuses on studying materials using computational techniques. These techniques allow us to simulate the electronic behavior, optical response, and stability of material prototypes for various applications that meet current technological needs. In addition, I am passionate about teaching and combine my lectures with simulations and many problem-solving sessions.</p>
+
+I am Assistant Professor of Physics in the Physics and Astronomy Department at SUNY New Paltz, and my research focuses on studying materials using computational techniques. These techniques allow us to simulate the electronic behavior, optical response, and stability of material prototypes for various applications that meet current technological needs. In addition, I am passionate about teaching and combine my lectures with simulations and many problem-solving sessions.
 
 
 
@@ -47,8 +46,7 @@ Solid-state computational techniques play a critical role in advancing our under
 
 ### Research
 
-<div style="text-align: justify;">
-<p>My long-term research objectives are centered on understanding and predicting the properties of materials from first principles. This includes a concerted effort to investigate advanced semiconductor materials, particularly intermediate band semiconductors, to explore their unique electronic properties and potential applications. Additionally, I seek to examine defects in solids, which play a critical role in determining material behavior, and to study magnetic materials using density functional theory. Through these investigations, I aim to enhance the computational materials design process and contribute to the development of innovative theoretical and computational techniques for novel and nanostructured materials.</p>
+My long-term research objectives are centered on understanding and predicting the properties of materials from first principles. This includes a concerted effort to investigate advanced semiconductor materials, particularly intermediate band semiconductors, to explore their unique electronic properties and potential applications. Additionally, I seek to examine defects in solids, which play a critical role in determining material behavior, and to study magnetic materials using density functional theory. Through these investigations, I aim to enhance the computational materials design process and contribute to the development of innovative theoretical and computational techniques for novel and nanostructured materials.
 
 #### Recent Research:
 
@@ -80,9 +78,8 @@ Solid-state computational techniques play a critical role in advancing our under
 
 ### Teaching
 
-<div style="text-align: justify;">
-<p>
-Teaching is one of my greatest passions. I believe that education is a two-way street where I not only share knowledge but also learn from my students' unique perspectives and insights. Over the years, I have had the privilege of teaching a variety of courses, ranging from introductory physics to quantum mechanics. My teaching philosophy emphasizes clarity, engagement, and the integration of real-world applications to make complex concepts accessible and relatable. I strive to create an interactive learning environment where students feel encouraged to ask questions, think critically, and explore the world of physics.</p>
+
+Teaching is one of my greatest passions. I believe that education is a two-way street where I not only share knowledge but also learn from my students' unique perspectives and insights. Over the years, I have had the privilege of teaching a variety of courses, ranging from introductory physics to quantum mechanics. My teaching philosophy emphasizes clarity, engagement, and the integration of real-world applications to make complex concepts accessible and relatable. I strive to create an interactive learning environment where students feel encouraged to ask questions, think critically, and explore the world of physics.
 
 | Year        | Course         | Credits |
 |:-------------|:------------------|:------|
