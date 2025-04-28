@@ -91,6 +91,8 @@ Teaching is one of my greatest passions. I believe that education is a two-way s
 <dt>Email:</dt>
 <dd>kimreyesg@newpaltz.edu</dd>
 <dt>Office:</dt>
+<dd>State University of New York at New Paltz</dd>
+<dd>Physics and Astronomy Department</dd>
 <dd>Science Hall 275</dd>
 <dt>Phone:</dt>
 <dd>(845) 257-3734</dd>
