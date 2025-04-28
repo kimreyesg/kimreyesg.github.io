@@ -13,13 +13,14 @@ layout: default
 
 <div style="text-align: justify;">
 <p>
-The study and design of materials form the backbone of modern technology. The extensive effort and meticulous attention to detail involved in every device we use daily represent a remarkable journey of exploration, research, and calculations with intriguing origins. Over the years, many essential materials have been discovered by chance. For instance, saccharin was accidentally found in 1879 by Constantine Fahlberg while working at Johns Hopkins University, where he noticed a sweet taste on his hands after handling coal tar derivatives. Similarly, Roy Plunkett, a chemist at DuPont, discovered polytetrafluoroethylene (PTFE), later known as Teflon, in 1938 while researching refrigerants. Another notable accident in discovery occurred with X-rays, which Wilhelm Conrad Roentgen, a German physicist, stumbled upon in 1895 during experiments with cathode ray tubes.
+The study and design of materials form the backbone of modern technology. The extensive effort and meticulous attention to detail involved in every device we use daily represent a remarkable journey of exploration, research, and calculations with, sometimes, intriguing origins. Over the years, many essential materials have been discovered by chance. 
 
-While these histories inspire awe due to their roots in genuine curiosity, today, a vast field of opportunities has emerged through computational techniques. First-principle methods enable us to simulate the electronic behavior, optical response, and stability of material prototypes for various applications that cater to contemporary technological needs. More recently, machine learning techniques have transformed the landscape of materials search by predicting a significant number of prototype materials capable of optimizing and launching new materials.
+* For instance, saccharin was accidentally found in 1879 by Constantine Fahlberg while working at Johns Hopkins University, where he noticed a sweet taste on his hands after handling coal tar derivatives. 
+* Similarly, Roy Plunkett, a chemist at DuPont, discovered polytetrafluoroethylene (PTFE), later known as Teflon, in 1938 while researching refrigerants. 
+* Another notable accident in discovery occurred with X-rays, which Wilhelm Conrad Roentgen, a German physicist, stumbled upon in 1895 during experiments with cathode ray tubes.
+
+While these histories inspire awe due to their roots in genuine curiosity, today, a vast field of opportunities has emerged through computational techniques. First-principle methods enable us to simulate the electronic behavior, optical response, and stability of material prototypes for various applications that cater to contemporary technological needs. Even more recently, machine learning techniques have transformed the landscape of materials search by predicting a significant number of prototype materials capable of optimizing and launching new materials.
 </p>
-
-
- 
 
 ## Overview
 
