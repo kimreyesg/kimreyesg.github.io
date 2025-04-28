@@ -9,7 +9,7 @@ This repository hosts the source code for my **personal academic website**, and 
 
 ## 📚 About This Project
 
-As a new Assistant Professor of Physics, I am building this GitHub space to:
+I am building this GitHub space to:
 
 - **Track research projects** in computational physics and materials science.
 - **Organize and share teaching resources** for undergraduate and graduate courses, including simulation codes, demonstrations, and course materials.
