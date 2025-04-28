@@ -33,9 +33,9 @@ After conducting electronic structure calculations, we can derive a band structu
 
 Despite its broad success, standard DFT is known to systematically: 
 
-DFT tends to underestimate the band gap.
+* Underestimate the band gap.
 
-Strongly correlated materials (e.g., transition metal oxides) are poorly described by standard DFT.
+* Strongly correlated materials (e.g., transition metal oxides) are poorly described by standard DFT.
 
-Need for higher-level corrections (e.g., GW approximation, hybrid functionals).
+* Need for higher-level corrections (e.g., GW approximation, hybrid functionals).
 [Back to Home](index.md)
