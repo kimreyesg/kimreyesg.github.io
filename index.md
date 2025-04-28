@@ -22,9 +22,6 @@ Similarly, Roy Plunkett, a chemist at DuPont, discovered polytetrafluoroethylene
 
 
 ### Solid-State Calculations at a Glance
-<div style="text-align: justify;">
-<p>Solid-state computational techniques play a critical role in advancing our understanding of materials properties. This section provides an overview of selected methods, including electronic structure, phonon, and spin-polarized calculations.</p>
-</div>
 
 * [Electronic Structure Calculations](./electronic-structure.md).
 
