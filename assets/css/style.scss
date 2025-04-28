@@ -61,4 +61,14 @@ body {
       height: auto;
     }
   }
-
+  @media (max-width: 768px) {
+    body {
+      margin: 0;
+      padding: 0 10px;
+    }
+  
+    .content {
+      margin: 0;
+      padding: 10px;
+    }
+  }
