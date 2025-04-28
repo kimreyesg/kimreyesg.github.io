@@ -81,6 +81,6 @@ Researched ground state phase diagrams of Bosonic systems in one dimension using
 
 1. Spanish (Native)
 1. English (Professional)
-1. Korean (Enthusiatish)
+1. Korean (Enthusiat)
 
 [Back to Home](index.md)
