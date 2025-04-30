@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Computational Solid State
+## Welcome!
 
 <div style="text-align: justify;">
 <p>The study and design of materials form the backbone of modern technology. The extensive effort and meticulous attention to detail in every device we use daily represent a remarkable journey of exploration, research, and calculations with, sometimes, intriguing origins.</p>
