@@ -1,8 +1,10 @@
 # Spin-Polarized DFT Calculations
 
 **What are Spin-Polarized Calculations?**
+<div style="text-align: justify;">
+<p>Spin-polarized calculations in Density Functional Theory (DFT) refer to computational approaches where electrons with different spin states (up and down) are treated separately. Unlike standard DFT calculations that assume equal populations of spin-up and spin-down electrons, spin-polarized DFT explicitly accounts for potential imbalances between these populations.</p>
+</div>
 
-Spin-polarized calculations in Density Functional Theory (DFT) refer to computational approaches where electrons with different spin states (up and down) are treated separately. Unlike standard DFT calculations that assume equal populations of spin-up and spin-down electrons, spin-polarized DFT explicitly accounts for potential imbalances between these populations.
 
 <div style="text-align: center;">
 <img src="./spin-polarize band structure.png" alt="SPBandStruct" style="width: 450px; height: auto;">
