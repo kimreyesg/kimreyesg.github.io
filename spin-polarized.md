@@ -15,14 +15,10 @@
 
 In spin-polarized DFT is different from standard DFT when:
 
-* The electron density is separated into two components: $n_↑(r)$ and $n_↓(r)$
-* The total electron density is: $n(r) = n_↑(r) + n_↓(r)$
-* The magnetization density is defined as: $m(r) = n_↑(r) - n_↓(r)$
+* The electron density is separated into two components: Spin Up and Spin Down.
 * The Kohn-Sham equations are solved separately for each spin channel
-* Exchange-correlation functionals depend on both spin densities
 
 **Why Spin-Polarized DFT is Useful**
-
 
 * Magnetic Materials: Ferromagnetic, antiferromagnetic, and ferrimagnetic systems
 * Open-Shell Systems: Molecules or solids with unpaired electrons
