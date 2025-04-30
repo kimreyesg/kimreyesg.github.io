@@ -9,8 +9,8 @@ layout: default
 
 <div style="display: flex; align-items: flex-start; gap: 20px;">
     <div style="flex: 2; text-align: justify;">
-        <p>Many essential materials have been discovered by chance. For instance, saccharin was accidentally found in 1879 by Constantine Fahlberg when he noticed a sweet taste on his hands after handling coal tar derivatives. 
-        Similarly, Roy Plunkett, a chemist at DuPont, discovered polytetrafluoroethylene (PTFE), later known as Teflon, in 1938 while researching refrigerants. And how to forget the first Nobel Prize in Physics: X-rays, which Wilhelm Roentgen, a German physicist, stumbled upon in 1895 during experiments with cathode ray tubes.</p>
+        <p>Many essential materials have been discovered by <b>chance</b>. For instance, <b>saccharin</b> was accidentally found in 1879 by Constantine Fahlberg when he noticed a sweet taste on his hands after handling coal tar derivatives. 
+        Similarly, Roy Plunkett, a chemist at DuPont, discovered polytetrafluoroethylene (PTFE), later known as <b>Teflon</b>b>, in 1938 while researching refrigerants. And how to forget the first Nobel Prize in Physics: <b>X-rays</b>, which Wilhelm Roentgen, a German physicist, stumbled upon in 1895 during experiments with cathode ray tubes.</p>
     </div>
     <div style="flex: 1; text-align: center;">
         <img src="./Fahlberg.png" alt="Fahlberg" style="width: 150px; height: auto;">
@@ -20,7 +20,7 @@ layout: default
     </div>
 </div>
 
- <p>While these histories evoke admiration due to their roots in genuine curiosity and consistent work, today, a vast field of opportunities has emerged through computational techniques. First-principle methods enable us to simulate the electronic behavior, optical response, and stability of material prototypes for various applications that are projected to meet contemporary technological needs. Even more recently, Machine Learning techniques have transformed the landscape of materials search by predicting a significant number of prototype materials capable of optimizing and launching a new way to find new materials. This website aims to introduce undergraduate students to solid state calculations, requiring them to understand physics, acquire computational techniques, engage in critical analysis, and cultivate curiosity about new ways of discovering materials.</p>
+ <p>While these histories evoke admiration due to their roots in genuine curiosity and consistent work, today, a vast field of opportunities has emerged through computational techniques. <b>First-principle Methods</b> enable us to simulate the electronic behavior, optical response, and stability of material prototypes for various applications that are projected to meet contemporary technological needs. Even more recently, <b>Machine Learning</b> techniques have transformed the landscape of materials search by predicting a significant number of prototype materials capable of optimizing and launching a new way to find new materials. This website aims to introduce undergraduate students to solid state calculations, requiring them to understand physics, acquire computational techniques, engage in critical analysis, and cultivate curiosity about new ways of discovering materials.</p>
 </div>
 
 
