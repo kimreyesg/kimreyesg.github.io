@@ -1,5 +1,6 @@
 # Simplified CV
-## Greis J. Kim Reyes, Ph.D.
+## Greis J. Kim Reyes, Ph.D. 
+(Greis J. Cruz Reyes)
 ### Education
 
 - 2017-2024 **Ph.D. in Physics**
