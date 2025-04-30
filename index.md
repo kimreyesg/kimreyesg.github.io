@@ -4,13 +4,6 @@ layout: default
 
 # Computational Solid State
 
-<div style="text-align: center; margin: 20px 0;">
-  <img src="./structure_spin_soft.gif" alt="Rotating Structure" style="max-width: 200px; width: 100%; height: auto;">
-</div>
-<div style="text-align: center; font-size: 0.9em; color: gray;">
-<p> NaCl, Sodium Chloride Crystal Structure 🧂</p>
-</div>
-
 <div style="text-align: justify;">
 <p>The study and design of materials form the backbone of modern technology. The extensive effort and meticulous attention to detail involved in every device we use daily represent a remarkable journey of exploration, research, and calculations with, sometimes, intriguing origins.</p>
 
