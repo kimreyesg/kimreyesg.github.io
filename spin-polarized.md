@@ -4,6 +4,13 @@
 
 Spin-polarized calculations in Density Functional Theory (DFT) refer to computational approaches where electrons with different spin states (up and down) are treated separately. Unlike standard DFT calculations that assume equal populations of spin-up and spin-down electrons, spin-polarized DFT explicitly accounts for potential imbalances between these populations.
 
+<div style="text-align: center;">
+<img src="./spin-polarize band structure.png" alt="SPBandStruct" style="width: 300px; height: auto;">
+</div>
+<div style="text-align: center; font-size: 0.9em; color: gray;">
+<p>A generic Band Structure</p>
+</div>
+
 In spin-polarized DFT is different from standard DFT when:
 
 * The electron density is separated into two components: $n_↑(r)$ and $n_↓(r)$
