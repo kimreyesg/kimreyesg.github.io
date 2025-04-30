@@ -2,7 +2,7 @@
 
 Welcome!  
 
-This repository hosts the source code for my **personal academic website**, and serves as the starting point for sharing my research, teaching materials, and computational projects in **Solid State Physics**💎 and **Quantum Mechanics** 🐈.
+This repository hosts the source code for my **academic website**, and serves as the starting point for sharing my research, teaching materials, and computational projects in **Solid State Physics**💎 and **Quantum Mechanics** 🐈.
 
 🔗 **Visit the live site:** [https://kimreyesg.github.io/](https://kimreyesg.github.io/)
 
