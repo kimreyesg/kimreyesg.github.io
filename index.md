@@ -79,6 +79,8 @@ layout: default
 |              | Quantum Physics   | 3     |
 |              | General Physics Lab 2 | 1 |
 
+<a href="https://github.com/kimreyesg/Quantum-Mechanics-with-Mathematica" target="_blank">Quantum Mechanics with Mathematica</a>
+
 
 ### Contact
 <dl>
