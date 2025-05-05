@@ -88,7 +88,7 @@
 ### Languages
 
 1. Spanish (Native)
-1. English (Professional)
-1. Korean (Enthusiat)
+1. English 
+1. Korean (Enthusiast)
 
 [Back to Home](index.md)
