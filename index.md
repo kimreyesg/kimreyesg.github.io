@@ -13,7 +13,7 @@ layout: default
         Similarly, Roy Plunkett, a chemist at DuPont, discovered polytetrafluoroethylene (PTFE), later known as <b>Teflon</b>, in 1938 while researching refrigerants.</p>
     </div>
     <div style="flex: 1; text-align: center;">
-        <img src="./plunkett_2.jpg" alt="Plunkett" style="100%; max-width: 300px; height: auto;">
+        <img src="./plunkett_2.jpg" alt="Plunkett" style="100%; max-width: 250px; height: auto;">
         <div style="font-size: 0.7em; color: gray;">
             <p> Left to right: Jack Rebok, Robert McHarness, and Roy Plunkett</p>
         </div>
@@ -22,7 +22,7 @@ layout: default
 
 <div style="display: flex; align-items: flex-start; gap: 20px;">
     <div style="flex: 1; text-align: center;">
-        <img src="./stainless.png" alt="Stainless Steel" style="width: 80%; height: auto;">
+        <img src="./stainless.png" alt="Stainless Steel" style="100%; max-width: 250px; height: auto;">
         <div style="font-size: 0.7em; color: gray;">
             <p> Stainless steel revolutionized modern society.</p>
         </div>
