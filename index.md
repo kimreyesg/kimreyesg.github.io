@@ -13,7 +13,7 @@ layout: default
         Similarly, Roy Plunkett, a chemist at DuPont, discovered polytetrafluoroethylene (PTFE), later known as <b>Teflon</b>, in 1938 while researching refrigerants.</p>
     </div>
     <div style="flex: 1; text-align: center;">
-        <img src="./plunkett_2.jpg" alt="Plunkett" style="width: 400px; height: auto;">
+        <img src="./plunkett_2.jpg" alt="Plunkett" style="width: 80%; height: auto;">
         <div style="font-size: 0.7em; color: gray;">
             <p> Left to right: Jack Rebok, Robert McHarness, and Roy Plunkett</p>
         </div>
@@ -22,13 +22,13 @@ layout: default
 
 <div style="display: flex; align-items: flex-start; gap: 20px;">
     <div style="flex: 1; text-align: center;">
-        <img src="./stainless.png" alt="Stainless Steel" style="width: 400px; height: auto;">
+        <img src="./stainless.png" alt="Stainless Steel" style="width: 80%; height: auto;">
         <div style="font-size: 0.7em; color: gray;">
             <p> Stainless steel revolutionized modern society.</p>
         </div>
     </div>
     <div style="flex: 2; text-align: justify;">
-        <p>Brearley was experimenting with steel alloys to make more erosion-resistant gun barrels. He created a steel with about 12% chromium, and later noticed that a discarded sample hadn’t rusted, unlike others. This accidental observation led to the birth of <b>stainless steel</b>.</p>
+        <p>Brearley was experimenting with steel alloys to make more erosion-resistant gun barrels. He created a steel with about 12% chromium, and later noticed that a discarded sample hadn’t rusted, unlike others. This accidental observation led to the birth of stainless steel.</p>
     </div>
 </div>
 
