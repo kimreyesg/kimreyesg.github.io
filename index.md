@@ -28,7 +28,7 @@ layout: default
         </div>
     </div>
     <div style="flex: 2; text-align: justify;">
-        <p>Brearley was experimenting with steel alloys to make more erosion-resistant gun barrels. He created a steel with about 12% chromium, and later noticed that a discarded sample hadn’t rusted, unlike others. This accidental observation led to the birth of stainless steel.</p>
+        <p>Brearley was experimenting with steel alloys to make more erosion-resistant gun barrels. He created a steel with about 12% chromium, and later noticed that a discarded sample hadn’t rusted, unlike others. This accidental observation led to the birth of <b>stainless steel</b>.</p>
     </div>
 </div>
 
