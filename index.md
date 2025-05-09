@@ -13,7 +13,7 @@ layout: default
         Similarly, Roy Plunkett, a chemist at DuPont, discovered polytetrafluoroethylene (PTFE), later known as <b>Teflon</b>, in 1938 while researching refrigerants. And how to forget the first Nobel Prize in Physics: <b>X-rays</b>, which Wilhelm Roentgen, a German physicist, stumbled upon in 1895 during experiments with cathode ray tubes.</p>
     </div>
     <div style="flex: 1; text-align: center;">
-        <img src="./plunkett_2.png" alt="Fahlberg" style="width: 150px; height: auto;">
+        <img src="./plunkett_2.png" alt="Plunkett" style="width: 150px; height: auto;">
         <div style="font-size: 0.9em; color: gray;">
             <p>Reenactment of the 1938 discovery of Teflon. Left to right: Jack Rebok, Robert McHarness, and [Roy Plunkett](https://https://www.sciencehistory.org/education/scientific-biographies/roy-j-plunkett/)</p>
         </div>
