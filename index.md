@@ -14,7 +14,7 @@ layout: default
     </div>
     <div style="flex: 1; text-align: center;">
         <img src="./plunkett_2.jpg" alt="Plunkett" style="width: 200px; height: auto;">
-        <div style="font-size: 0.9em; color: gray;">
+        <div style="font-size: 0.7em; color: gray;">
             <p> Left to right: Jack Rebok, Robert McHarness, and Roy Plunkett</p>
         </div>
     </div>
