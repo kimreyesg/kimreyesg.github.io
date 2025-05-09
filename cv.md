@@ -52,7 +52,7 @@
 
 - Universidad Nacional de Colombia.
 - Group of Correlated Systems (SISCO)
-- Researched ground state phase diagrams of Bosonic systems in one dimension using DMRG
+- Ground state phase diagrams of Bosonic systems in one dimension using DMRG
 
 * * *
 ### Selected Publications
