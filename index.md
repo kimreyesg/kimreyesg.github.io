@@ -15,7 +15,7 @@ layout: default
     <div style="flex: 1; text-align: center;">
         <img src="./plunkett_2.jpg" alt="Plunkett" style="width: 200px; height: auto;">
         <div style="font-size: 0.9em; color: gray;">
-            <p>Reenactment of the 1938 discovery of Teflon. Left to right: Jack Rebok, Robert McHarness, and [Roy Plunkett](https://https://www.sciencehistory.org/education/scientific-biographies/roy-j-plunkett/)</p>
+            <p> Left to right: Jack Rebok, Robert McHarness, and Roy Plunkett</p>
         </div>
     </div>
 </div>
