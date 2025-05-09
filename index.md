@@ -10,7 +10,7 @@ layout: default
 <div style="display: flex; align-items: flex-start; gap: 20px;">
     <div style="flex: 2; text-align: justify;">
         <p>Many essential materials have been discovered by <b>chance</b>. For instance, <b>saccharin</b> was accidentally found in 1879 by Fahlberg when he noticed a sweet taste on his hands after handling coal tar derivatives. 
-        Similarly, Roy Plunkett, a chemist at DuPont, discovered polytetrafluoroethylene (PTFE), later known as <b>Teflon</b>, in 1938 while researching refrigerants. And how to forget the first Nobel Prize in Physics: <b>X-rays</b>, which Wilhelm Roentgen, a German physicist, stumbled upon in 1895 during experiments with cathode ray tubes.</p>
+        Similarly, Roy Plunkett, a chemist at DuPont, discovered polytetrafluoroethylene (PTFE), later known as <b>Teflon</b>, in 1938 while researching refrigerants.
     </div>
     <div style="flex: 1; text-align: center;">
         <img src="./plunkett_2.jpg" alt="Plunkett" style="width: 250px; height: auto;">
