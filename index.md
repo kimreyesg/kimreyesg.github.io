@@ -13,7 +13,7 @@ layout: default
         Similarly, Roy Plunkett, a chemist at DuPont, discovered polytetrafluoroethylene (PTFE), later known as <b>Teflon</b>, in 1938 while researching refrigerants.</p>
     </div>
     <div style="flex: 1; text-align: center;">
-        <img src="./plunkett_2.jpg" alt="Plunkett" style="width: 300px; height: auto;">
+        <img src="./plunkett_2.jpg" alt="Plunkett" style="width: 400px; height: auto;">
         <div style="font-size: 0.7em; color: gray;">
             <p> Left to right: Jack Rebok, Robert McHarness, and Roy Plunkett</p>
         </div>
@@ -22,7 +22,7 @@ layout: default
 
 <div style="display: flex; align-items: flex-start; gap: 20px;">
     <div style="flex: 1; text-align: center;">
-        <img src="./stainless.png" alt="Stainless Steel" style="width: 300px; height: auto;">
+        <img src="./stainless.png" alt="Stainless Steel" style="width: 400px; height: auto;">
         <div style="font-size: 0.7em; color: gray;">
             <p> Stainless steel revolutionized modern society.</p>
         </div>
@@ -67,7 +67,7 @@ layout: default
 ### Research
 
 <div style="text-align: justify;">
-<p>My research aims to comprehend and forecast the characteristics of materials. Specifically, I’m dedicated to investigating advanced semiconductor materials, particularly intermediate band semiconductors and perovskites, understanding the electronic properties, and exploring their potential applications. Furthermore, I’m interested in studying defects in solids, which significantly influence material behavior, and employing density functional theory to study magnetic materials.</p>
+<p>I am dedicated to investigating semiconductor materials, particularly intermediate band semiconductors, to understand their electronic properties and explore their potential applications. Additionally, I am interested in studying defects in solids and magnetic materials.</p>
 </div>
 
 * [Google Scholar Profile](https://scholar.google.com/citations?user=R3wN1y8AAAAJ&hl=en).
@@ -78,7 +78,7 @@ layout: default
 
 
 <div style="text-align: justify;">
-<p>Teaching is one of my greatest passions. Over the years, I’ve had the privilege of teaching various courses, from introductory physics to quantum mechanics. My teaching philosophy emphasizes clarity and engagement. I strive to create an interactive learning environment where students feel encouraged to ask questions, think critically, and explore the world of physics. For instance, my Quantum Physics course has been introduced alongside the use of Mathematica, which I believe will help students develop the new physics intuition required for analyzing quantum materials.</p>
+<p>Teaching is one of my greatest passions. I want to create an interactive learning environment where students feel encouraged to ask questions, think critically, and explore the world of physics. My Quantum Physics course has been introduced alongside the use of Mathematica, which I believe will help students develop the new physics intuition required for analyzing quantum materials and many other topics.</p>
 </div>
 
 
