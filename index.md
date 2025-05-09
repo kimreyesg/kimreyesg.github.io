@@ -18,12 +18,6 @@ layout: default
             <p> Left to right: Jack Rebok, Robert McHarness, and Roy Plunkett</p>
         </div>
     </div>
-    <div style="flex: 1; text-align: center;">
-        <img src="./plunkett_2.jpg" alt="Plunkett" style="width: 250px; height: auto;">
-        <div style="font-size: 0.7em; color: gray;">
-            <p> Left to right: Jack Rebok, Robert McHarness, and Roy Plunkett</p>
-        </div>
-    </div>
 </div>
 
  <p>While these histories evoke admiration due to their roots in genuine curiosity and consistent work, today, a vast field of opportunities has emerged through computational techniques. <b>First-principle Methods</b> enable us to simulate the electronic behavior, optical response, and stability of material prototypes for various applications that are projected to meet contemporary technological needs. Even more recently, <b>Machine Learning</b> techniques have transformed the landscape of materials search by predicting many prototype materials capable of optimizing and launching a new way to find new materials. This website aims to introduce undergraduate students to solid state calculations, requiring them to understand physics, acquire computational techniques, engage in critical analysis, and cultivate curiosity about new ways of discovering materials.</p>
