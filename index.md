@@ -54,7 +54,7 @@ layout: default
         <p>I am an Assistant Professor of Physics in the Physics and Astronomy Department at SUNY New Paltz, and my research focuses on studying materials using computational techniques. In addition, I am passionate about teaching and combine my lectures with simulations and many problem-solving sessions.</p>
     </div>
     <div style="flex: 1; text-align: center;">
-        <img src="./portrait2.jpg" alt="Kim" style="100%; max-width: 250px; height: auto;">
+        <img src="./portrait2.jpg" alt="Kim" style="100%; max-width: 150px; height: auto;">
         <div style="font-size: 0.7em; color: gray;">
             <p> Dr. Greis J. Kim Reyes </p>
         </div>
