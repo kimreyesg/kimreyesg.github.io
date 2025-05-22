@@ -13,7 +13,7 @@ Many essential materials have been discovered by <b>chance</b>. For instance, <b
 <img src="./plunkett_2.png" alt="Plunkett" style="width: 300px; height: auto;">
 </div>
 <div style="text-align: center; font-size: 0.9em; color: gray;">
-<p>A generic Band Structure</p>
+<p>Left to right: Jack Rebok, Robert McHarness, and Roy Plunkett</p>
 </div>
 
 
