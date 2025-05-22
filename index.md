@@ -47,7 +47,7 @@ layout: default
 ### About
 
 <p align="center" style="margin-top:2em;">
-  <img src="./portrait2.jpg" alt="Kim" width="150">
+  <img src="./portrait2.jpg" alt="Kim" width="180">
   <br>
   <span style="font-size: 0.9em; color: #555;">Dr. Greis J. Kim Reyes</span>
 </p>
