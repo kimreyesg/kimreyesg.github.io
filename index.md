@@ -9,13 +9,13 @@ layout: default
 
 Many essential materials have been discovered by <b>chance</b>. For instance, <b>saccharin</b> was found in 1879 by Fahlberg when he noticed a sweet taste on his hands after handling coal tar derivatives. Similarly, Roy Plunkett, a chemist at DuPont, discovered <b>Teflon</b> in 1938 while researching refrigerants.
 
-<div style="text-align: center;">
-<img src="./plunkett_2.png" alt="Plunkett" style="100%; max-width: 250px; height: auto;">
-</div>
-<div style="text-align: center; font-size: 0.9em; color: gray;">
-<p>Left to right: Jack Rebok, Robert McHarness, and Roy Plunkett</p>
-</div>
 
+<div style="text-align: center;">
+  <img src="plunkett_2.jpg" alt="Left to right: Jack Rebok, Robert McHarness, and Roy Plunkett" style="display: block; margin: 0 auto; max-width: 100%;">
+  <div style="font-size: 0.9em; color: #555; margin-top: 0.5em;">
+    &gt; Left to right: Jack Rebok, Robert McHarness, and Roy Plunkett
+  </div>
+</div>
 
 
 <div style="display: flex; align-items: flex-start; gap: 20px;">
