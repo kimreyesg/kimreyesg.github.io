@@ -7,17 +7,12 @@ layout: default
 <div style="text-align: justify;">
 <p>The study and design of materials form the backbone of modern technology. The extensive effort and meticulous attention to detail in every device we use daily represent a remarkable journey of exploration, research, and calculations with, sometimes, intriguing origins.</p>
 
-<div style="display: flex; align-items: flex-start; gap: 20px;">
-    <div style="flex: 2; text-align: justify;">
-        <p>Many essential materials have been discovered by <b>chance</b>. For instance, <b>saccharin</b> was found in 1879 by Fahlberg when he noticed a sweet taste on his hands after handling coal tar derivatives. 
-        Similarly, Roy Plunkett, a chemist at DuPont, discovered <b>Teflon</b> in 1938 while researching refrigerants.</p>
-    </div>
-    <div style="flex: 1; text-align: center;">
-        <img src="./plunkett_2.jpg" alt="Plunkett" style="100%; max-width: 250px; height: auto;">
-        <div style="font-size: 0.7em; color: gray;">
-            <p> Left to right: Jack Rebok, Robert McHarness, and Roy Plunkett</p>
-        </div>
-    </div>
+Many essential materials have been discovered by <b>chance</b>. For instance, <b>saccharin</b> was found in 1879 by Fahlberg when he noticed a sweet taste on his hands after handling coal tar derivatives. Similarly, Roy Plunkett, a chemist at DuPont, discovered <b>Teflon</b> in 1938 while researching refrigerants.
+<div style="text-align: center;">
+<img src="./plunkett_2.jpg" alt="Plunkett style="100%; height: auto;">
+</div>
+<div style="text-align: center; font-size: 0.9em; color: gray;">
+<p>Left to right: Jack Rebok, Robert McHarness, and Roy Plunkett</p>
 </div>
 
 <div style="display: flex; align-items: flex-start; gap: 20px;">
