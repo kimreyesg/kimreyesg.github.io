@@ -7,27 +7,27 @@ layout: default
 <div style="text-align: justify;">
 <p>The study and design of materials form the backbone of modern technology. The extensive effort and meticulous attention to detail in every device we use daily represent a remarkable journey of exploration, research, and calculations with, sometimes, intriguing origins.</p>
 
-Many essential materials have been discovered by <b>chance</b>. For instance, <b>saccharin</b> was found in 1879 by Fahlberg when he noticed a sweet taste on his hands after handling coal tar derivatives. Similarly, Roy Plunkett, a chemist at DuPont, discovered <b>Teflon</b> in 1938 while researching refrigerants.
+<p>Many essential materials have been discovered by <b>chance</b>. For instance, <b>saccharin</b> was found in 1879 by Fahlberg when he noticed a sweet taste on his hands after handling coal tar derivatives. Similarly, Roy Plunkett, a chemist at DuPont, discovered <b>Teflon</b> in 1938 while researching refrigerants.</p>
 
 <p align="center" style="margin-top:2em;">
-  <img src="plunkett_2.jpg" alt="Left to right: Jack Rebok, Robert McHarness, and Roy Plunkett" style="max-width:60%;">
+  <img src="plunkett_2.jpg" alt="Left to right: Jack Rebok, Robert McHarness, and Roy Plunkett" style="max-width:50%;">
   <br>
   <span style="font-size: 0.9em; color: #555;">Left to right: Jack Rebok, Robert McHarness, and Roy Plunkett</span>
 </p>
 
 
 
-<div style="display: flex; align-items: flex-start; gap: 20px;">
-    <div style="flex: 1; text-align: center;">
-        <img src="./stainless.png" alt="Stainless Steel" style="100%; max-width: 250px; height: auto;">
-        <div style="font-size: 0.7em; color: gray;">
-            <p> Stainless steel revolutionized modern society.</p>
-        </div>
-    </div>
-    <div style="flex: 2; text-align: justify;">
         <p>Brearley experimented with steel alloys to make more erosion-resistant gun barrels. He created a steel with about 12% chromium, and later noticed that a discarded sample hadn’t rusted, unlike others. This accidental observation led to the birth of <b>stainless steel</b>.</p>
-    </div>
-</div>
+
+        
+<p align="center" style="margin-top:2em;">
+  <img src="./stainless.png" alt="Stainless Steel" style="100%; max-width: 250px; height: auto;">
+  <br>
+  <span style="font-size: 0.9em; color: #555;">Stainless steel revolutionized modern society.</span>
+</p>
+
+
+
 
 
  <p>While these histories evoke admiration due to their roots in genuine curiosity and consistent work, today, a vast field of opportunities has emerged through computational techniques. <b>First-principle Methods</b> enable us to simulate the electronic behavior, optical response, and stability of material prototypes for various applications projected to meet contemporary technological needs. Even more recently, <b>Machine Learning</b> techniques have transformed the landscape of materials search by predicting many prototype materials capable of optimizing and launching a new way to find new materials. This website aims to introduce undergraduate students to solid state calculations, requiring them to understand physics, acquire computational techniques, engage in critical analysis, and cultivate curiosity about new ways of discovering materials.</p>
