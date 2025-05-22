@@ -11,7 +11,7 @@ Many essential materials have been discovered by <b>chance</b>. For instance, <b
 
 
 <p align="center">
-  <img src="plunkett_2.jpg" alt="Left to right: Jack Rebok, Robert McHarness, and Roy Plunkett" style="max-width: 60%;">
+  <img src="plunkett_2.jpg" alt="Left to right: Jack Rebok, Robert McHarness, and Roy Plunkett" style="max-width: 50%;">
   <br>
   <span style="font-size: 0.9em; color: #555;">Left to right: Jack Rebok, Robert McHarness, and Roy Plunkett</span>
 </p>
