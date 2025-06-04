@@ -2,7 +2,7 @@ remote_theme: pages-themes/minimal@v0.2.0
 logo: /assets/img/structure_spin_soft.gif
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
-title: Computational Solid State Physics
+title: Computational Materials Science
 author:
   name: Kim Reyes, Greis
   email: kimreyesg@newpaltz.edu
