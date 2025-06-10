@@ -97,14 +97,15 @@
   <img src="./IMG_9255.gif" alt="Boo" style="max-width: 300px; width: 100%; height: auto;">
 </div>
 <div style="text-align: center; font-size: 0.9em; color: gray;">
-<p> Boo wakes me up with no regret,<br>
-    she purrs like motors finely set.<br>
-    A loaf, a blob, a drama queen, 👑 <br>
-    The softest tyrant ever seen.<br>
-    Yet still I coo, "My little Boo", 💕<br>
-    Though technically, she pays no due.<br>
-    So useless, but love like that?<br>
-    It only comes with one dummy cat.<br>
+<p style="font-family: 'Georgia', 'Garamond', serif; font-style: italic; font-size: 1.2em; line-height: 1.7;">
+  Boo wakes me up with no regret,<br>
+  she purrs like motors finely set.<br>
+  A loaf, a blob, a drama queen, 👑 <br>
+  The softest tyrant ever seen.<br>
+  Yet still I coo, "My little Boo", 💕<br>
+  Though technically, she pays no due.<br>
+  So useless, but love like that?<br>
+  It only comes with one dummy cat.<br>
 </p>
 </div>
 
