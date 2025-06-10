@@ -91,13 +91,21 @@
 1. English 
 1. Korean (Enthusiast)
 
-### And now a poem
+### ...and now a poem
 
 <div style="text-align: center; margin: 20px 0;">
   <img src="./IMG_9255.gif" alt="Boo" style="max-width: 300px; width: 100%; height: auto;">
 </div>
 <div style="text-align: center; font-size: 0.9em; color: gray;">
-<p> Boo wakes me up with no regret</p>
+<p> Boo wakes me up with no regret,<br>
+    she purrs like motors finely set.<br>
+    A loaf, a blob, a drama queen, 👑 <br>
+    The softest tyrant ever seen.<br>
+    Yet still I coo, "My little Boo", 💕<br>
+    Though technically, she pays no due.<br>
+    So useless, but love like that?<br>
+    It only comes with one dummy cat.<br>
+</p>
 </div>
 
 [Back to Home](index.md)
