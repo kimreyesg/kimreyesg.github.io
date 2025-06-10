@@ -91,7 +91,7 @@
 1. English 
 1. Korean (Enthusiast)
 
-### ...and now a poem
+### ...and now a poem 🎀
 
 <div style="text-align: center; margin: 20px 0;">
   <img src="./IMG_9255.gif" alt="Boo" style="max-width: 300px; width: 100%; height: auto;">
