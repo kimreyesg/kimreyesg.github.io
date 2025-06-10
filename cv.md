@@ -91,4 +91,13 @@
 1. English 
 1. Korean (Enthusiast)
 
+### And now a poem
+
+<div style="text-align: center; margin: 20px 0;">
+  <img src="./IMG_9255.gif" alt="Boo" style="max-width: 300px; width: 100%; height: auto;">
+</div>
+<div style="text-align: center; font-size: 0.9em; color: gray;">
+<p> Boo wakes me up with no regret</p>
+</div>
+
 [Back to Home](index.md)
