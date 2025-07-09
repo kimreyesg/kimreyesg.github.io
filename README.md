@@ -34,7 +34,3 @@ Other specialized repositories (for codes and simulations) will be linked from t
 Feel free to reach out for questions, collaborations, or academic discussions:  
 ✉️ [kimreyesg@newpaltz.edu]
 
----
-
-![Visitor Count](https://profile-counter.glitch.me/kimreyesg/count.svg)
-
