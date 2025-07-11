@@ -4,9 +4,7 @@ layout: default
 
 <nav>
   <a href="/">Home</a> |
-  <a href="/research.html">Research</a> |
-  <a href="/publications.html">Publications</a> |
-  <a href="/contact.html">Contact</a>
+  <a href="/About.html">About</a> |
 </nav>
 
 ---
