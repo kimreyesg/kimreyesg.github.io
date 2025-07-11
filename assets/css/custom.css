@@ -6,51 +6,40 @@ body {
   margin: 0;
   padding: 0;
 }
-
-/* Navigation bar styling */
+/* Navigation bar */
 nav {
   display: flex;
-  flex-wrap: wrap;
   justify-content: center;
-  background-color: #2a7ae2;
-  padding: 15px;
-  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+  flex-wrap: nowrap;
+  background-color: #ffffff;
+  border-bottom: 1px solid #ddd;
+  padding: 10px 0;
+  box-sizing: border-box;
+  overflow-x: auto; /* scrolls horizontally if too many links */
 }
 
-/* Nav links */
+/* Navigation links */
 nav a {
-  color: #ffffff;
+  color: #2a7ae2;
   text-decoration: none;
   font-weight: bold;
-  margin: 10px 15px;
-  font-size: 17px;
+  margin: 0 15px;
+  font-size: 16px;
   transition: color 0.3s ease;
+  white-space: nowrap; /* prevents wrapping */
 }
 
-/* Hover effect for nav links */
+/* Hover effect */
 nav a:hover {
-  color: #ffcc00;
+  color: #d14;
   text-decoration: underline;
 }
 
-/* Page content wrapper */
+/* Optional max width for page content */
 main, section, article {
   padding: 20px;
   max-width: 900px;
   margin: 0 auto;
   box-sizing: border-box;
-}
-
-/* Responsive adjustments */
-@media (max-width: 600px) {
-  nav {
-    flex-direction: column;
-    align-items: center;
-  }
-  
-  nav a {
-    margin: 8px 0;
-    font-size: 18px;
-  }
 }
 
