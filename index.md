@@ -5,14 +5,14 @@ layout: default
 <nav>
   <a href="/">Home</a> |
   <a href="/about.html">About</a> |
+  <a href="/teaching.html">Teaching</a> |
+  <a href="/research.html">Research</a> |
+  <a href="/contact.html">Contact</a> |
 </nav>
 
 ---
 
 # Welcome!
-
-This is my website.
-
 
 
 <div style="text-align: justify;">
