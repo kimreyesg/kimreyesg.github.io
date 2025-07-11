@@ -56,3 +56,26 @@ layout: default
 </a>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+
+<canvas id="myChart" width="400" height="200"></canvas>
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script>
+var ctx = document.getElementById('myChart').getContext('2d');
+var myChart = new Chart(ctx, {
+    type: 'line',
+    data: {
+        labels: ['0', 'π/3', '2π/3', 'π'],
+        datasets: [{
+            label: 'Band Structure',
+            data: [0, 1.2, 1.8, 0],
+            borderColor: 'rgba(75, 192, 192, 1)',
+            borderWidth: 2,
+            fill: false
+        }]
+    },
+    options: {
+        responsive: true
+    }
+});
+</script>
+
