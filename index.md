@@ -4,7 +4,7 @@ layout: default
 
 <nav>
   <a href="/">Home</a> |
-  <a href="/About.html">About</a> |
+  <a href="/about.html">About</a> |
 </nav>
 
 ---
