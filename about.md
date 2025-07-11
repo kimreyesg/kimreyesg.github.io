@@ -11,3 +11,6 @@
 I am an Assistant Professor of Physics in the Physics and Astronomy Department at SUNY New Paltz, and my research focuses on studying materials using computational techniques. In addition, I am passionate about teaching and combine my lectures with simulations and many problem-solving sessions.</p>
 </div>
 
+[Simplified CV](cv.md)
+
+[Back to Home](index.md)
