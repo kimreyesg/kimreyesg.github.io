@@ -8,3 +8,6 @@ author:
   email: kimreyesg@newpaltz.edu
 
 description: Exploring Quantum Materials at SUNY New Paltz. 
+# Add this line to _config.yml
+include:
+  - assets/css/custom.css
