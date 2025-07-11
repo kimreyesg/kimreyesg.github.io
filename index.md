@@ -2,6 +2,21 @@
 layout: default
 ---
 
+<nav>
+  <a href="/">Home</a> |
+  <a href="/research.html">Research</a> |
+  <a href="/publications.html">Publications</a> |
+  <a href="/contact.html">Contact</a>
+</nav>
+
+---
+
+# Welcome!
+
+This is my website.
+
+
+
 <div style="text-align: justify;">
 <p>The study and design of materials form the backbone of modern technology. The extensive effort and meticulous attention to detail in every device we use daily represent a remarkable journey of exploration, research, and calculations with, sometimes, intriguing origins.</p>
 
@@ -31,14 +46,6 @@ layout: default
  <p>While these histories evoke admiration due to their roots in genuine curiosity and consistent work, today, a vast field of opportunities has emerged through computational techniques. <b>First-principle Methods</b> enable us to simulate the electronic behavior, optical response, and stability of material prototypes for various applications projected to meet contemporary technological needs. Even more recently, <b>Machine Learning</b> techniques have transformed the landscape of materials search by predicting many prototype materials capable of optimizing and launching a new way to find new materials. This website aims to introduce undergraduate students to solid state calculations, requiring them to understand physics, acquire computational techniques, engage in critical analysis, and cultivate curiosity about new ways of discovering materials.</p>
  
 </div>
-
-
-#### Solid-State Calculations at a Glance
-
-* [Electronic Structure Calculations](./electronic-structure.md).
-* [Probing Lattice Dynamics](./phonons.md).
-* [Spin-Polarized Calculations](./spin-polarized.md).
-
 
 * * *
 
