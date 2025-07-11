@@ -2,7 +2,7 @@
 body {
   background-color: #ffffff;
   color: #333333;
-  font-family: "Helvetica Neue", Arial, sans-serif;
+  font-family: 'Arima Koshi', sans-serif;
   margin: 0;
   padding: 0;
 }
@@ -41,5 +41,36 @@ main, section, article {
   max-width: 900px;
   margin: 0 auto;
   box-sizing: border-box;
+}
+
+
+/* Header styling */
+.site-header {
+  background-color: #2a7ae2;
+  color: #ffffff;
+  text-align: center;
+  padding: 20px;
+}
+
+.site-header img {
+  max-width: 120px;
+  height: auto;
+  margin-bottom: 10px;
+}
+
+/* Title styling */
+.site-title {
+  font-family: 'Arima Koshi', sans-serif;
+  font-size: 36px;
+  margin: 10px 0;
+  font-weight: 700;
+}
+
+/* Description styling */
+.site-description {
+  font-family: 'Arima Koshi', sans-serif;
+  font-size: 18px;
+  margin: 0;
+  color: #ffcc00;
 }
 
