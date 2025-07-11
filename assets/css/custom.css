@@ -1,21 +1,56 @@
+/* Basic body styles */
 body {
-  background-color: #f0f0f0; /* Replace with your desired color */
-}
-nav {
-  text-align: center;
-  background-color: #333;
-  padding: 15px 0;
+  background-color: #ffffff;
+  color: #333333;
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  margin: 0;
+  padding: 0;
 }
 
+/* Navigation bar styling */
+nav {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  background-color: #2a7ae2;
+  padding: 15px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+/* Nav links */
 nav a {
   color: #ffffff;
   text-decoration: none;
   font-weight: bold;
-  margin: 0 20px;
+  margin: 10px 15px;
   font-size: 17px;
+  transition: color 0.3s ease;
 }
 
+/* Hover effect for nav links */
 nav a:hover {
   color: #ffcc00;
   text-decoration: underline;
 }
+
+/* Page content wrapper */
+main, section, article {
+  padding: 20px;
+  max-width: 900px;
+  margin: 0 auto;
+  box-sizing: border-box;
+}
+
+/* Responsive adjustments */
+@media (max-width: 600px) {
+  nav {
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  nav a {
+    margin: 8px 0;
+    font-size: 18px;
+  }
+}
+
