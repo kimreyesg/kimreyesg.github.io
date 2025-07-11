@@ -10,7 +10,7 @@ body {
 nav {
   display: flex;
   justify-content: center;
-  flex-wrap: nowrap;
+  flex-wrap: wrap;
   background-color: #ffffff;
   border-bottom: 1px solid #ddd;
   padding: 10px 0;
@@ -20,7 +20,7 @@ nav {
 
 /* Navigation links */
 nav a {
-  color: #2a7ae2;
+  color: ##009688;
   text-decoration: none;
   font-weight: bold;
   margin: 0 15px;
@@ -31,7 +31,7 @@ nav a {
 
 /* Hover effect */
 nav a:hover {
-  color: #d14;
+  color: #ffca28;
   text-decoration: underline;
 }
 
@@ -46,7 +46,7 @@ main, section, article {
 
 /* Header styling */
 .site-header {
-  background-color: #2a7ae2;
+  background-color: #009688;
   color: #ffffff;
   text-align: center;
   padding: 20px;
@@ -71,6 +71,6 @@ main, section, article {
   font-family: 'Arima Koshi', sans-serif;
   font-size: 18px;
   margin: 0;
-  color: #ffcc00;
+  color: #ffca28;
 }
 
