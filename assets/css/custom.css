@@ -1,3 +1,21 @@
 body {
   background-color: #f0f0f0; /* Replace with your desired color */
 }
+nav {
+  text-align: center;
+  background-color: #333;
+  padding: 15px 0;
+}
+
+nav a {
+  color: #ffffff;
+  text-decoration: none;
+  font-weight: bold;
+  margin: 0 20px;
+  font-size: 17px;
+}
+
+nav a:hover {
+  color: #ffcc00;
+  text-decoration: underline;
+}
