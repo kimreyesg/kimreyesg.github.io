@@ -1,12 +1,59 @@
+# Theme
 remote_theme: pages-themes/minimal@v0.2.0
-logo: /assets/img/structure_spin_soft.gif
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
 
-
+# Site basics
 title: Computational Materials Science
+description: Exploring Quantum Materials at SUNY New Paltz.
+logo: /assets/img/structure_spin_soft.gif
+
+# Author info
 author:
   name: Kim Reyes, Greis
   email: kimreyesg@newpaltz.edu
 
-description: Exploring Quantum Materials at SUNY New Paltz. 
+# Plugins
+plugins:
+  - jekyll-remote-theme
+
+# Navigation (optional future use)
+header_pages:
+  - index.md
+  - about.md
+  - research.md
+  - publications.md
+  - contact.md
+
+# Social links (optional)
+social_links:
+  github: https://github.com/kimreyesg
+  email: kimreyesg@newpaltz.edu
+  orcid: https://orcid.org/0000-0002-1825-0097
+
+# Google Analytics (optional)
+# google_analytics: UA-XXXXXXXX-X
+
+# Defaults for layouts
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: default
+      css: /assets/css/custom.css
+
+# Exclude unnecessary files
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+
+# Markdown configuration
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+# Enable relative links if you want
+# relative_links:
+#   enabled: true
+#   collections: true
