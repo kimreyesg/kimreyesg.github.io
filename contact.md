@@ -13,3 +13,6 @@
 <div style="text-align: center;">
 <img src="./NewPaltz-night-slider.jpg" alt="SUNY New Paltz" style="width: 600px; height: auto;">
 </div>
+
+
+[🏠](index.md)
