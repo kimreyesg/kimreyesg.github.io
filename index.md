@@ -3,7 +3,7 @@ layout: default
 ---
 
 <nav>
-  <a href="/">Home</a> |
+  <a href="/">home</a> |
   <a href="/about.html">about</a> |
 </nav>
 
