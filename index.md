@@ -45,7 +45,13 @@ layout: default
  
 </div>
 
-<a class="twitter-timeline" data-height="600" href="https://twitter.com/NatureMaterials?ref_src=twsrc%5Etfw">
+
+## Latest from Nature Materials
+
+<a class="twitter-timeline"
+   data-height="600"
+   data-theme="light"
+   href="https://twitter.com/NatureMaterials?ref_src=twsrc%5Etfw">
   Tweets by NatureMaterials
 </a>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
