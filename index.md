@@ -57,58 +57,32 @@ title: Computational Materials Science
 <h2 style="font-size: 28px;"> 💻 Data-Driven Methods</h2>
 
 
-  <div class="card">
-    <h2> 🔄 Density Functional Theory</h2>
-    <p>
-First-principle Methods enable us to simulate electronic behavior, optical response, and stability of material prototypes.
-    </p>
-  </div>
+<div class="card">
+  <h2> 🔄 Density Functional Theory</h2>
+  <p>
+    First-principle Methods enable us to simulate electronic behavior, optical response, and stability of material prototypes.
+  </p>
+  <pre><code>
+Initial ρ(r)
+     ↓
+Compute veff(r)
+     ↓
+Solve Kohn-Sham
+     ↓
+Update ρ(r), Etot
+     ↓
+Converged?
+  ↙     ↘
+No       Yes
+↓         ↓
+Loop   Output Data
+  </code></pre>
+</div>
 
-```
-+-----------------------------+
-|      Initial Guess ρ(r)     |
-+-----------------------------+
-             |
-             v
-+-----------------------------+
-| Calculate veff(r)           |
-| = Ven(r) + ∫ ρ(r')/|r-r'|   |
-|   + Vxc[ρ(r)]               |
-+-----------------------------+
-             |
-             v
-+-----------------------------+
-| Solve Kohn-Sham:            |
-| [-ħ²/2me ∇² + veff ] ψi = εi ψi |
-+-----------------------------+
-             |
-             v
-+-----------------------------+
-| Compute ρ(r), Etot[ρ(r)]    |
-+-----------------------------+
-             |
-             v
-+-----------------------------+
-|     Converged?              |
-+-----------------------------+
-      |            |
-     No           Yes
-      |             |
-      v             v
-+-----------------------------+
-|    Update ρ(r) & repeat     |
-+-----------------------------+
-
-          or
-
-+-----------------------------+
-|   Output: ρ0(r), Ei, etc.   |
-+-----------------------------+
-```
 
 
   <div class="card">
-    <h2>Machine Learning in Materials Discovery</h2>
+    <h2> 🧠 Machine Learning in Materials Discovery</h2>
     <p>
       Even more recently, Machine Learning techniques have transformed the landscape of materials search by predicting many prototype materials capable of optimizing and launching a new way to find new materials.
     </p>
