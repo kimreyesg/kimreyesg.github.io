@@ -87,10 +87,11 @@ title: Computational Materials Science
 <div class="card">
   <h2>🔄 Density Functional Theory</h2>
   <p>
-    First-principle methods enable us to simulate electronic behavior, optical response...
+    First-principle methods enable us to simulate electronic behavior, optical response by looping the 
   </p>
 
   <div class="more-text" style="display: none;">
+    <p> Hamiltonian of the many-body system through the charge density.</p>
     <pre><code>
 Initial ρ(r)
      ↓
