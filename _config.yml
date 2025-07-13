@@ -4,7 +4,7 @@ remote_theme: pages-themes/minimal@v0.2.0
 # Site basics
 title: Exploring Quantum Materials at SUNY New Paltz.
 description: "Solid State and Computational Materials Science <br><br> Kim Reyes, Greis<br>Assistant Professor of Physics<br>kimreyesg@newpaltz.edu"
-logo: /assets/img/structure_spin_soft.gif
+logo: /assets/img/crystal.gif
 
 # Author info
 author:
