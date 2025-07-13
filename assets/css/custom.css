@@ -33,6 +33,12 @@ h1, h2 {
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
   gap: 20px;
 }
+/* Change color of site title link */
+header a, .site-title, .site-title a {
+  color: #81EC86 !important; /* your mint green, or any color you like */
+  text-decoration: none;
+}
+
 
 .card {
   background: #294933;
@@ -75,4 +81,8 @@ h1, h2 {
   word-break: normal;
 }
 
+header a, .site-title, .site-title a {
+  color: #81EC86 !important;
+  text-decoration: none;
+}
 
