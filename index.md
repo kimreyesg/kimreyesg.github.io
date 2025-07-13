@@ -30,7 +30,7 @@ title: Computational Materials Science
 
 
 <div class="card collapsed">
-  <h2 style="font-size: 12px;">🍬🍭 Saccharin: Bad Lab Practices</h2>
+  <h2 style="font-size: 20px;">🍬🍭 Saccharin: Bad Lab Practices</h2>
   <div class="more-text" style="display: none;">
     <p>
       Saccharin, the first artificial sweetener, was discovered in 1879 when Constantin Fahlberg noticed a sweet taste on his fingers 
@@ -41,7 +41,7 @@ title: Computational Materials Science
 </div>
 
 <div class="card collapsed">
-  <h2>🖇️👩🏻‍🏭 Stainless Steel: Rusty Experiments</h2>
+  <h2 style="font-size: 20px;">🖇️👩🏻‍🏭 Stainless Steel: Rusty Experiments</h2>
   <div class="more-text" style="display: none;">
     <p>
       Harry Brearley was experimenting with steel alloys for erosion-resistant gun barrels. By chance, he created steel with about 12% chromium—and noticed a discarded sample hadn’t rusted. His accidental observation gave birth to stainless steel, transforming modern society by revolutionizing kitchenware, construction, and medical devices.
@@ -51,7 +51,7 @@ title: Computational Materials Science
 </div>
 
 <div class="card collapsed">
-  <h2>🧪🍳 Teflon: Frozen Gases Surprise</h2>
+  <h2 style="font-size: 20px;">🧪🍳 Teflon: Frozen Gases Surprise</h2>
   <p>
     
   </p>
@@ -64,7 +64,7 @@ title: Computational Materials Science
 </div>
 
 <div class="card collapsed">
-  <h2>🔋🛞 Vulcanized Rubber: Spilled Sulfur</h2>
+  <h2 style="font-size: 20px;">🔋🛞 Vulcanized Rubber: Spilled Sulfur</h2>
   <div class="more-text" style="display: none;">
     <p>
       Charles Goodyear accidentally dropped a rubber-sulfur mixture onto a hot stove in 1839. Instead of melting, the rubber became durable and elastic—creating vulcanized rubber, essential for tires, seals, and countless products we rely on today. This discovery revolutionized transportation and manufacturing industries.
