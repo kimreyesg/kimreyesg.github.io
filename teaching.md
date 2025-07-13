@@ -7,13 +7,15 @@
 </div>
 
 
-| Fall 2024    | General Physics 1 | 3     |
-|              | Quantum Physics   | 3     |
-| Spring 2025  | General Physics 1 | 3     |
-|              | General Physics Lab 2 | 1 |
-| Fall 2025    | General Physics 1 | 3     |
-|              | Quantum Physics   | 3     |
-|              | General Physics Lab 2 | 1 |
+| Semester      | Course                   | Credits |
+|---------------|--------------------------|---------|
+| Fall 2024     | General Physics 1        | 3       |
+|               | Quantum Physics          | 3       |
+| Spring 2025   | General Physics 1        | 3       |
+|               | General Physics Lab 2    | 1       |
+| Fall 2025     | General Physics 1        | 3       |
+|               | Quantum Physics          | 3       |
+|               | General Physics Lab 2    | 1       |
 
 
 <a href="https://github.com/kimreyesg/Quantum-Mechanics-with-Mathematica" target="_blank">Quantum Mechanics with Mathematica</a>
