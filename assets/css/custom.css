@@ -86,3 +86,22 @@ header a, .site-title, .site-title a {
   text-decoration: none;
 }
 
+/* Link colors */
+a {
+  color: #81EC86;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #67FFF2;
+}
+
+/* Definition lists (contact page) */
+dl dt {
+  font-weight: bold;
+  color: #81EC86;
+}
+
+dl dd {
+  margin-left: 20px;
+}
