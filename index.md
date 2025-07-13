@@ -122,7 +122,7 @@ First-principle Methods enable us to simulate electronic behavior, optical respo
 ⬇
 
 <a class="twitter-timeline"
-   data-height="400"
+   data-height="600"
    data-theme="dark"
    href="https://twitter.com/PhysRevX">
   Tweets by Phys. Rev. X
