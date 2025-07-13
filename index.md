@@ -26,12 +26,12 @@ title: Computational Materials Science
   <div class="card">
   <h2> 💡 Discoveries in Unexpected Places</h2>
   <p>
-    Incredible materials have emerged from surprising situations. Sometimes, science advances because of a happy accident—or an experiment gone sideways!
+    Incredible materials have emerged from surprising situations. Sometimes, science advances because of a happy accident—or an experiment gone sideways.
   </p>
 </div>
 
 <div class="card">
-  <h2>🍬🍭 Saccharin: Sweet Mistake</h2>
+  <h2>🍬🍭 Saccharin: Band Lab practices</h2>
   <p>
     Saccharin, the first artificial sweetener, was discovered in 1879 when Constantin Fahlberg noticed a sweet taste on his fingers after working with coal tar derivatives. An improper lab practice—forgetting to wash his hands—led to a revolutionary sugar substitute!
   </p>
@@ -59,7 +59,7 @@ title: Computational Materials Science
 </div>
 
   <div class="card">
-    <h2>Computational Materials Science</h2>
+    <h2> 💻 Computational Materials Science</h2>
     <p>
       While these histories evoke admiration due to their roots in genuine curiosity and consistent work, today, a vast field of opportunities has emerged through computational techniques. First-principle Methods enable us to simulate electronic behavior, optical response, and stability of material prototypes for various applications projected to meet contemporary technological needs.
     </p>
