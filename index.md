@@ -65,13 +65,14 @@ title: Computational Materials Science
 
 </div>
 
-# Latest from Nature Review Physics
 
 <a class="twitter-timeline"
    data-height="600"
    data-theme="dark"
-   href="https://twitter.com/NatRevPhys?ref_src=twsrc%5Etfw">
-  Tweets by NatRevPhys
+   href="https://twitter.com/NaturePhysics">
+  Tweets by Nature Physics
 </a>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<script defer src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
 
