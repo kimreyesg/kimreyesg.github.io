@@ -11,9 +11,8 @@ title: Computational Materials Science
   <a href="/contact.html">Contact</a> |
 </nav>
 
-# Accidental Discoveries & Modern Materials Science
+# Computational Materials Science
 
-The study and design of materials form the backbone of modern technology. The extensive effort and meticulous attention to detail in every device we use daily represent a remarkable journey of exploration, research, and calculations with, sometimes, intriguing origins.
 
 <div class="grid">
 
