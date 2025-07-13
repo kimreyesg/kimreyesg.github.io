@@ -25,15 +25,12 @@ title: Computational Materials Science
 
   <div class="more-text" style="display: none;">
     <p>
-      Many essential materials have been discovered by chance. For instance, saccharin was found in 1879 by Fahlberg when he noticed a sweet taste on his hands after handling coal tar derivatives. 
-    </p>
-    <p>
-      Similarly, Roy Plunkett, a chemist at DuPont, discovered Teflon in 1938 while researching refrigerants.
-    </p>
+     An incredible journey of research, meticulous attention to detail, and hard work have transformed technology into what we have today. However, many of these discoveries originate from intriguing and unexpected sources.
   </div>
 
   <a href="#" class="read-more">Read more...</a>
 </div>
+
 
 <h2 style="font-size: 28px;">💡 Discoveries in Unexpected Places</h2>
 
