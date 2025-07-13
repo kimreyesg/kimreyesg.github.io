@@ -95,24 +95,21 @@ title: Computational Materials Science
       The iterative process solves the Kohn-Sham equations and updates the charge density until self-consistency is achieved.
     </p>
     <pre><code>
+      
 Initial Charge Density ρ(r)
-     |
-     v
+           ↓
 Compute Effective Potential Veff(r)
-     |
-     v
+           ↓
 Solve Kohn-Sham Equations
-     |
-     v
+           ↓
 Update ρ(r), Etot
-     |
-     v
+     ↓
 Converged?
   /       \
  No        Yes
- |           |
- v           v
+ ↓           ↓
 Loop      Output Data
+
     </code></pre>
   </div>
 
