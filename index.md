@@ -54,15 +54,36 @@ title: Computational Materials Science
   </p>
 </div>
 
-<h2 style="font-size: 28px;"> 💻 Computational Materials Science</h2>
+<h2 style="font-size: 28px;"> 💻 Data-Driven Methods</h2>
 
 
   <div class="card">
     <h2> 🔄 Density Functional Theory</h2>
     <p>
-      While these histories evoke admiration due to their roots in genuine curiosity and consistent work, today, a vast field of opportunities has emerged through computational techniques. First-principle Methods enable us to simulate electronic behavior, optical response, and stability of material prototypes for various applications projected to meet contemporary technological needs.
+First-principle Methods enable us to simulate electronic behavior, optical response, and stability of material prototypes.
     </p>
   </div>
+
+```mermaid
+flowchart TD
+    A[Initial Guess ρ(r)]:::start
+    B[Calculate veff(r) <br> Ven(r) + ∫ ρ(r')/|r−r'| + Vxc[ρ(r)]]:::step
+    C[Solve Kohn-Sham <br> [-ħ²/2m ∇² + veff ] ψi = εi ψi]:::step
+    D[Compute ρ(r), Etot[ρ(r)]]:::step
+    E{Converged?}:::decision
+    F[Update ρ(r) & repeat]:::loop
+    G[Output: ρ₀(r), Ei, etc.]:::output
+
+    A --> B --> C --> D --> E
+    E -- No --> F --> B
+    E -- Yes --> G
+
+    classDef start fill:#67FFF2,stroke:#2A3056,stroke-width:2,color:#2A3056;
+    classDef step fill:#43B0AF,stroke:#2A3056,stroke-width:2,color:#ffffff;
+    classDef decision fill:#81EC86,stroke:#294933,stroke-width:2,color:#2A3056;
+    classDef loop fill:#446B5C,stroke:#2A3056,stroke-width:2,color:#ffffff;
+    classDef output fill:#294933,stroke:#2A3056,stroke-width:2,color:#ffffff;
+```
 
   <div class="card">
     <h2>Machine Learning in Materials Discovery</h2>
