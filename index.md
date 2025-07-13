@@ -20,15 +20,8 @@ title: Computational Materials Science
 <div class="card collapsed">
   <h2 style="font-size: 28px;">The Journey of Materials</h2>
   <p>
-    The study and design of materials form the backbone of modern technology...
-  </p>
-
-  <div class="more-text" style="display: none;">
-    <p>
+    The study and design of materials form the backbone of modern technology.
      An incredible journey of research, meticulous attention to detail, and hard work have transformed technology into what we have today. However, many of these discoveries originate from intriguing and unexpected sources.
-  </div>
-
-  <a href="#" class="read-more">Read more...</a>
 </div>
 
 
