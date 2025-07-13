@@ -92,7 +92,15 @@ title: Computational Materials Science
 
   <div class="more-text" style="display: none;">
     <p> Hamiltonian of the many-body system through the charge density.</p>
-    <pre><code>
+    <pre style="
+  background-color: #2A3056;
+  color: #81EC86;
+  padding: 10px;
+  border-radius: 5px;
+  font-size: 14px;
+  overflow-x: auto;
+">
+<code>
 Initial ρ(r)
      ↓
 Compute veff(r)
@@ -106,10 +114,8 @@ Converged?
 No       Yes
 ↓         ↓
 Loop   Output Data
-    </code></pre>
-  </div>
+</code></pre>
 
-  <a href="#" class="read-more">Read more...</a>
 </div>
 
 
@@ -127,7 +133,6 @@ Loop   Output Data
 
 </div>
 
-              ⬇
 
 <a class="twitter-timeline"
    data-height="600"
