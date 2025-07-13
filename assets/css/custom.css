@@ -1,5 +1,5 @@
 body {
-  background: #f5f1e6;
+  background: #ffdfb8;
   color: #2e2e2e;
   font-family: 'Arima Koshi', sans-serif;
   padding: 20px;
@@ -8,24 +8,24 @@ body {
 nav {
   text-align: center;
   margin-bottom: 20px;
-  background-color: #8c5e3c;
+  background-color: #98e587;
   padding: 10px;
   border-radius: 5px;
 }
 
 nav a {
-  color: #f5f1e6;
+  color: #2e2e2e;
   text-decoration: none;
   margin: 0 10px;
   font-weight: bold;
 }
 
 nav a:hover {
-  color: #cfa968;
+  color: #c4ff96;
 }
 
 h1, h2 {
-  color: #4a6b55;
+  color: #eafbad;
 }
 
 .grid {
@@ -37,21 +37,21 @@ h1, h2 {
 .card {
   background: #ffffff;
   border-radius: 8px;
+  border-left: 6px solid #eeebaf;
   box-shadow: 0 4px 12px rgba(0,0,0,0.1);
   padding: 20px;
   transition: transform 0.3s ease, box-shadow 0.3s ease;
-  border-left: 6px solid #8c5e3c;
 }
 
 .card:hover {
   transform: translateY(-5px);
   box-shadow: 0 8px 20px rgba(0,0,0,0.2);
-  border-left-color: #cfa968;
+  border-left-color: #c4ff96;
 }
 
 .photo-caption {
   font-size: 0.9em;
-  color: #4a6b55;
+  color: #98e587;
   margin-top: 10px;
   font-style: italic;
 }
@@ -61,5 +61,6 @@ h1, h2 {
     padding: 10px;
   }
 }
+
 
 
