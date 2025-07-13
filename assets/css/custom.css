@@ -1,6 +1,6 @@
 body {
-  background: #F4DDB8;
-  color: #495235;
+  background: #2A3056;
+  color: #E0F7FA;
   font-family: 'Arima Koshi', sans-serif;
   padding: 20px;
 }
@@ -8,24 +8,24 @@ body {
 nav {
   text-align: center;
   margin-bottom: 20px;
-  background-color: #B87B5C;
+  background-color: #43B0AF;
   padding: 10px;
   border-radius: 5px;
 }
 
 nav a {
-  color: #F4DDB8;
+  color: #2A3056;
   text-decoration: none;
   margin: 0 10px;
   font-weight: bold;
 }
 
 nav a:hover {
-  color: #DA983C;
+  color: #67FFF2;
 }
 
 h1, h2 {
-  color: #8F9562;
+  color: #81EC86;
 }
 
 .grid {
@@ -35,23 +35,23 @@ h1, h2 {
 }
 
 .card {
-  background: #ffffff;
+  background: #294933;
   border-radius: 8px;
-  border-left: 6px solid #90533B;
-  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  border-left: 6px solid #446B5C;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.3);
   padding: 20px;
   transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
 .card:hover {
   transform: translateY(-5px);
-  box-shadow: 0 8px 20px rgba(0,0,0,0.2);
-  border-left-color: #DA983C;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.5);
+  border-left-color: #81EC86;
 }
 
 .photo-caption {
   font-size: 0.9em;
-  color: #8F9562;
+  color: #67FFF2;
   margin-top: 10px;
   font-style: italic;
 }
@@ -61,6 +61,7 @@ h1, h2 {
     padding: 10px;
   }
 }
+
 
 
 
