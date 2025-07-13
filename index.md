@@ -64,26 +64,48 @@ First-principle Methods enable us to simulate electronic behavior, optical respo
     </p>
   </div>
 
-```mermaid
-flowchart TD
-    A[Initial Guess ρ(r)]:::start
-    B[Calculate veff(r) <br> Ven(r) + ∫ ρ(r')/|r−r'| + Vxc[ρ(r)]]:::step
-    C[Solve Kohn-Sham <br> [-ħ²/2m ∇² + veff ] ψi = εi ψi]:::step
-    D[Compute ρ(r), Etot[ρ(r)]]:::step
-    E{Converged?}:::decision
-    F[Update ρ(r) & repeat]:::loop
-    G[Output: ρ₀(r), Ei, etc.]:::output
-
-    A --> B --> C --> D --> E
-    E -- No --> F --> B
-    E -- Yes --> G
-
-    classDef start fill:#67FFF2,stroke:#2A3056,stroke-width:2,color:#2A3056;
-    classDef step fill:#43B0AF,stroke:#2A3056,stroke-width:2,color:#ffffff;
-    classDef decision fill:#81EC86,stroke:#294933,stroke-width:2,color:#2A3056;
-    classDef loop fill:#446B5C,stroke:#2A3056,stroke-width:2,color:#ffffff;
-    classDef output fill:#294933,stroke:#2A3056,stroke-width:2,color:#ffffff;
 ```
++-----------------------------+
+|      Initial Guess ρ(r)     |
++-----------------------------+
+             |
+             v
++-----------------------------+
+| Calculate veff(r)           |
+| = Ven(r) + ∫ ρ(r')/|r-r'|   |
+|   + Vxc[ρ(r)]               |
++-----------------------------+
+             |
+             v
++-----------------------------+
+| Solve Kohn-Sham:            |
+| [-ħ²/2me ∇² + veff ] ψi = εi ψi |
++-----------------------------+
+             |
+             v
++-----------------------------+
+| Compute ρ(r), Etot[ρ(r)]    |
++-----------------------------+
+             |
+             v
++-----------------------------+
+|     Converged?              |
++-----------------------------+
+      |            |
+     No           Yes
+      |             |
+      v             v
++-----------------------------+
+|    Update ρ(r) & repeat     |
++-----------------------------+
+
+          or
+
++-----------------------------+
+|   Output: ρ0(r), Ei, etc.   |
++-----------------------------+
+```
+
 
   <div class="card">
     <h2>Machine Learning in Materials Discovery</h2>
