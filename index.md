@@ -77,10 +77,10 @@ title: Computational Materials Science
 
 </div>
 
-📲
+⬇
 
 <a class="twitter-timeline"
-   data-height="600"
+   data-height="400"
    data-theme="dark"
    href="https://twitter.com/PhysRevX">
   Tweets by Phys. Rev. X
