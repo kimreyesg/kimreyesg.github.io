@@ -1,6 +1,6 @@
 body {
-  background: #ffdfb8;
-  color: #2e2e2e;
+  background: #F4DDB8;
+  color: #495235;
   font-family: 'Arima Koshi', sans-serif;
   padding: 20px;
 }
@@ -8,24 +8,24 @@ body {
 nav {
   text-align: center;
   margin-bottom: 20px;
-  background-color: #98e587;
+  background-color: #B87B5C;
   padding: 10px;
   border-radius: 5px;
 }
 
 nav a {
-  color: #2e2e2e;
+  color: #F4DDB8;
   text-decoration: none;
   margin: 0 10px;
   font-weight: bold;
 }
 
 nav a:hover {
-  color: #c4ff96;
+  color: #DA983C;
 }
 
 h1, h2 {
-  color: #eafbad;
+  color: #8F9562;
 }
 
 .grid {
@@ -37,7 +37,7 @@ h1, h2 {
 .card {
   background: #ffffff;
   border-radius: 8px;
-  border-left: 6px solid #eeebaf;
+  border-left: 6px solid #90533B;
   box-shadow: 0 4px 12px rgba(0,0,0,0.1);
   padding: 20px;
   transition: transform 0.3s ease, box-shadow 0.3s ease;
@@ -46,12 +46,12 @@ h1, h2 {
 .card:hover {
   transform: translateY(-5px);
   box-shadow: 0 8px 20px rgba(0,0,0,0.2);
-  border-left-color: #c4ff96;
+  border-left-color: #DA983C;
 }
 
 .photo-caption {
   font-size: 0.9em;
-  color: #98e587;
+  color: #8F9562;
   margin-top: 10px;
   font-style: italic;
 }
@@ -61,6 +61,7 @@ h1, h2 {
     padding: 10px;
   }
 }
+
 
 
 
