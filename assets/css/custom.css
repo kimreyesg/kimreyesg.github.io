@@ -105,3 +105,9 @@ dl dt {
 dl dd {
   margin-left: 20px;
 }
+
+/* Make headings bright and readable */
+h1, h2, h3, h4, h5, h6 {
+  color: #81EC86; /* neon mint green or any bright color */
+}
+
