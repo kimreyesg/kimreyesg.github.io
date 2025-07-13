@@ -25,10 +25,7 @@ title: Computational Materials Science
     </p>
 </div>
 
-
-
 <h2 style="font-size: 28px;"> 💻 Data-Driven Methods</h2>
-
 
 <div class="card collapsed">
   <h2>🔄 Density Functional Theory</h2>
