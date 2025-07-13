@@ -21,7 +21,8 @@ title: Computational Materials Science
   <h2 style="font-size: 28px;">The Journey of Materials</h2>
   <p>
     The study and design of materials form the backbone of modern technology.
-     An incredible journey of research, meticulous attention to detail, and hard work have transformed technology into what we have today. However, many of these discoveries originate from intriguing and unexpected sources.
+     An incredible journey of research, meticulous attention to detail, and hard work has transformed technology into what we have today. However, many of these discoveries originate from intriguing and unexpected sources.
+    </p>
 </div>
 
 
