@@ -111,3 +111,23 @@ h1, h2, h3, h4, h5, h6 {
   color: #81EC86; /* neon mint green or any bright color */
 }
 
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 20px 0;
+  color: #E0F7FA;
+  background-color: #2A3056;
+  font-family: 'Arima Koshi', sans-serif;
+}
+
+th, td {
+  border: 1px solid #81EC86;
+  padding: 8px;
+  text-align: left;
+}
+
+th {
+  background-color: #43B0AF;
+  color: #2A3056;
+}
+
