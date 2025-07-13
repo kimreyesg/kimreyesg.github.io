@@ -27,7 +27,7 @@ title: Computational Materials Science
 
 
 <div class="card">
-  <h2> 🍬🍭 Saccharin: Band Lab practices</h2>
+  <h2> 🍬🍭 Saccharin: Bad Lab Practices</h2>
   <p>
     Saccharin, the first artificial sweetener, was discovered in 1879 when Constantin Fahlberg noticed a sweet taste on his fingers after working with coal tar derivatives. An improper lab practice—forgetting to wash his hands—led to a revolutionary sugar substitute!
   </p>
