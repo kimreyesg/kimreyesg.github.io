@@ -58,26 +58,14 @@ title: Computational Materials Science
 
 
 <div class="card">
-  <h2> 🔄 Density Functional Theory</h2>
+  <h2>🔄 Density Functional Theory</h2>
   <p>
-    First-principle Methods enable us to simulate electronic behavior, optical response, and stability of material prototypes.
+    First-principle methods enable us to simulate electronic behavior...
+    (full text here)
   </p>
-  <pre><code>
-Initial ρ(r)
-     ↓
-Compute veff(r)
-     ↓
-Solve Kohn-Sham
-     ↓
-Update ρ(r), Etot
-     ↓
-Converged?
-  ↙     ↘
-No       Yes
-↓         ↓
-Loop   Output Data
-  </code></pre>
+  <a href="/dft-details.html" class="read-more">Read more...</a>
 </div>
+
 
 
 
