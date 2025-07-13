@@ -57,7 +57,7 @@ title: Computational Materials Science
 ## 💻 Computational Materials Science
 
   <div class="card">
-    <h2> 💻 Density Functional Theory</h2>
+    <h2> 🔄 Density Functional Theory</h2>
     <p>
       While these histories evoke admiration due to their roots in genuine curiosity and consistent work, today, a vast field of opportunities has emerged through computational techniques. First-principle Methods enable us to simulate electronic behavior, optical response, and stability of material prototypes for various applications projected to meet contemporary technological needs.
     </p>
