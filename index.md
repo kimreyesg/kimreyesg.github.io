@@ -51,20 +51,29 @@ Initial Charge Density ρ(r)
 
        ↓
 Compute Effective Potential Veff(r)
+Veff(r) = Ven(r) + ∫ ρ(r') / |r - r'| dr' + Vxc[ρ(r)]
 
        ↓
 Solve Kohn-Sham Equations
+[-ħ²/2me ∇² + Veff(r)] ψi(r) = εi ψi(r)
 
        ↓
-Update ρ(r), Etot
+Compute New Charge Density
+ρ(r) = Σ |ψi(r)|²
 
        ↓
+Calculate Total Energy
+Etot[ρ(r)] = T[ρ(r)] + ∫ Vext(r) ρ(r) dr + Ehartree[ρ(r)] + Exc[ρ(r)]
+
+       ↓
+Check Convergence
 
 Converged?
   /       \
  No        Yes
  ↓           ↓
-Loop      Output Data
+Loop      Output Data:
+          ρ₀(r), Energy Levels, Forces, etc.
 </pre>
 
   </div>
