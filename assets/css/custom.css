@@ -62,7 +62,17 @@ h1, h2 {
   }
 }
 
-
+.card pre,
+.card pre code {
+  background-color: #2A3056 !important;
+  color: #81EC86 !important;
+  padding: 10px;
+  border-radius: 5px;
+  font-size: 14px;
+  overflow-x: auto;
+  font-family: monospace;
+  white-space: pre-wrap;
+}
 
 
 
