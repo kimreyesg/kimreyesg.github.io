@@ -21,7 +21,27 @@ title: Computational Materials Science
     <p>
       The study and design of materials form the backbone of modern technology. The extensive effort and meticulous attention to detail in every device we use daily represent a remarkable journey of exploration, research, and calculations with, sometimes, intriguing origins.
     </p>
+     <a href="#" class="read-more">Read more...</a>
   </div>
+
+
+<div class="card collapsed">
+  <h2 style="font-size: 28px;">The Journey of Materials</h2>
+  <p>
+    The study and design of materials form the backbone of modern technology...
+  </p>
+
+  <div class="more-text" style="display: none;">
+    <p>
+      Many essential materials have been discovered by chance. For instance, saccharin was found in 1879 by Fahlberg when he noticed a sweet taste on his hands after handling coal tar derivatives. 
+    </p>
+    <p>
+      Similarly, Roy Plunkett, a chemist at DuPont, discovered Teflon in 1938 while researching refrigerants.
+    </p>
+  </div>
+
+  <a href="#" class="read-more">Read more...</a>
+</div>
 
 <h2 style="font-size: 28px;">💡 Discoveries in Unexpected Places</h2>
 
