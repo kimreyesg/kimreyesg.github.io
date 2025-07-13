@@ -2,8 +2,8 @@
 remote_theme: pages-themes/minimal@v0.2.0
 
 # Site basics
-title: Computational Materials Science
-description: Exploring Quantum Materials at SUNY New Paltz.
+title: Exploring Quantum Materials at SUNY New Paltz.
+description: Solid State and Computational Materials Science
 logo: /assets/img/structure_spin_soft.gif
 
 # Author info
