@@ -26,52 +26,6 @@ title: Computational Materials Science
 </div>
 
 
-<h2 style="font-size: 28px;">💡 Discoveries in Unexpected Places</h2>
-
-
-<div class="card collapsed">
-  <h2 style="font-size: 20px;">🍬🍭 Saccharin: Bad Lab Practices</h2>
-  <div class="more-text" style="display: none;">
-    <p>
-      Saccharin, the first artificial sweetener, was discovered in 1879 when Constantin Fahlberg noticed a sweet taste on his fingers 
-      after working with coal tar derivatives. An improper lab practice—forgetting to wash his hands—led to a revolutionary sugar substitute. It quickly became a popular low-calorie sweetener worldwide, despite some early controversies over safety.
-    </p>
-  </div>
-  <a href="#" class="read-more">Read more...</a>
-</div>
-
-<div class="card collapsed">
-  <h2 style="font-size: 20px;">🖇️👩🏻‍🏭 Stainless Steel: Rusty Experiments</h2>
-  <div class="more-text" style="display: none;">
-    <p>
-      Harry Brearley was experimenting with steel alloys for erosion-resistant gun barrels. By chance, he created steel with about 12% chromium—and noticed a discarded sample hadn’t rusted. His accidental observation gave birth to stainless steel, transforming modern society by revolutionizing kitchenware, construction, and medical devices.
-    </p>
-  </div>
-  <a href="#" class="read-more">Read more...</a>
-</div>
-
-<div class="card collapsed">
-  <h2 style="font-size: 20px;">🧪🍳 Teflon: Frozen Gases Surprise</h2>
-  <p>
-    
-  </p>
-  <div class="more-text" style="display: none;">
-    <p>
-      In 1938, Roy Plunkett at DuPont was researching refrigerants when he opened a gas cylinder and found a slippery white powder inside instead of gas. That powder turned out to be Teflon—a material now famous for nonstick cookware and countless industrial uses, thanks to its chemical resistance and low friction properties.
-    </p>
-  </div>
-  <a href="#" class="read-more">Read more...</a>
-</div>
-
-<div class="card collapsed">
-  <h2 style="font-size: 20px;">🔋🛞 Vulcanized Rubber: Spilled Sulfur</h2>
-  <div class="more-text" style="display: none;">
-    <p>
-      Charles Goodyear accidentally dropped a rubber-sulfur mixture onto a hot stove in 1839. Instead of melting, the rubber became durable and elastic—creating vulcanized rubber, essential for tires, seals, and countless products we rely on today. This discovery revolutionized transportation and manufacturing industries.
-    </p>
-  </div>
-  <a href="#" class="read-more">Read more...</a>
-</div>
 
 <h2 style="font-size: 28px;"> 💻 Data-Driven Methods</h2>
 
@@ -127,6 +81,53 @@ Loop      Output Data
   <a href="#" class="read-more">Read more...</a>
 </div>
 
+
+<h2 style="font-size: 28px;">💡 Discoveries in Unexpected Places</h2>
+
+
+<div class="card collapsed">
+  <h2 style="font-size: 20px;">🍬🍭 Saccharin: Bad Lab Practices</h2>
+  <div class="more-text" style="display: none;">
+    <p>
+      Saccharin, the first artificial sweetener, was discovered in 1879 when Constantin Fahlberg noticed a sweet taste on his fingers 
+      after working with coal tar derivatives. An improper lab practice—forgetting to wash his hands—led to a revolutionary sugar substitute. It quickly became a popular low-calorie sweetener worldwide, despite some early controversies over safety.
+    </p>
+  </div>
+  <a href="#" class="read-more">Read more...</a>
+</div>
+
+<div class="card collapsed">
+  <h2 style="font-size: 20px;">🖇️👩🏻‍🏭 Stainless Steel: Rusty Experiments</h2>
+  <div class="more-text" style="display: none;">
+    <p>
+      Harry Brearley was experimenting with steel alloys for erosion-resistant gun barrels. By chance, he created steel with about 12% chromium—and noticed a discarded sample hadn’t rusted. His accidental observation gave birth to stainless steel, transforming modern society by revolutionizing kitchenware, construction, and medical devices.
+    </p>
+  </div>
+  <a href="#" class="read-more">Read more...</a>
+</div>
+
+<div class="card collapsed">
+  <h2 style="font-size: 20px;">🧪🍳 Teflon: Frozen Gases Surprise</h2>
+  <p>
+    
+  </p>
+  <div class="more-text" style="display: none;">
+    <p>
+      In 1938, Roy Plunkett at DuPont was researching refrigerants when he opened a gas cylinder and found a slippery white powder inside instead of gas. That powder turned out to be Teflon—a material now famous for nonstick cookware and countless industrial uses, thanks to its chemical resistance and low friction properties.
+    </p>
+  </div>
+  <a href="#" class="read-more">Read more...</a>
+</div>
+
+<div class="card collapsed">
+  <h2 style="font-size: 20px;">🔋🛞 Vulcanized Rubber: Spilled Sulfur</h2>
+  <div class="more-text" style="display: none;">
+    <p>
+      Charles Goodyear accidentally dropped a rubber-sulfur mixture onto a hot stove in 1839. Instead of melting, the rubber became durable and elastic—creating vulcanized rubber, essential for tires, seals, and countless products we rely on today. This discovery revolutionized transportation and manufacturing industries.
+    </p>
+  </div>
+  <a href="#" class="read-more">Read more...</a>
+</div>
 
 
 <a class="twitter-timeline"
