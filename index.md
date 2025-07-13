@@ -65,14 +65,16 @@ title: Computational Materials Science
 
 </div>
 
+📲
 
 <a class="twitter-timeline"
    data-height="600"
    data-theme="dark"
-   href="https://twitter.com/NaturePhysics">
-  Tweets by Nature Physics
+   href="https://twitter.com/PhysRevX">
+  Tweets by Phys. Rev. X
 </a>
 <script defer src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 
 
