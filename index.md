@@ -84,22 +84,22 @@ title: Computational Materials Science
 <h2 style="font-size: 28px;"> 💻 Data-Driven Methods</h2>
 
 
-<div class="card">
+<div class="card collapsed">
   <h2>🔄 Density Functional Theory</h2>
   <p>
-    First-principle methods enable us to simulate electronic behavior, optical response by looping the 
+    First-principle methods enable us to simulate electronic behavior, optical response by looping the Hamiltonian of the many-body system through the charge density.
   </p>
 
   <div class="more-text" style="display: none;">
-    <p> Hamiltonian of the many-body system through the charge density.</p>
     <pre style="
-  background-color: #2A3056;
-  color: #81EC86;
-  padding: 10px;
-  border-radius: 5px;
-  font-size: 14px;
-  overflow-x: auto;
-">
+      background-color: #2A3056;
+      color: #81EC86;
+      padding: 10px;
+      border-radius: 5px;
+      font-size: 14px;
+      overflow-x: auto;
+      font-family: monospace;
+    ">
 <code>
 Initial ρ(r)
      ↓
@@ -115,13 +115,15 @@ No       Yes
 ↓         ↓
 Loop   Output Data
 </code></pre>
+  </div>
 
+  <a href="#" class="read-more">Read more...</a>
 </div>
 
 
 
 
-  <div class="card">
+<div class="card">
     <h2> 🧠 Machine Learning in Materials Discovery</h2>
     <p>
       Even more recently, Machine Learning techniques have transformed the landscape of materials search by predicting many prototype materials capable of optimizing and launching a new way to find new materials.
