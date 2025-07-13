@@ -65,7 +65,7 @@ title: Computational Materials Science
 
 </div>
 
-## Latest from Nature Review Physics
+# Latest from Nature Review Physics
 
 <a class="twitter-timeline"
    data-height="600"
