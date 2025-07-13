@@ -62,21 +62,6 @@ h1, h2 {
   }
 }
 
-.card {
-  height: 250px;
-  overflow: hidden;
-  position: relative;
-}
-
-.card::after {
-  content: "";
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  height: 60px;
-  width: 100%;
-  background: linear-gradient(to bottom, transparent, #2A3056);
-}
 
 
 
