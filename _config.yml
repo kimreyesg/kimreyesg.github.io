@@ -17,3 +17,10 @@ plugins:
 
 # Google Analytics (optional)
 # google_analytics: UA-XXXXXXXX-X
+
+# Custom CSS
+defaults:
+  - scope:
+      path: ""
+    values:
+      css: /assets/css/custom.css
