@@ -40,17 +40,22 @@ title: Computational Materials Science
     <pre><code>
       
     Initial Charge Density ρ(r)
+    
            ↓
     Compute Effective Potential Veff(r)
+    
            ↓
     Solve Kohn-Sham Equations
+    
            ↓
     Update ρ(r), Etot
-     ↓
+           ↓
+    
     Converged?
       /       \
      No        Yes
      ↓           ↓
+   
     Loop      Output Data
    
     </code></pre>
