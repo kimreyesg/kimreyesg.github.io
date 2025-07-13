@@ -121,17 +121,23 @@ Loop      Output Data
 
 
 
-<div class="card">
-    <h2> 🧠 Machine Learning in Materials Discovery</h2>
+<div class="card collapsed">
+  <h2>🧠 Machine Learning in Materials Discovery</h2>
+  <p>
+    Even more recently, Machine Learning techniques have transformed the landscape of materials search by predicting many prototype materials capable of optimizing and launching a new way to find new materials.
+  </p>
+  <div class="more-text" style="display: none;">
     <p>
-      Even more recently, Machine Learning techniques have transformed the landscape of materials search by predicting many prototype materials capable of optimizing and launching a new way to find new materials.
+      Machine learning models help explore huge chemical spaces, identify promising materials faster, and reduce the cost of experiments. This figure illustrates a typical ML pipeline in materials science.
     </p>
-    <p>
-      This website aims to introduce undergraduate students to solid state calculations, requiring them to understand physics, acquire computational techniques, engage in critical analysis, and cultivate curiosity about new ways of discovering materials.
-    </p>
+    <img 
+      src="https://github.com/user-attachments/assets/e8a101c3-7a58-4f2c-82f2-b00df0cc5375"
+      alt="Machine Learning Diagram"
+      style="max-width: 100%; border-radius: 8px;">
   </div>
-
+  <a href="#" class="read-more">Read more...</a>
 </div>
+
 
 
 <a class="twitter-timeline"
