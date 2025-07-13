@@ -54,7 +54,8 @@ title: Computational Materials Science
   </p>
 </div>
 
-## 💻 Computational Materials Science
+<h2 style="font-size: 28px;"> 💻 Computational Materials Science</h2>
+
 
   <div class="card">
     <h2> 🔄 Density Functional Theory</h2>
