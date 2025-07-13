@@ -60,10 +60,28 @@ title: Computational Materials Science
 <div class="card">
   <h2>🔄 Density Functional Theory</h2>
   <p>
-    First-principle methods enable us to simulate electronic behavior...
-    (full text here)
+    First-principle methods enable us to simulate electronic behavior, optical response...
   </p>
-  <a href="/dft-details.html" class="read-more">Read more...</a>
+
+  <div class="more-text" style="display: none;">
+    <pre><code>
+Initial ρ(r)
+     ↓
+Compute veff(r)
+     ↓
+Solve Kohn-Sham
+     ↓
+Update ρ(r), Etot
+     ↓
+Converged?
+  ↙     ↘
+No       Yes
+↓         ↓
+Loop   Output Data
+    </code></pre>
+  </div>
+
+  <a href="#" class="read-more">Read more...</a>
 </div>
 
 
@@ -92,5 +110,23 @@ title: Computational Materials Science
 <script defer src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    document.querySelectorAll('.read-more').forEach(function(link) {
+      link.addEventListener('click', function(e) {
+        e.preventDefault();
+        const card = link.closest('.card');
+        const moreText = card.querySelector('.more-text');
+        if (moreText.style.display === 'none') {
+          moreText.style.display = 'block';
+          link.textContent = 'Read less...';
+        } else {
+          moreText.style.display = 'none';
+          link.textContent = 'Read more...';
+        }
+      });
+    });
+  });
+</script>
 
 
