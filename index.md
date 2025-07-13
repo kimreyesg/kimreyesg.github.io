@@ -24,27 +24,39 @@ title: Computational Materials Science
   </div>
 
   <div class="card">
-    <h2>Happy Accidents</h2>
-    <p>
-      Many essential materials have been discovered by chance. For instance, saccharin was found in 1879 by Fahlberg when he noticed a sweet taste on his hands after handling coal tar derivatives.
-    </p>
-    <p>
-      Similarly, Roy Plunkett, a chemist at DuPont, discovered Teflon in 1938 while researching refrigerants.
-    </p>
-    <p class="photo-caption">
-      Left to right: Jack Rebok, Robert McHarness, and Roy Plunkett
-    </p>
-  </div>
+  <h2> 💡 Discoveries in Unexpected Places</h2>
+  <p>
+    Incredible materials have emerged from surprising situations. Sometimes, science advances because of a happy accident—or an experiment gone sideways!
+  </p>
+</div>
 
-  <div class="card">
-    <h2>Birth of Stainless Steel</h2>
-    <p>
-      Brearley experimented with steel alloys to make more erosion-resistant gun barrels. He created a steel with about 12% chromium, and later noticed that a discarded sample hadn’t rusted, unlike others. This accidental observation led to the birth of stainless steel.
-    </p>
-    <p class="photo-caption">
-      Stainless steel revolutionized modern society.
-    </p>
-  </div>
+<div class="card">
+  <h2>🍬🍭 Saccharin: Sweet Mistake</h2>
+  <p>
+    Saccharin, the first artificial sweetener, was discovered in 1879 when Constantin Fahlberg noticed a sweet taste on his fingers after working with coal tar derivatives. An improper lab practice—forgetting to wash his hands—led to a revolutionary sugar substitute!
+  </p>
+</div>
+
+<div class="card">
+  <h2>🖇️👩🏻‍🏭 Stainless Steel: Rusty Experiments</h2>
+  <p>
+    Harry Brearley was experimenting with steel alloys for erosion-resistant gun barrels. By chance, he created steel with about 12% chromium—and noticed a discarded sample hadn’t rusted. His accidental observation gave birth to stainless steel, transforming modern society.
+  </p>
+</div>
+
+<div class="card">
+  <h2>🧪🍳 Teflon: Frozen Gases Surprise</h2>
+  <p>
+    In 1938, Roy Plunkett at DuPont was researching refrigerants when he opened a gas cylinder and found a slippery white powder inside instead of gas. That powder turned out to be Teflon—a material now famous for nonstick cookware and countless industrial uses.
+  </p>
+</div>
+
+<div class="card">
+  <h2>🔋🛞 Vulcanized Rubber: Spilled Sulfur</h2>
+  <p>
+    Charles Goodyear accidentally dropped a rubber-sulfur mixture onto a hot stove in 1839. Instead of melting, the rubber became durable and elastic—creating vulcanized rubber, essential for tires, seals, and countless products we rely on today.
+  </p>
+</div>
 
   <div class="card">
     <h2>Computational Materials Science</h2>
