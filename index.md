@@ -125,11 +125,11 @@ Loop      Output Data
   </p>
   <div class="more-text" style="display: none;">
     <p>
-      Machine learning models help explore huge chemical spaces, identify promising materials faster, and reduce the cost of experiments. This figure illustrates a typical ML pipeline in materials science.
+      Machine learning models help explore huge chemical spaces, identify promising materials faster, and reduce the cost of experiments. This figure illustrates typical ML pipeline in materials science.
     </p>
     <img 
-      src="https://github.com/user-attachments/assets/e8a101c3-7a58-4f2c-82f2-b00df0cc5375"
-      alt="Machine Learning Diagram"
+      src="https://github.com/user-attachments/assets/f236666b-69d4-4692-a508-98d1d3874960"
+      alt="Machine Learning Diagram. https://www.nature.com/articles/s41578-022-00513-1"
       style="max-width: 100%; border-radius: 8px;">
   </div>
   <a href="#" class="read-more">Read more...</a>
