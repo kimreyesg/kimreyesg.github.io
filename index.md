@@ -23,7 +23,7 @@ title: Computational Materials Science
     </p>
   </div>
 
-<h2>💡 Discoveries in Unexpected Places</h2>
+<h2 style="font-size: 28px;">💡 Discoveries in Unexpected Places</h2>
 
 
 <div class="card">
