@@ -93,7 +93,7 @@ Loop      Output Data:
       Machine learning models help explore huge chemical spaces, identify promising materials faster, and reduce the cost of experiments. This figure illustrates typical ML pipeline in materials science. (Image: https://www.nature.com/articles/s41578-022-00513-1)
     </p>
     <img 
-      src="<img width="1085" height="495" alt="ML" src="https://github.com/user-attachments/assets/7935c27f-8f9d-4550-ab91-7d908dcdce87" />"
+      src="https://github.com/user-attachments/assets/7935c27f-8f9d-4550-ab91-7d908dcdce87"
       alt="Machine Learning Diagram. "
       style="max-width: 100%; border-radius: 8px;">
   </div>
