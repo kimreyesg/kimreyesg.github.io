@@ -1,7 +1,7 @@
 
 ### Research
 
-<img src="Retro-Computer.png" alt="Description of the image" width="200" height="100"/>
+<img src="Retro-Computer.png" alt="Description of the image" width="200" height="200"/>
 
 <div style="text-align: justify;">
 <p>I am dedicated to investigating semiconductor materials, particularly intermediate band semiconductors, to understand their electronic properties and explore their potential applications. Additionally, I am interested in studying defects in solids and magnetic materials.</p>
