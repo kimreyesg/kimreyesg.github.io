@@ -1,10 +1,26 @@
+# Theme
 remote_theme: pages-themes/minimal@v0.2.0
-logo: /assets/img/structure_spin_soft.gif
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
-title: Computational Materials Science
+
+# Site basics
+title: Exploring Quantum Materials at SUNY New Paltz.
+description: "Hydrogen-like sp² bonding in graphene. <br><br> Kim Reyes, Greis<br>Assistant Professor of Physics<br>kimreyesg@newpaltz.edu"
+logo: /assets/img/bonding.png
+
+# Author info
 author:
   name: Kim Reyes, Greis
   email: kimreyesg@newpaltz.edu
 
-description: Exploring Quantum Materials at SUNY New Paltz. 
+# Plugins
+plugins:
+  - jekyll-remote-theme
+
+# Google Analytics (optional)
+# google_analytics: UA-XXXXXXXX-X
+
+# Custom CSS
+defaults:
+  - scope:
+      path: ""
+    values:
+      css: /assets/css/custom.css

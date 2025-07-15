@@ -1,0 +1,133 @@
+body {
+  background: #2A3056;
+  color: #E0F7FA;
+  font-family: 'Arima Koshi', sans-serif;
+  padding: 20px;
+}
+
+nav {
+  text-align: center;
+  margin-bottom: 20px;
+  background-color: #43B0AF;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+nav a {
+  color: #2A3056;
+  text-decoration: none;
+  margin: 0 10px;
+  font-weight: bold;
+}
+
+nav a:hover {
+  color: #67FFF2;
+}
+
+h1, h2 {
+  color: #81EC86;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 20px;
+}
+/* Change color of site title link */
+header a, .site-title, .site-title a {
+  color: #81EC86 !important; /* your mint green, or any color you like */
+  text-decoration: none;
+}
+
+
+.card {
+  background: #294933;
+  border-radius: 8px;
+  border-left: 6px solid #446B5C;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+  padding: 20px;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 20px rgba(0,0,0,0.5);
+  border-left-color: #81EC86;
+}
+
+.photo-caption {
+  font-size: 0.9em;
+  color: #67FFF2;
+  margin-top: 10px;
+  font-style: italic;
+}
+
+@media (max-width: 500px) {
+  body {
+    padding: 10px;
+  }
+}
+
+.card pre,
+.card pre code {
+  background-color: #2A3056 !important;
+  color: #81EC86 !important;
+  padding: 10px;
+  border-radius: 5px;
+  font-size: 14px;
+  overflow-x: auto;
+  font-family: 'Fira Code', Consolas, Menlo, Courier, monospace;
+  white-space: pre;
+  word-break: normal;
+}
+
+header a, .site-title, .site-title a {
+  color: #81EC86 !important;
+  text-decoration: none;
+}
+
+/* Link colors */
+a {
+  color: #81EC86;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #67FFF2;
+}
+
+/* Definition lists (contact page) */
+dl dt {
+  font-weight: bold;
+  color: #81EC86;
+}
+
+dl dd {
+  margin-left: 20px;
+}
+
+/* Make headings bright and readable */
+h1, h2, h3, h4, h5, h6 {
+  color: #81EC86; /* neon mint green or any bright color */
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 20px 0;
+  color: #E0F7FA;
+  background-color: #2A3056;
+  font-family: 'Arima Koshi', sans-serif;
+}
+
+th, td {
+  border: 1px solid #81EC86;
+  padding: 8px;
+  text-align: left;
+}
+
+th {
+  background-color: #43B0AF;
+  color: #2A3056;
+}
+
