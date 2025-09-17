@@ -13,7 +13,7 @@
 
 ### Evaluating the Stability
 
-To assess a system's stability, one generates phonon dispersion spectra by:
+To assess a system's stability, generates phonon dispersion spectra by:
 * Expanding the total energy as a second-order Taylor series around atomic equilibrium positions
 * Calculating forces produced by small atomic displacements (via finite differences or DFPT)
 * Constructing and diagonalizing the dynamical matrix to find eigenvalues (ω²) at each k-point.
