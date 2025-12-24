@@ -6,9 +6,10 @@
 </div>
 
 
-<img src="Retro-Computer.png" alt="Description of the image" width="300" height="400"/>
+<img src="Retro-Computer.png" alt="Description of the image" width="200" height="300"/>
 
-
+## Undergraduate Research
+# Fall 2025
 
 <a href="https://scholar.google.com/citations?user=R3wN1y8AAAAJ&hl=en" 
    target="_blank" 
@@ -26,7 +27,7 @@
    Google Scholar
 </a>
 
-## Undergraduate Research
+
 
 
 [🏠](index.md)
