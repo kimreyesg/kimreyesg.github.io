@@ -2,7 +2,7 @@
 # Research
 
 <div style="text-align: justify;">
-<p>I am dedicated to investigating semiconductor materials, particularly intermediate band semiconductors, to understand their electronic properties and explore their potential applications. Additionally, I am interested in studying defects in solids and magnetic materials.</p>
+<p>I focus on understanding and engineering semiconductor materials, with an emphasis on intermediate band semiconductors. My work investigates how their electronic structure and defect physics shape key properties, and how those insights can enable device-relevant applications. In parallel, I study defects in solids and explore magnetic materials, linking atomic-scale imperfections to measurable electronic and magnetic behavior.</p>
 </div>
 <div style="display: flex; flex-direction: column; align-items: center; gap: 12px;">
   <a href="https://scholar.google.com/citations?user=R3wN1y8AAAAJ&hl=en"
@@ -20,7 +20,7 @@
      Google Scholar
   </a>
 
-  <img src="Retro-Computer.png" alt="Description of the image" width="200" height="300">
+  
 </div>
 
 
@@ -28,7 +28,7 @@
 ### Undergraduate Students Fall 2025
 
 
-
+<img src="Retro-Computer.png" alt="Description of the image" width="200" height="300">
 
 
 
