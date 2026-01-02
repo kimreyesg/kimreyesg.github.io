@@ -37,7 +37,7 @@
   Jillian Iqbal
 </p>
 
-      <!-- Image -->
+  <!-- Image -->
   <div style="flex:0 0 300px; max-width:300px;">
     <img src="assets/img/a-1.36-1-1.56-dirac-cones-ta.png"
          alt="Calibrating tight binding for biaxially strained graphene project image"
