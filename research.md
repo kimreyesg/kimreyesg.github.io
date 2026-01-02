@@ -39,7 +39,7 @@
   <div style="flex:1; min-width:280px;">
     <h3 style="margin-top:0;">Calibrating Tight Binding for Biaxially Strained Graphene</h3>
 <p style="margin:0 0 10px 0; font-weight:600; color:#F58426;">
-  Jillian Iqbal; Greis J. Kim-Reyes (SUNY New Paltz)
+  Jillian Iqbal
 </p>
     <p style="margin: 0.25rem 0 0.75rem 0;">
       We study the effect of uniform biaxial strain on monolayer graphene using a minimal tight binding model
