@@ -19,21 +19,21 @@
      ">
      Google Scholar
   </a>
-
+<img src="Retro-Computer.png" alt="Description of the image" width="200" height="300">
   
 </div>
 
 
 
 ## Undergraduate Research
-### Undergraduate Students Fall 2025
-
-
-<img src="Retro-Computer.png" alt="Description of the image" width="200" height="300">
+### Undergraduate Research in Physics 2025
 
 
 
 
 
 
-[🏠 Back Home](index.md)
+
+
+
+[🏠 Home](index.md)
