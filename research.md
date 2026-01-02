@@ -1,9 +1,3 @@
----
-layout: page
-title: Research
-permalink: /research/
----
-
 # Research
 
 <div style="text-align: justify;">
