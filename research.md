@@ -28,12 +28,7 @@
 ### Undergraduate Research in Physics 2025
 
 <div style="display:flex; gap:20px; align-items:flex-start; flex-wrap:wrap; margin: 18px 0;">
-  <!-- Image -->
-  <div style="flex:0 0 300px; max-width:300px;">
-    <img src="assets/img/a-1.36-1-1.56-dirac-cones-ta.png"
-         alt="Calibrating tight binding for biaxially strained graphene project image"
-         style="width:100%; height:auto; border-radius:12px; box-shadow:0 6px 18px rgba(0,0,0,0.18);" />
-  </div>
+
 
   <!-- Text -->
   <div style="flex:1; min-width:280px;">
@@ -41,6 +36,13 @@
 <p style="margin:0 0 10px 0; font-weight:600; color:#F58426;">
   Jillian Iqbal
 </p>
+
+      <!-- Image -->
+  <div style="flex:0 0 300px; max-width:300px;">
+    <img src="assets/img/a-1.36-1-1.56-dirac-cones-ta.png"
+         alt="Calibrating tight binding for biaxially strained graphene project image"
+         style="width:100%; height:auto; border-radius:12px; box-shadow:0 6px 18px rgba(0,0,0,0.18);" />
+  </div>
     <p style="margin: 0.25rem 0 0.75rem 0;">
       We study the effect of uniform biaxial strain on monolayer graphene using a minimal tight binding model
       with nearest and next-nearest neighbor hopping. A constant-hopping parametrization fails to match
