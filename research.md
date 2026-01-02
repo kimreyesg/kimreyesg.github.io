@@ -28,6 +28,43 @@
 ## Undergraduate Research
 ### Undergraduate Research in Physics 2025
 
+<div style="display:flex; gap:20px; align-items:flex-start; flex-wrap:wrap; margin: 18px 0;">
+  <!-- Image -->
+  <div style="flex:0 0 300px; max-width:300px;">
+    <img src="assets/img/a-1.36-1-1.56-dirac-cones-ta.png"
+         alt="Calibrating tight binding for biaxially strained graphene project image"
+         style="width:100%; height:auto; border-radius:12px; box-shadow:0 6px 18px rgba(0,0,0,0.18);" />
+  </div>
+
+  <!-- Text -->
+  <div style="flex:1; min-width:280px;">
+    <h3 style="margin-top:0;">Calibrating Tight Binding for Biaxially Strained Graphene</h3>
+
+    <p style="margin: 0.25rem 0 0.75rem 0;">
+      We study the effect of uniform biaxial strain on monolayer graphene using a minimal tight binding model
+      with nearest and next-nearest neighbor hopping. A constant-hopping parametrization fails to match
+      experimental trends, so we introduce a distance-dependent hopping of exponential form, which improves
+      the strain dependence of low-energy observables over a realistic strain range.
+    </p>
+
+    <!-- Links -->
+    <div style="display:flex; gap:12px; flex-wrap:wrap; margin-top:10px;">
+      <a href="assets/posters/graphene-strain-poster.pdf"
+         style="display:inline-block; padding:10px 14px; border-radius:10px; text-decoration:none;
+                background:#003E7E; color:white; font-weight:700;">
+        Poster (Portable Document Format (PDF))
+      </a>
+
+      <a href="assets/code/graphene-strain-model.nb"
+         style="display:inline-block; padding:10px 14px; border-radius:10px; text-decoration:none;
+                background:#F58426; color:white; font-weight:700;">
+        Code (Wolfram Language (Mathematica) Notebook)
+      </a>
+    </div>
+  </div>
+</div>
+
+<hr style="border:none; border-top:1px solid rgba(0,0,0,0.12); margin: 22px 0;">
 
 
 
