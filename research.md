@@ -114,8 +114,7 @@ band overlays along Γ–K–M–Γ that show the Dirac crossing moving
 rigidly with the NNN term and the loss of spectral mirror symmetry;
 and (ii) a Brillouin-zone “asymmetry map,” defined as the sum of the
 conduction and valence energies, which visualizes a six-fold pattern tied
-to lattice geometry. We extract a simple “asymmetry score” from the
-map and track the Dirac energy shift versus the NNN parameter.
+to lattice geometry.
     </p>
 
     <!-- Links -->
