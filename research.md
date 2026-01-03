@@ -35,7 +35,7 @@
 
 
 
-
+<hr style="border:none; border-top:1px solid rgba(0,0,0,0.12); margin: 22px 0;">
 
 # Undergraduate Research in Physics 2025
 
@@ -131,7 +131,7 @@ to lattice geometry.
       </a>
     </div>
   </div>
-
+<hr style="border:none; border-top:1px solid rgba(0,0,0,0.12); margin: 22px 0;">
 
 
 
