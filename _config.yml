@@ -5,7 +5,7 @@ remote_theme: pages-themes/minimal@v0.2.0
 title: Exploring Quantum Materials at SUNY New Paltz.
 description: "<br><br> Kim Reyes, Greis J. PhD<br>Assistant Professor of Physics<br>kimreyesg@newpaltz.edu"
 logo: scientist.png
-
+logo_alt: "Clearly generated with ChatGPT"
 # Author info
 author:
   name: Kim Reyes, Greis
