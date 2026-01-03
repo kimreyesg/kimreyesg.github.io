@@ -102,18 +102,7 @@
 </div>
 
     <p style="margin: 0.25rem 0 0.75rem 0;">
-We investigate electron–hole asymmetry in monolayer graphene using a
-minimal-band tight-binding model that adds Next-Nearest-Neighbor
-(NNN) hopping to the standard nearest-neighbor Hamiltonian. While
-NN hopping alone yields particle–hole symmetry and a Dirac crossing at
-charge neutrality, a finite NNN term preserves the gapless crossing but
-shifts the neutrality point and skews band curvatures across the Brillouin
-zone. We quantify these effects with two complementary outputs: (i)
-band overlays along Γ–K–M–Γ that show the Dirac crossing moving
-rigidly with the NNN term and the loss of spectral mirror symmetry;
-and (ii) a Brillouin-zone “asymmetry map,” defined as the sum of the
-conduction and valence energies, which visualizes a six-fold pattern tied
-to lattice geometry.
+We study electron–hole asymmetry in monolayer graphene using a minimal tight-binding model that extends nearest-neighbor hopping with a next-nearest-neighbor term. Nearest-neighbor hopping alone gives particle–hole symmetry and a Dirac crossing at charge neutrality, while the next-nearest-neighbor term keeps the crossing gapless but shifts the neutrality point and skews the band curvatures across the Brillouin zone. We demonstrate this using (i) band overlays along Γ–K–M–Γ, showing a rigid energy shift and loss of mirror symmetry, and (ii) an “asymmetry map” defined by Ec(k)+Ev(k), which reveals a six-fold pattern set by the lattice geometry.
     </p>
 
     <!-- Links -->
@@ -142,29 +131,14 @@ to lattice geometry.
 </p>
 
   <!-- Image -->
-<div style="flex:0 0 300px; max-width:300px; text-align:center;">
+<div style="flex:0 0 300px; max-width:500px; text-align:center;">
   <img src="bandstruct.png"
        alt="Particle–Hole Asymmetry in h-BN explained by NNN Tight-Binding"
        style="display:block; margin:0 auto; width:90%; height:auto; border-radius:12px; box-shadow:0 6px 18px rgba(0,0,0,0.18);" />
 </div>
 
     <p style="margin: 0.25rem 0 0.75rem 0;">
-h-BN is the gold-standard dielectric and encapsulation layer for van
-der Waals devices. Its atomically flat, chemically inert basal planes
-and wide ( 6 eV) band gap suppress interface traps and deliver low,
-reproducible leakage current even at nanometer thickness—performance
-that conventional oxides rarely match. These traits make h-BN ideal for
-building clean, stable 2D heterostructures and for benchmarking device
-reliability. We show how these device-level advantages follow from a
-compact, interpretable description of h-BN’s � bands using a minimal
-tight-binding model with nearest-neighbor (NN) hopping augmented by
-a single next-nearest-neighbor (NNN) term. Within this approach we
-can captures the observed particle-hole asymmetry, producing distinct
-electron-hole curvatures which aligns with realistic band shapes away
-from K. By matching the evanescent solution of the two-band dispersion
-to a standard tunneling picture. The result is a clear explanation of
-why a monolayer of h-BN provide reliable, low leakage insulation in 2D
-heterostructures. Sorry guys I could not completed.
+Hexagonal boron nitride (h-BN) is atomically flat, chemically inert, and has a wide band gap (about 6 electron volts), which suppresses interface traps and yields low, reproducible leakage even at nanometer thickness. We connect these device-level advantages to a compact tight-binding description of the 𝜋 bands using nearest-neighbor hopping plus a single next-nearest-neighbor term. This minimal model captures particle–hole asymmetry and realistic band curvature away from 𝐾. Using the evanescent solutions of the two-band dispersion in a tunneling picture, we explain why monolayer h-BN provides stable, low-leakage insulation in 2D heterostructures.
     </p>
 
     <!-- Links -->
