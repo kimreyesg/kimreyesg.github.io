@@ -46,10 +46,11 @@
   <!-- Text -->
   <div style="flex:1; min-width:280px;">
     <h2 style="margin-top:0;">Calibrating Tight Binding for Biaxially Strained Graphene</h2>
+    <h3 style="margin-top:0;">Jillian Iqbal</h3>
 <p style="margin:0 0 10px 0; font-weight:600; color:#F58426;">
-  Jillian Iqbal
+  Department of Physics and Astronomy, SUNY New Paltz
 </p>
-<h3 style="margin-top:0;">Department of Physics and Astronomy, SUNY New Paltz</h3>
+
 
   <!-- Image -->
 <div style="flex:0 0 300px; max-width:300px; text-align:center;">
