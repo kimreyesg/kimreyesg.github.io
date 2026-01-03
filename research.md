@@ -1,31 +1,46 @@
 # Research
+<div style="display:flex; gap:24px; align-items:flex-start; flex-wrap:wrap; margin:18px 0;">
 
-<div style="text-align: justify;">
-<p>I focus on understanding and engineering semiconductor materials, with an emphasis on intermediate band semiconductors. My work investigates how their electronic structure and defect physics shape key properties, and how those insights can enable device-relevant applications. In parallel, I study defects in solids and explore magnetic materials, linking atomic-scale imperfections to measurable electronic and magnetic behavior.</p>
+  <!-- Left: text -->
+  <div style="flex:1; min-width:280px; text-align:justify;">
+    <p style="margin-top:0;">
+      I focus on understanding and engineering semiconductor materials, with an emphasis on intermediate band semiconductors.
+      My work investigates how their electronic structure and defect physics shape key properties, and how those insights can enable
+      device-relevant applications. In parallel, I study defects in solids and explore magnetic materials, linking atomic-scale imperfections
+      to measurable electronic and magnetic behavior.
+    </p>
+  </div>
+
+  <!-- Right: button + image -->
+  <div style="flex:0 0 260px; max-width:260px; text-align:center;">
+    <a href="https://scholar.google.com/citations?user=R3wN1y8AAAAJ&hl=en"
+       target="_blank"
+       style="
+          display:inline-block;
+          background-color:#00CCBB;
+          color:#ffffff;
+          padding:10px 20px;
+          text-decoration:none;
+          font-weight:bold;
+          border-radius:10px;
+          font-family:sans-serif;
+          margin-bottom:12px;
+       ">
+       Google Scholar
+    </a>
+
+    <img src="Retro-Computer.png"
+         alt="Retro computer illustration"
+         style="display:block; margin:0 auto; width:90%; height:auto; border-radius:12px; box-shadow:0 10px 26px rgba(0,0,0,0.25);" />
+  </div>
+
 </div>
-<div style="display: flex; flex-direction: column; align-items: center; gap: 12px;">
-  <a href="https://scholar.google.com/citations?user=R3wN1y8AAAAJ&hl=en"
-     target="_blank"
-     style="
-        display: inline-block;
-        background-color: #00CCBB;
-        color: #ffffff;
-        padding: 10px 20px;
-        text-decoration: none;
-        font-weight: bold;
-        border-radius: 5px;
-        font-family: sans-serif;
-     ">
-     Google Scholar
-  </a>
-<img src="Retro-Computer.png" alt="Description of the image" width="200" height="300">
-  
-</div>
 
 
 
-## Undergraduate Research
-### Undergraduate Research in Physics 2025
+
+
+## Undergraduate Research in Physics 2025
 
 <div style="display:flex; gap:20px; align-items:flex-start; flex-wrap:wrap; margin: 18px 0;">
 
