@@ -143,7 +143,7 @@ to lattice geometry.
 
   <!-- Image -->
 <div style="flex:0 0 300px; max-width:300px; text-align:center;">
-  <img src="assets/img/bandstruct.png"
+  <img src="bandstruct.png"
        alt="Particle–Hole Asymmetry in h-BN explained by NNN Tight-Binding"
        style="display:block; margin:0 auto; width:90%; height:auto; border-radius:12px; box-shadow:0 6px 18px rgba(0,0,0,0.18);" />
 </div>
