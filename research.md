@@ -29,9 +29,6 @@
        Google Scholar
     </a>
 
-    <img src="Retro-Computer.png"
-         alt="Retro computer illustration"
-         style="display:block; margin:0 auto; width:90%; height:auto; border-radius:12px; box-shadow:0 10px 26px rgba(0,0,0,0.25);" />
   </div>
 
 </div>
@@ -40,7 +37,7 @@
 
 
 
-## Undergraduate Research in Physics 2025
+# Undergraduate Research in Physics 2025
 
 <div style="display:flex; gap:20px; align-items:flex-start; flex-wrap:wrap; margin: 18px 0;">
 
