@@ -133,6 +133,57 @@ to lattice geometry.
   </div>
 <hr style="border:none; border-top:1px solid rgba(0,0,0,0.12); margin: 22px 0;">
 
+  <!-- Text -->
+  <div style="flex:1; min-width:280px;">
+    <h2 style="margin-top:0;">Particle–Hole Asymmetry and Barrier Uniformity in h-BN explained by NNN Tight-Binding</h2>
+    <h3 style="margin-top:0;">Michael Buccino, Kendra Scheele</h3>
+<p style="margin:0 0 10px 0; font-weight:600; color:#F58426;">
+  Department of Physics and Astronomy, SUNY New Paltz
+</p>
+
+  <!-- Image -->
+<div style="flex:0 0 300px; max-width:300px; text-align:center;">
+  <img src="assets/img/bandstruct.png"
+       alt="Particle–Hole Asymmetry in h-BN explained by NNN Tight-Binding"
+       style="display:block; margin:0 auto; width:90%; height:auto; border-radius:12px; box-shadow:0 6px 18px rgba(0,0,0,0.18);" />
+</div>
+
+    <p style="margin: 0.25rem 0 0.75rem 0;">
+h-BN is the gold-standard dielectric and encapsulation layer for van
+der Waals devices. Its atomically flat, chemically inert basal planes
+and wide ( 6 eV) band gap suppress interface traps and deliver low,
+reproducible leakage current even at nanometer thickness—performance
+that conventional oxides rarely match. These traits make h-BN ideal for
+building clean, stable 2D heterostructures and for benchmarking device
+reliability. We show how these device-level advantages follow from a
+compact, interpretable description of h-BN’s � bands using a minimal
+tight-binding model with nearest-neighbor (NN) hopping augmented by
+a single next-nearest-neighbor (NNN) term. Within this approach we
+can captures the observed particle-hole asymmetry, producing distinct
+electron-hole curvatures which aligns with realistic band shapes away
+from K. By matching the evanescent solution of the two-band dispersion
+to a standard tunneling picture. The result is a clear explanation of
+why a monolayer of h-BN provide reliable, low leakage insulation in 2D
+heterostructures. Sorry guys I could not completed.
+    </p>
+
+    <!-- Links -->
+    <div style="display:flex; gap:12px; flex-wrap:wrap; margin-top:10px;">
+      <a href="assets/posters/Biaxial_Strain_Graphene_poster.pdf"
+         style="display:inline-block; padding:10px 14px; border-radius:10px; text-decoration:none;
+                background:#003E7E; color:white; font-weight:700;">
+        Poster (PDF)
+      </a>
+
+      <a href="assets/code/Graphene-TB-NNN-flavio.nb"
+         style="display:inline-block; padding:10px 14px; border-radius:10px; text-decoration:none;
+                background:#F58426; color:white; font-weight:700;">
+        Code (Wolfram Language (Mathematica) Notebook)
+      </a>
+    </div>
+  </div>
+<hr style="border:none; border-top:1px solid rgba(0,0,0,0.12); margin: 22px 0;">
+
 
 
 
