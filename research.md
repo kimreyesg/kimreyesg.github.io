@@ -54,7 +54,7 @@
 
   <!-- Image -->
 <div style="flex:0 0 300px; max-width:300px; text-align:center;">
-  <img src="assets/img/graphene-strain.png"
+  <img src="assets/img/a-1.36-1-1.56-dirac-cones-ta.png"
        alt="Calibrating tight binding for biaxially strained graphene project image"
        style="display:block; margin:0 auto; width:90%; height:auto; border-radius:12px; box-shadow:0 6px 18px rgba(0,0,0,0.18);" />
 </div>
