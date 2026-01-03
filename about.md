@@ -1,7 +1,7 @@
 ### About
 
 <p align="center" style="margin-top:2em;">
-  <img src="./me.jpg" alt="Kim" width="180">
+  <img src="./me.jpg" alt="Kim" width="200">
   <br>
 <span style="font-size:0.9em; color:#F58426; font-weight:700;">
   Dr. Greis J. Kim Reyes
