@@ -14,4 +14,4 @@ I am an Assistant Professor of Physics in the Physics and Astronomy Department a
 
 [Simplified CV](cv.md)
 
-[🏠](index.md)
+[🏠 Home](index.md)
