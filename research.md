@@ -41,6 +41,7 @@
 
 <div style="display:flex; gap:20px; align-items:flex-start; flex-wrap:wrap; margin: 18px 0;">
 
+<hr style="border:none; border-top:1px solid rgba(0,0,0,0.12); margin: 22px 0;">
 
   <!-- Text -->
   <div style="flex:1; min-width:280px;">
