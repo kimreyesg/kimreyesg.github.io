@@ -3,8 +3,9 @@
 <p align="center" style="margin-top:2em;">
   <img src="./portrait2.jpg" alt="Kim" width="180">
   <br>
-  <span style="font-size: 0.9em; color: #555;">Dr. Greis J. Kim Reyes</span>
-</p>
+<span style="font-size:0.9em; color:#F58426; font-weight:700;">
+  Dr. Greis J. Kim Reyes
+</span>
 
 <div style="text-align: justify;">  
 <p>
