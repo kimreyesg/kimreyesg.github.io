@@ -71,7 +71,7 @@
       <a href="assets/posters/Biaxial_Strain_Graphene_poster.pdf"
          style="display:inline-block; padding:10px 14px; border-radius:10px; text-decoration:none;
                 background:#003E7E; color:white; font-weight:700;">
-        Poster (Portable Document Format (PDF))
+        Poster (PDF)
       </a>
 
       <a href="assets/code/Biaxial-Strain-JI-GK.nb"
