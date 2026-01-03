@@ -88,8 +88,7 @@
 
   <!-- Text -->
   <div style="flex:1; min-width:280px;">
-    <h2 style="margin-top:0;">Heatmaps of NNN-Driven Asymmetry in
-Graphene/h2>
+    <h2 style="margin-top:0;">Heatmaps of NNN-Driven Asymmetry in Graphene</h2>
     <h3 style="margin-top:0;">Flavio Loja</h3>
 <p style="margin:0 0 10px 0; font-weight:600; color:#F58426;">
   Department of Chemistry, SUNY New Paltz
