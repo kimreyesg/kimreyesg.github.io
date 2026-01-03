@@ -37,7 +37,7 @@
 
 <hr style="border:none; border-top:1px solid rgba(0,0,0,0.12); margin: 22px 0;">
 
-# Undergraduate Research in Physics 2025
+# Undergraduate Research in Physics - Fall 2025
 
 <div style="display:flex; gap:20px; align-items:flex-start; flex-wrap:wrap; margin: 18px 0;">
 
