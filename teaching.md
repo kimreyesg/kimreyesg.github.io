@@ -16,7 +16,9 @@
 | Fall 2025     | General Physics 1        | 3       |
 |               | Quantum Physics          | 3       |
 |               | General Physics Lab 2    | 1       |
-
+| Spring 2026   | General Physics 1        | 3       |
+|               | Modern Physics           | 3       |
+|               | General Physics Lab 2    | 1       |
 
 <a href="https://github.com/kimreyesg/Quantum-Mechanics-with-Mathematica" target="_blank">Quantum Mechanics with Mathematica</a>
 
