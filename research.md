@@ -107,7 +107,7 @@ We study electron–hole asymmetry in monolayer graphene using a minimal tight-b
 
     <!-- Links -->
     <div style="display:flex; gap:12px; flex-wrap:wrap; margin-top:10px;">
-      <a href="assets/posters/Biaxial_Strain_Graphene_poster.pdf"
+      <a href="assets/posters/Poster_Heatmap.pdf"
          style="display:inline-block; padding:10px 14px; border-radius:10px; text-decoration:none;
                 background:#003E7E; color:white; font-weight:700;">
         Poster (PDF)
@@ -143,13 +143,13 @@ Hexagonal boron nitride (h-BN) is atomically flat, chemically inert, and has a w
 
     <!-- Links -->
     <div style="display:flex; gap:12px; flex-wrap:wrap; margin-top:10px;">
-      <a href="assets/posters/Biaxial_Strain_Graphene_poster.pdf"
+      <a href="assets/posters/Poster_hBN.pdf"
          style="display:inline-block; padding:10px 14px; border-radius:10px; text-decoration:none;
                 background:#003E7E; color:white; font-weight:700;">
         Poster (PDF)
       </a>
 
-      <a href="assets/code/Graphene-TB-NNN-flavio.nb"
+      <a href="assets/code/hBN-mk.nb"
          style="display:inline-block; padding:10px 14px; border-radius:10px; text-decoration:none;
                 background:#F58426; color:white; font-weight:700;">
         Code (Wolfram Language (Mathematica) Notebook)
