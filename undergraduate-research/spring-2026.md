@@ -33,12 +33,32 @@ This page highlights undergraduate research completed during Spring 2026 at SUNY
     </div>
   </div>
 
-  <div class="project-figure project-poster-preview">
-    <a href="/assets/posters/LLM_DFT_Poster.pdf" aria-label="Open the Spring 2026 h-BN band-gap prediction poster PDF">
-      <img src="/assets/img/LLM_DFT_Poster.png"
-           alt="Poster titled Band Gap Prediction in h-BN Using mBJ Data and Physically Informed Descriptors" />
-    </a>
-  </div>
+  <a href="/assets/posters/LLM_DFT_Poster.pdf"
+     aria-label="Open the Spring 2026 h-BN band-gap prediction poster PDF"
+     style="display:block; text-decoration:none; border-radius:16px; overflow:hidden; border:1px solid rgba(255,255,255,0.16); box-shadow:0 12px 28px rgba(0,0,0,0.24);">
+    <div style="background:#06477f; color:white; padding:28px 24px 22px; text-align:center; border-bottom:4px solid #f58220;">
+      <div style="font-size:1.65rem; line-height:1.15; font-weight:800;">Band Gap Prediction in h-BN</div>
+      <div style="font-size:1.08rem; line-height:1.3; font-weight:700; margin-top:6px;">Using mBJ Data and Physically Informed Descriptors</div>
+      <div style="font-size:0.95rem; margin-top:12px; opacity:0.92;">Michael Buccino · Kendra Scheele · Greis J. Kim-Reyes</div>
+    </div>
+    <div style="background:#f6f7f8; color:#20252b; padding:20px; display:grid; grid-template-columns:repeat(auto-fit,minmax(150px,1fr)); gap:12px;">
+      <div style="background:white; border-radius:10px; padding:14px; border-top:5px solid #06477f;">
+        <strong>DFT foundation</strong><br>
+        <span style="font-size:0.92rem;">Optimized h-BN lattice constant and calculated PAW-DFT band structure.</span>
+      </div>
+      <div style="background:white; border-radius:10px; padding:14px; border-top:5px solid #f58220;">
+        <strong>ML correction</strong><br>
+        <span style="font-size:0.92rem;">Random-forest prediction trained on mBJ data and physical descriptors.</span>
+      </div>
+      <div style="background:white; border-radius:10px; padding:14px; border-top:5px solid #555;">
+        <strong>Key result</strong><br>
+        <span style="font-size:0.92rem;">6.049 eV predicted versus 5.917 eV mBJ reference.</span>
+      </div>
+    </div>
+    <div style="background:#06477f; color:white; padding:11px 18px; font-size:0.92rem; text-align:center;">
+      APS Global Physics Summit · Denver, Colorado · March 2026
+    </div>
+  </a>
 </div>
 
 ## Project highlights
