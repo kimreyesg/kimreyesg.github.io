@@ -127,7 +127,7 @@ th {
 .semester-card {
   display: flex;
   flex-direction: column;
-  min-height: 150px;
+  min-height: 170px;
   padding: 22px;
   color: #E0F7FA;
   background: #294933;
@@ -153,6 +153,15 @@ th {
 
 .semester-summary {
   margin-top: 8px;
+  font-size: 1.08rem;
+  font-weight: 700;
+  line-height: 1.4;
+}
+
+.semester-students {
+  margin-top: 8px;
+  color: #F3C27A;
+  font-size: 0.96rem;
   line-height: 1.45;
 }
 
