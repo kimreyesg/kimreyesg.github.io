@@ -33,8 +33,9 @@ Select a semester to view the students, project descriptions, posters, and compu
 <div class="semester-grid">
   <a class="semester-card" href="/undergraduate-research/fall-2025/">
     <span class="semester-label">Fall 2025</span>
-    <span class="semester-summary">Graphene and h-BN tight-binding projects</span>
-    <span class="semester-action">View semester research →</span>
+    <span class="semester-summary">Graphene and h-BN Tight-Binding Research</span>
+    <span class="semester-students">Jillian Iqbal · Flavio Loja · Michael Buccino · Kendra Scheele</span>
+    <span class="semester-action">View projects, posters, and code →</span>
   </a>
 </div>
 
