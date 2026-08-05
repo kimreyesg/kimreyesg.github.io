@@ -33,12 +33,11 @@ h1, h2 {
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
   gap: 20px;
 }
-/* Change color of site title link */
+
 header a, .site-title, .site-title a {
-  color: #81EC86 !important; /* your mint green, or any color you like */
+  color: #81EC86 !important;
   text-decoration: none;
 }
-
 
 .card {
   background: #294933;
@@ -62,12 +61,6 @@ header a, .site-title, .site-title a {
   font-style: italic;
 }
 
-@media (max-width: 500px) {
-  body {
-    padding: 10px;
-  }
-}
-
 .card pre,
 .card pre code {
   background-color: #2A3056 !important;
@@ -81,12 +74,6 @@ header a, .site-title, .site-title a {
   word-break: normal;
 }
 
-header a, .site-title, .site-title a {
-  color: #81EC86 !important;
-  text-decoration: none;
-}
-
-/* Link colors */
 a {
   color: #81EC86;
   text-decoration: none;
@@ -96,7 +83,6 @@ a:hover {
   color: #67FFF2;
 }
 
-/* Definition lists (contact page) */
 dl dt {
   font-weight: bold;
   color: #81EC86;
@@ -106,9 +92,8 @@ dl dd {
   margin-left: 20px;
 }
 
-/* Make headings bright and readable */
 h1, h2, h3, h4, h5, h6 {
-  color: #81EC86; /* neon mint green or any bright color */
+  color: #81EC86;
 }
 
 table {
@@ -131,3 +116,130 @@ th {
   color: #2A3056;
 }
 
+/* Semester navigation on the Research page */
+.semester-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 18px;
+  margin: 22px 0 30px;
+}
+
+.semester-card {
+  display: flex;
+  flex-direction: column;
+  min-height: 150px;
+  padding: 22px;
+  color: #E0F7FA;
+  background: #294933;
+  border: 1px solid rgba(129, 236, 134, 0.35);
+  border-left: 6px solid #81EC86;
+  border-radius: 12px;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.28);
+  transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
+}
+
+.semester-card:hover {
+  color: #E0F7FA;
+  transform: translateY(-4px);
+  border-color: #81EC86;
+  box-shadow: 0 10px 24px rgba(0, 0, 0, 0.4);
+}
+
+.semester-label {
+  color: #81EC86;
+  font-size: 1.55rem;
+  font-weight: 700;
+}
+
+.semester-summary {
+  margin-top: 8px;
+  line-height: 1.45;
+}
+
+.semester-action {
+  margin-top: auto;
+  padding-top: 16px;
+  color: #67FFF2;
+  font-weight: 700;
+}
+
+/* Individual undergraduate research projects */
+.project-entry {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(220px, 320px);
+  gap: 26px;
+  align-items: start;
+  margin: 24px 0;
+  padding: 24px;
+  background: rgba(41, 73, 51, 0.72);
+  border-radius: 12px;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.25);
+}
+
+.project-entry h2,
+.project-entry h3 {
+  margin-top: 0;
+}
+
+.project-affiliation {
+  margin-top: -4px;
+  color: #F58426;
+  font-weight: 700;
+}
+
+.project-figure img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.3);
+}
+
+.project-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-top: 14px;
+}
+
+.project-button {
+  display: inline-block;
+  padding: 10px 15px;
+  border-radius: 9px;
+  color: #ffffff !important;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.project-button-primary {
+  background: #003E7E;
+}
+
+.project-button-accent {
+  background: #F58426;
+}
+
+.project-button-scholar {
+  background: #00AFA3;
+}
+
+.project-button:hover {
+  color: #ffffff !important;
+  filter: brightness(1.1);
+}
+
+@media (max-width: 700px) {
+  body {
+    padding: 10px;
+  }
+
+  .project-entry {
+    grid-template-columns: 1fr;
+    padding: 18px;
+  }
+
+  .project-figure {
+    max-width: 420px;
+    margin: 0 auto;
+  }
+}
