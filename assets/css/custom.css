@@ -1,17 +1,17 @@
-/* Clean light palette layered on top of the GitHub Pages Minimal theme. */
+/* Soft minimal palette layered on top of the GitHub Pages Minimal theme. */
 :root {
-  --page-bg: #f6f8fb;
-  --surface: #ffffff;
-  --surface-soft: #f0f4f7;
-  --text: #263238;
-  --muted: #5f6f78;
-  --heading: #173b57;
-  --accent: #287f83;
-  --accent-dark: #1d666a;
-  --accent-soft: #e8f3f3;
-  --orange: #d97728;
-  --border: #dbe3e8;
-  --shadow: 0 5px 16px rgba(28, 48, 65, 0.08);
+  --page-bg: #f4f3ef;
+  --surface: #fbfbf8;
+  --surface-soft: #f0f1ed;
+  --text: #34393c;
+  --muted: #6d7678;
+  --heading: #2d3b40;
+  --accent: #6f8d88;
+  --accent-dark: #526f6b;
+  --accent-soft: #edf2ef;
+  --orange: #b8734d;
+  --border: #e1e3de;
+  --shadow: 0 2px 8px rgba(39, 50, 53, 0.055);
 }
 
 body {
@@ -50,18 +50,18 @@ a:hover {
 }
 
 header img {
-  border-radius: 12px;
+  border-radius: 10px;
   box-shadow: var(--shadow);
 }
 
 nav {
   text-align: center;
   margin-bottom: 26px;
-  background: var(--surface);
+  background: var(--surface-soft);
   padding: 11px 12px;
   border: 1px solid var(--border);
-  border-radius: 10px;
-  box-shadow: var(--shadow);
+  border-radius: 9px;
+  box-shadow: none;
 }
 
 nav a {
@@ -83,9 +83,9 @@ nav a:hover {
 
 .card {
   background: var(--surface);
-  border-radius: 12px;
+  border-radius: 10px;
   border: 1px solid var(--border);
-  border-left: 5px solid var(--accent);
+  border-left: 4px solid var(--accent);
   box-shadow: var(--shadow);
   padding: 20px;
   transition: transform 0.2s ease, box-shadow 0.2s ease;
@@ -93,7 +93,7 @@ nav a:hover {
 
 .card:hover {
   transform: translateY(-2px);
-  box-shadow: 0 8px 22px rgba(28, 48, 65, 0.12);
+  box-shadow: 0 4px 12px rgba(39, 50, 53, 0.08);
 }
 
 .card h2 {
@@ -110,11 +110,11 @@ nav a:hover {
 .card pre,
 .card pre code,
 pre {
-  background: #eef2f5 !important;
-  color: #23445a !important;
+  background: #f0f1ed !important;
+  color: #3a4b50 !important;
   padding: 12px;
   border: 1px solid var(--border);
-  border-radius: 8px;
+  border-radius: 7px;
   font-size: 14px;
   overflow-x: auto;
   font-family: "SFMono-Regular", Consolas, "Liberation Mono", monospace;
@@ -173,18 +173,18 @@ hr {
   color: var(--text);
   background: var(--surface);
   border: 1px solid var(--border);
-  border-top: 4px solid var(--accent);
-  border-radius: 12px;
+  border-top: 3px solid var(--accent);
+  border-radius: 10px;
   box-shadow: var(--shadow);
   transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
 }
 
 .semester-card:hover {
   color: var(--text);
-  transform: translateY(-3px);
-  border-color: #b8cbd2;
+  transform: translateY(-2px);
+  border-color: #cfd5d0;
   border-top-color: var(--accent-dark);
-  box-shadow: 0 9px 22px rgba(28, 48, 65, 0.13);
+  box-shadow: 0 4px 12px rgba(39, 50, 53, 0.08);
 }
 
 .semester-label {
@@ -224,7 +224,7 @@ hr {
   padding: 24px;
   background: var(--surface);
   border: 1px solid var(--border);
-  border-radius: 12px;
+  border-radius: 10px;
   box-shadow: var(--shadow);
 }
 
@@ -265,8 +265,8 @@ hr {
   display: block;
   width: 100%;
   height: auto;
-  border-radius: 10px;
-  box-shadow: 0 5px 16px rgba(28, 48, 65, 0.12);
+  border-radius: 9px;
+  box-shadow: 0 3px 10px rgba(39, 50, 53, 0.08);
 }
 
 .project-links {
@@ -279,14 +279,14 @@ hr {
 .project-button {
   display: inline-block;
   padding: 10px 15px;
-  border-radius: 8px;
+  border-radius: 7px;
   color: #ffffff !important;
   font-weight: 700;
   text-decoration: none;
 }
 
 .project-button-primary {
-  background: #275f85;
+  background: #536f82;
 }
 
 .project-button-accent {
@@ -299,7 +299,7 @@ hr {
 
 .project-button:hover {
   color: #ffffff !important;
-  filter: brightness(1.06);
+  filter: brightness(1.04);
 }
 
 /* Keep photos clean without changing the images themselves. */
