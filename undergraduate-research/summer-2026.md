@@ -32,6 +32,42 @@ This page highlights the Summer 2026 AC2 undergraduate research project at SUNY 
       </a>
     </div>
   </div>
+
+  <figure style="margin:10px auto 26px; max-width:980px; text-align:center;">
+    <img src="/assets/img/summer-2026-ac2-group.jpg"
+         alt="Leonides Lopez IV, Saif Imdad, and Anthony Flemister with their tetrahedrally bonded materials research poster"
+         style="display:block; width:100%; height:auto; border-radius:14px; box-shadow:0 10px 26px rgba(0,0,0,0.28);" />
+    <figcaption style="margin-top:10px; font-size:0.95rem; color:#BFEFF0; font-style:italic;">
+      Leonides Lopez IV, Saif Imdad, and Anthony Flemister with their Summer 2026 AC2 computational materials physics project.
+    </figcaption>
+  </figure>
+
+  <a href="/assets/posters/AC2_poster_FINAL.pdf"
+     aria-label="Open the Summer 2026 AC2 tetrahedrally bonded materials poster PDF"
+     style="display:block; text-decoration:none; border-radius:16px; overflow:hidden; border:1px solid rgba(255,255,255,0.16); box-shadow:0 12px 28px rgba(0,0,0,0.24);">
+    <div style="background:#06477f; color:white; padding:28px 24px 22px; text-align:center; border-bottom:4px solid #f58220;">
+      <div style="font-size:1.65rem; line-height:1.15; font-weight:800;">Quantum Simulations of Tetrahedrally Bonded Materials</div>
+      <div style="font-size:1.08rem; line-height:1.3; font-weight:700; margin-top:6px;">Connecting Real-Space Electron Localization with Reciprocal-Space Band Structure</div>
+      <div style="font-size:0.95rem; margin-top:12px; opacity:0.92;">Leonides Lopez IV · Saif Imdad · Anthony Flemister · Greis J. Kim-Reyes</div>
+    </div>
+    <div style="background:#f6f7f8; color:#20252b; padding:20px; display:grid; grid-template-columns:repeat(auto-fit,minmax(150px,1fr)); gap:12px;">
+      <div style="background:white; border-radius:10px; padding:14px; border-top:5px solid #06477f;">
+        <strong>Reciprocal space</strong><br>
+        <span style="font-size:0.92rem;">DFT band structures track the evolution from finite-gap systems toward semimetallic and metallic behavior.</span>
+      </div>
+      <div style="background:white; border-radius:10px; padding:14px; border-top:5px solid #f58220;">
+        <strong>Real space</strong><br>
+        <span style="font-size:0.92rem;">ELF maps visualize how electron localization and bond-centered character change across the materials.</span>
+      </div>
+      <div style="background:white; border-radius:10px; padding:14px; border-top:5px solid #555;">
+        <strong>Key result</strong><br>
+        <span style="font-size:0.92rem;">ΔELF and DFT band gaps show family-dependent clustering rather than one universal trend.</span>
+      </div>
+    </div>
+    <div style="background:#06477f; color:white; padding:11px 18px; font-size:0.92rem; text-align:center;">
+      Summer 2026 · AC2 Undergraduate Research · SUNY New Paltz
+    </div>
+  </a>
 </div>
 
 ## Project highlights
