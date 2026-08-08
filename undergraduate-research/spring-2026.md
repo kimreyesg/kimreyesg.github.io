@@ -33,6 +33,15 @@ This page highlights undergraduate research completed during Spring 2026 at SUNY
     </div>
   </div>
 
+  <figure style="margin:10px auto 26px; max-width:980px; text-align:center;">
+    <img src="/assets/img/IMG_0180-EDIT.jpg"
+         alt="Michael Buccino and Kendra Scheele presenting their h-BN band-gap research poster at the APS Global Physics Summit"
+         style="display:block; width:100%; height:auto; border-radius:14px; box-shadow:0 10px 26px rgba(0,0,0,0.28);" />
+    <figcaption style="margin-top:10px; font-size:0.95rem; color:#BFEFF0; font-style:italic;">
+      Michael Buccino and Kendra Scheele presenting their h-BN band-gap project at the APS Global Physics Summit, Denver, March 2026.
+    </figcaption>
+  </figure>
+
   <a href="/assets/posters/LLM_DFT_Poster.pdf"
      aria-label="Open the Spring 2026 h-BN band-gap prediction poster PDF"
      style="display:block; text-decoration:none; border-radius:16px; overflow:hidden; border:1px solid rgba(255,255,255,0.16); box-shadow:0 12px 28px rgba(0,0,0,0.24);">
