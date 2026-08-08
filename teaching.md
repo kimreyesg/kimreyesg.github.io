@@ -1,25 +1,56 @@
+---
+layout: default
+title: Teaching
+permalink: /teaching.html
+---
 
-### Teaching
+# Teaching
 
+<p class="section-intro">
+Teaching is one of the central parts of my academic work. I aim to create an interactive environment where students ask questions, solve problems actively, and use computation to develop physical intuition.
+</p>
 
-<div style="text-align: justify;">
-<p>Teaching is one of my greatest passions. I want to create an interactive learning environment where students feel encouraged to ask questions, think critically, and explore the world of physics. My Quantum Physics course has been introduced alongside the use of Mathematica, which I believe will help students develop the new physics intuition required for analyzing quantum materials and many other topics.</p>
+<div class="feature-grid two-column-grid">
+  <div class="feature-card static-card">
+    <span class="feature-kicker">Approach</span>
+    <h2>Problem solving first</h2>
+    <p>Conceptual discussion is paired with sustained problem solving so students can test ideas, identify assumptions, and build confidence using the mathematics of physics.</p>
+  </div>
+
+  <div class="feature-card static-card">
+    <span class="feature-kicker">Computation</span>
+    <h2>Physics with numerical tools</h2>
+    <p>In courses such as Quantum Physics, I incorporate computational tools such as Mathematica to connect formal derivations with visualization, numerical experiments, and quantum-material applications.</p>
+  </div>
 </div>
 
+## Courses taught at SUNY New Paltz
 
-| Semester      | Course                   | Credits |
-|---------------|--------------------------|---------|
-| Fall 2024     | General Physics 1        | 3       |
-|               | Quantum Physics          | 3       |
-| Spring 2025   | General Physics 1        | 3       |
-|               | General Physics Lab 2    | 1       |
-| Fall 2025     | General Physics 1        | 3       |
-|               | Quantum Physics          | 3       |
-|               | General Physics Lab 2    | 1       |
-| Spring 2026   | General Physics 1        | 3       |
-|               | Modern Physics           | 3       |
-|               | General Physics Lab 2    | 1       |
+<div class="table-wrap">
+<table>
+  <thead>
+    <tr><th>Semester</th><th>Course</th><th>Credits</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Fall 2024</td><td>General Physics I</td><td>3</td></tr>
+    <tr><td></td><td>Quantum Physics</td><td>3</td></tr>
+    <tr><td>Spring 2025</td><td>General Physics I</td><td>3</td></tr>
+    <tr><td></td><td>General Physics Lab II</td><td>1</td></tr>
+    <tr><td>Fall 2025</td><td>General Physics I</td><td>3</td></tr>
+    <tr><td></td><td>Quantum Physics</td><td>3</td></tr>
+    <tr><td></td><td>General Physics Lab II</td><td>1</td></tr>
+    <tr><td>Spring 2026</td><td>General Physics I</td><td>3</td></tr>
+    <tr><td></td><td>Modern Physics</td><td>3</td></tr>
+    <tr><td></td><td>General Physics Lab II</td><td>1</td></tr>
+  </tbody>
+</table>
+</div>
 
-<a href="https://github.com/kimreyesg/Quantum-Mechanics-with-Mathematica" target="_blank">Quantum Mechanics with Mathematica</a>
+## Computational teaching resource
 
-[🏠](index.md)
+<a class="resource-card" href="https://github.com/kimreyesg/Quantum-Mechanics-with-Mathematica" target="_blank" rel="noopener noreferrer">
+  <span class="feature-kicker">GitHub Repository</span>
+  <h2>Quantum Mechanics with Mathematica</h2>
+  <p>A collection of computational material designed to support quantum-mechanics instruction and help students explore quantum systems numerically and visually.</p>
+  <span class="feature-link">Open repository →</span>
+</a>
