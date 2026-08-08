@@ -2,15 +2,14 @@
 remote_theme: pages-themes/minimal@v0.2.0
 
 # Site basics
-title: Exploring Quantum Materials at SUNY New Paltz.
-description: "<br><br> Kim Reyes, Greis J. PhD<br>Assistant Professor of Physics<br>kimreyesg@newpaltz.edu"
+title: Greis J. Kim Reyes | Computational Materials Physics
+description: "Assistant Professor of Physics at SUNY New Paltz · Computational materials physics · electronic structure · semiconductor materials"
 logo: /assets/img/bonding.png
-logo_alt: "Clearly generated with ChatGPT"
-logo_credit: "Clearly generated with ChatGPT"
+logo_alt: "Computational materials physics visualization"
 
 # Author info
 author:
-  name: Kim Reyes, Greis
+  name: Greis J. Kim Reyes
   email: kimreyesg@newpaltz.edu
 
 # Plugins
