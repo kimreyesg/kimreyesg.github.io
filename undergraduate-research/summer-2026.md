@@ -37,7 +37,7 @@ This page highlights the Summer 2026 AC2 undergraduate research project at SUNY 
     <img src="/assets/img/summer-2026-ac2-group.jpg"
          alt="Leonides Lopez IV, Saif Imdad, and Anthony Flemister with their tetrahedrally bonded materials research poster"
          style="display:block; width:100%; height:auto; border-radius:14px; box-shadow:0 10px 26px rgba(0,0,0,0.28);" />
-    <figcaption style="margin-top:10px; font-size:0.95rem; color:#BFEFF0; font-style:italic;">
+    <figcaption style="margin-top:10px; font-size:0.95rem; color:#4f5f61; font-style:italic;">
       Leonides Lopez IV, Saif Imdad, and Anthony Flemister with their Summer 2026 AC2 computational materials physics project.
     </figcaption>
   </figure>
