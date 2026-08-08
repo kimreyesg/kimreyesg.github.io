@@ -31,6 +31,13 @@ permalink: /research.html
 Select a semester to view the students, project descriptions, posters, and computational materials.
 
 <div class="semester-grid">
+  <a class="semester-card" href="/undergraduate-research/summer-2026/">
+    <span class="semester-label">Summer 2026</span>
+    <span class="semester-summary">AC2: Real-Space Electron Localization and Reciprocal-Space Band Structure</span>
+    <span class="semester-students">Leonides Lopez IV · Saif Imdad · Anthony Flemister</span>
+    <span class="semester-action">View project, poster, and results →</span>
+  </a>
+
   <a class="semester-card" href="/undergraduate-research/spring-2026/">
     <span class="semester-label">Spring 2026</span>
     <span class="semester-summary">DFT and Machine-Learning Band-Gap Prediction for h-BN</span>
