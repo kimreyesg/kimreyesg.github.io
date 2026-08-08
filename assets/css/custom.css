@@ -102,9 +102,13 @@ nav a:hover {
 
 .photo-caption {
   font-size: 0.9em;
-  color: var(--muted);
+  color: #4f5f61 !important;
   margin-top: 10px;
   font-style: italic;
+}
+
+figcaption {
+  color: #4f5f61 !important;
 }
 
 .card pre,
