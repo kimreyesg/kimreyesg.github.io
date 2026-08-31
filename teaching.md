@@ -31,8 +31,7 @@ This semester I am teaching **General Physics I (PHY 201, calculus-based)**, **Q
   <div class="resource-card">
     <span class="eyebrow">Course notes</span>
     <h3>Class notes</h3>
-    <p>I maintain dedicated notes for General Physics I and Quantum Physics and share course materials with students through the appropriate course channels.</p>
-    <a class="card-link" href="/teaching/general-physics-1-notes.html">General Physics I notes →</a>
+    <p>Course notes are provided to enrolled students through the course site.</p>
   </div>
 
   <div class="resource-card">
