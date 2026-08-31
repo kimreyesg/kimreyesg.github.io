@@ -5,15 +5,10 @@ title: Home
 
 <div class="hero">
   <span class="eyebrow">Physics · SUNY New Paltz</span>
-  <h1>Teaching, computational materials research, and undergraduate discovery.</h1>
+  <h1>Teaching, computational materials, and undergraduate mentoring.</h1>
   <p class="lead">
-    I am a physics professor and computational materials researcher. My academic work connects three parts of the same goal: understanding materials, teaching physics clearly, and giving undergraduate students meaningful research experiences.
+    I am a physics professor and computational materials researcher. My academic work connects three parts of the same goal: understanding materials, teaching physics, and involving undergraduate students in research.
   </p>
-  <div class="hero-actions">
-    <a class="button-link button-link-primary" href="/research.html">Research</a>
-    <a class="button-link button-link-secondary" href="/teaching.html">Teaching</a>
-    <a class="button-link button-link-secondary" href="/undergraduate-research/">Undergraduate Research</a>
-  </div>
 </div>
 
 <div class="section-heading">
