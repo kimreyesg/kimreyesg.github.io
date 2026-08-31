@@ -1,18 +1,31 @@
+---
+layout: default
+title: Contact
+permalink: /contact.html
+---
 
-### Contact
-<dl>
-<dt>Email:</dt>
-<dd>kimreyesg@newpaltz.edu</dd>
-<dt>Office:</dt>
-<dd>State University of New York at New Paltz</dd>
-<dd>Physics and Astronomy Department</dd>
-<dd>Science Hall 275</dd>
-<dt>Phone:</dt>
-<dd>(845) 257-3734</dd>
-</dl>
-<div style="text-align: center;">
-<img src="./NewPaltz-night-slider.jpg" alt="SUNY New Paltz" style="width: 600px; height: auto;">
+<span class="eyebrow">Contact</span>
+# Get in touch
+
+<p class="lead">For questions about teaching, research, or undergraduate research opportunities, please use the contact information below.</p>
+
+<div class="contact-grid">
+  <div class="contact-card">
+    <h3>Email</h3>
+    <p><a href="mailto:kimreyesg@newpaltz.edu">kimreyesg@newpaltz.edu</a></p>
+  </div>
+
+  <div class="contact-card">
+    <h3>Office</h3>
+    <p>Science Hall 275<br>SUNY New Paltz<br>Physics &amp; Astronomy</p>
+  </div>
+
+  <div class="contact-card">
+    <h3>Phone</h3>
+    <p>(845) 257-3734</p>
+  </div>
 </div>
 
-
-[🏠](index.md)
+<div class="campus-image">
+  <img src="/NewPaltz-night-slider.jpg" alt="SUNY New Paltz campus at night">
+</div>

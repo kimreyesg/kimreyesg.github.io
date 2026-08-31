@@ -1,18 +1,23 @@
-### About
+---
+layout: default
+title: About
+permalink: /about.html
+---
 
-<p align="center" style="margin-top:2em;">
-  <img src="/assets/img/portrait2.jpg" alt="Kim" width="240">
-  <br>
-<span style="font-size:0.9em; color:#F58426; font-weight:700;">
-  Dr. Greis J. Kim Reyes
-</span>
-</p>
-<div style="text-align: justify;">  
-<p>
-I am an Assistant Professor of Physics in the Physics and Astronomy Department at SUNY New Paltz, and my research focuses on studying materials using computational techniques. In addition, I am passionate about teaching and combine my lectures with simulations and many problem-solving sessions.</p>
+<div class="about-hero">
+  <img src="/assets/img/portrait2.jpg" alt="Greis J. Kim Reyes">
+
+  <div class="about-copy">
+    <span class="eyebrow">About</span>
+    <h1>Greis J. Kim Reyes</h1>
+    <p class="lead">Assistant Professor of Physics in the Department of Physics and Astronomy at SUNY New Paltz.</p>
+    <p>
+      My academic work brings together computational materials research, physics teaching, and undergraduate mentorship. I study materials using computational techniques, and I aim to make physics courses active, quantitative, and connected to simulation and problem solving.
+    </p>
+    <div class="page-actions">
+      <a class="button-link button-link-primary" href="/cv.html">Simplified CV</a>
+      <a class="button-link button-link-secondary" href="/research.html">Research</a>
+      <a class="button-link button-link-secondary" href="/contact.html">Contact</a>
+    </div>
+  </div>
 </div>
-
-
-[Simplified CV](cv.md)
-
-[🏠 Home](index.md)

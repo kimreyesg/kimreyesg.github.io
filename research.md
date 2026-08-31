@@ -4,53 +4,58 @@ title: Research
 permalink: /research.html
 ---
 
-# Research
+<span class="eyebrow">Research</span>
+# Computational materials physics
 
-<div style="display:flex; gap:24px; align-items:flex-start; flex-wrap:wrap; margin:18px 0;">
-  <div style="flex:1; min-width:280px; text-align:justify;">
-    <p style="margin-top:0;">
-      I focus on understanding and engineering semiconductor materials, with an emphasis on intermediate-band semiconductors.
-      My work investigates how electronic structure and defect physics shape key properties and enable device-relevant applications.
-      In parallel, I study defects in solids and magnetic materials, connecting atomic-scale behavior with measurable electronic and magnetic properties.
-    </p>
+<p class="lead">
+My research focuses on understanding and engineering semiconductor materials through electronic-structure calculations. I am particularly interested in intermediate-band semiconductors, defect physics, and how atomic-scale changes shape optical, electronic, and magnetic properties.
+</p>
+
+<div class="page-actions">
+  <a class="button-link button-link-primary" href="https://scholar.google.com/citations?user=R3wN1y8AAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Google Scholar</a>
+  <a class="button-link button-link-secondary" href="/cv.html">Simplified CV</a>
+</div>
+
+## Research themes
+
+<div class="research-theme-grid">
+  <div class="research-theme">
+    <h3>Semiconductor electronic structure</h3>
+    <p>Band structures, optical response, excitonic effects, and materials design for semiconductor systems.</p>
   </div>
 
-  <div style="flex:0 0 260px; max-width:260px; text-align:center;">
-    <a class="project-button project-button-scholar"
-       href="https://scholar.google.com/citations?user=R3wN1y8AAAAJ&hl=en"
-       target="_blank" rel="noopener noreferrer">
-      Google Scholar
-    </a>
+  <div class="research-theme">
+    <h3>Defects and magnetism</h3>
+    <p>How defects, dopants, and structural distortions modify electronic and magnetic behavior in solids.</p>
+  </div>
+
+  <div class="research-theme">
+    <h3>Computational materials methods</h3>
+    <p>First-principles simulations and related computational approaches for connecting microscopic physics with measurable properties.</p>
   </div>
 </div>
 
-<hr>
+## Selected publications
 
-# Undergraduate Research by Semester
+<div class="publication-list">
+  <div class="publication-item">
+    <strong>Giant Excitonic Effects in Vacancy-Ordered Double Perovskites</strong>
+    <span class="publication-meta">F. Zhang, W. Gao, G. J. Cruz, Y. Sun, P. Zhang, J. Zhao · Physical Review B · 2023</span>
+  </div>
 
-Select a semester to view the students, project descriptions, posters, and computational materials.
+  <div class="publication-item">
+    <strong>Giant Narrow-Band Optical Absorption and Distinctive Excitonic Structures of Monolayer C<sub>3</sub>N and C<sub>3</sub>B</strong>
+    <span class="publication-meta">Z. Tang, G. J. Cruz, Y. Wu, W. Xia, F. Jia, W. Zhang, P. Zhang · Physical Review Applied · 2022</span>
+  </div>
 
-<div class="semester-grid">
-  <a class="semester-card" href="/undergraduate-research/summer-2026/">
-    <span class="semester-label">Summer 2026</span>
-    <span class="semester-summary">AC2: Real-Space Electron Localization and Reciprocal-Space Band Structure</span>
-    <span class="semester-students">Leonides Lopez IV · Saif Imdad · Anthony Flemister</span>
-    <span class="semester-action">View project, poster, and results →</span>
-  </a>
-
-  <a class="semester-card" href="/undergraduate-research/spring-2026/">
-    <span class="semester-label">Spring 2026</span>
-    <span class="semester-summary">DFT and Machine-Learning Band-Gap Prediction for h-BN</span>
-    <span class="semester-students">Michael Buccino · Kendra Scheele</span>
-    <span class="semester-action">View project, poster, and results →</span>
-  </a>
-
-  <a class="semester-card" href="/undergraduate-research/fall-2025/">
-    <span class="semester-label">Fall 2025</span>
-    <span class="semester-summary">Graphene and h-BN Tight-Binding Research</span>
-    <span class="semester-students">Jillian Iqbal · Flavio Loja · Michael Buccino · Kendra Scheele</span>
-    <span class="semester-action">View projects, posters, and code →</span>
-  </a>
+  <div class="publication-item">
+    <strong>Quasiparticle Band Structures of the 4d Perovskite Oxides SrZrO<sub>3</sub> and BaZrO<sub>3</sub></strong>
+    <span class="publication-meta">G. Lopez-Candales, Z. Tang, G. J. Cruz, W. Xia, F. Jia · Physical Review B · 2021</span>
+  </div>
 </div>
 
-[🏠 Home](/)
+<div class="callout-card">
+  <span class="eyebrow">Mentoring</span>
+  <h3>Undergraduate research is a separate part of my academic work.</h3>
+  <p>Student projects, posters, code, and presentations are organized by semester on the <a href="/undergraduate-research/">Undergraduate Research page →</a></p>
+</div>
