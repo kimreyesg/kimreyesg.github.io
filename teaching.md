@@ -1,11 +1,32 @@
+---
+layout: default
+title: Teaching
+permalink: /teaching.html
+---
 
-### Teaching
+<span class="eyebrow">Teaching</span>
+# Physics teaching with problem solving and computation
 
+<p class="lead">
+I aim to create an interactive learning environment where students ask questions, work through problems, and build physical intuition. Simulations and computational tools are used alongside analytical problem solving, especially in quantum physics.
+</p>
 
-<div style="text-align: justify;">
-<p>Teaching is one of my greatest passions. I want to create an interactive learning environment where students feel encouraged to ask questions, think critically, and explore the world of physics. My Quantum Physics course has been introduced alongside the use of Mathematica, which I believe will help students develop the new physics intuition required for analyzing quantum materials and many other topics.</p>
+<div class="resource-grid">
+  <div class="resource-card">
+    <h3>Problem solving</h3>
+    <p>Class time emphasizes working through physics carefully rather than only presenting finished derivations.</p>
+  </div>
+  <div class="resource-card">
+    <h3>Computation</h3>
+    <p>Mathematica and simulations are used to connect equations with visual and numerical intuition.</p>
+  </div>
+  <div class="resource-card">
+    <h3>Active learning</h3>
+    <p>Questions, discussion, and structured practice are integrated into lectures and course activities.</p>
+  </div>
 </div>
 
+## Courses taught
 
 | Semester      | Course                   | Credits |
 |---------------|--------------------------|---------|
@@ -20,6 +41,26 @@
 |               | Modern Physics           | 3       |
 |               | General Physics Lab 2    | 1       |
 
-<a href="https://github.com/kimreyesg/Quantum-Mechanics-with-Mathematica" target="_blank">Quantum Mechanics with Mathematica</a>
+## Teaching resources
 
-[🏠](index.md)
+<div class="resource-grid">
+  <div class="resource-card">
+    <span class="eyebrow">Open resource</span>
+    <h3>Quantum Mechanics with Mathematica</h3>
+    <p>Computational notebooks designed to support quantum-mechanics concepts and visualization.</p>
+    <a class="card-link" href="https://github.com/kimreyesg/Quantum-Mechanics-with-Mathematica" target="_blank" rel="noopener noreferrer">View on GitHub →</a>
+  </div>
+
+  <div class="resource-card">
+    <span class="eyebrow">Course notes</span>
+    <h3>Class notes</h3>
+    <p>I maintain dedicated notes for General Physics I and Quantum Physics and share course materials with students through the appropriate course channels.</p>
+  </div>
+
+  <div class="resource-card">
+    <span class="eyebrow">For students</span>
+    <h3>Explore Materials Physics</h3>
+    <p>Short explanations on density functional theory, machine learning, and materials-science examples.</p>
+    <a class="card-link" href="/explore-materials-physics.html">Explore materials physics →</a>
+  </div>
+</div>
