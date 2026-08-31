@@ -42,5 +42,6 @@ Welcome to my academic page. I work with undergraduate students on computational
 </div>
 
 <p class="home-research-link">
-  <a href="/research.html">View all undergraduate research by semester →</a>
+  <a href="/research.html">View all undergraduate research by semester →</a><br>
+  <a href="/explore-materials-physics.html">Explore materials physics →</a>
 </p>
