@@ -7,16 +7,12 @@ permalink: /teaching.html
 <span class="eyebrow">Teaching</span>
 # Courses and teaching resources
 
-## Fall 2026
-
-This semester I am teaching **General Physics I (PHY 201, calculus-based)**, **Quantum Physics**, and **General Physics Lab II**.
-
 ## Courses I teach
 
-- **General Physics I (PHY 201)** — calculus-based introductory physics
-- **Quantum Physics**
-- **Modern Physics**
-- **General Physics Lab II**
+- **Physics I Calculus Based (PHY201)**
+- **Quantum Physics (PHY331)**
+- **Modern Physics (PHY308)**
+- **General Physics Lab II (PHY212)**
 
 ## Teaching resources
 
