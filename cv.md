@@ -20,14 +20,17 @@ SUNY New Paltz · Department of Physics and Astronomy
 
 **Ph.D. in Physics · 2017–2024**  
 University at Buffalo, SUNY · Buffalo, New York  
-Thesis: *Defect-Enable Novel Properties: Photocatalyst, Intermediate Band Semiconductors and Magnetism*
+Thesis: *Defect-Enable Novel Properties: Photocatalyst, Intermediate Band Semiconductors and Magnetism*  
+Advisor: Dr. Peihong Zhang
 
 **Master in Science: Physics · 2010–2014**  
 Universidad Nacional de Colombia · Bogotá, Colombia  
-Thesis: *Diagrama de Fases de Átomos Bosónicos Sujetos a Confinamiento no Diagonal*
+Thesis: *Diagrama de Fases de Átomos Bosónicos Sujetos a Confinamiento no Diagonal*  
+Advisor: Dr. Jereson Silva
 
 **Bachelor's Degree: Physics-Education · 2004–2010**  
-Universidad Distrital Francisco José de Caldas · Bogotá, Colombia
+Universidad Distrital Francisco José de Caldas · Bogotá, Colombia  
+Advisor: Dr. Camilo Jimenez
 
 ## Academic experience
 
