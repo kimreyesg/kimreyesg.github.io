@@ -4,8 +4,8 @@ remote_theme: pages-themes/minimal@v0.2.0
 # Site basics
 title: Greis J. Kim Reyes
 description: "Assistant Professor of Physics<br>SUNY New Paltz<br><span class='sidebar-focus'>Computational Materials Science</span>"
-logo: /assets/img/portrait2.jpg
-logo_alt: "Portrait of Greis J. Kim Reyes"
+logo: /assets/img/bonding.png
+logo_alt: "Electronic bonding visualization"
 
 # Author info
 author:
