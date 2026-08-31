@@ -33,29 +33,3 @@ I mentor undergraduate students in computational physics projects that combine p
     <span class="semester-action">View projects, posters, and code →</span>
   </a>
 </div>
-
-<div class="section-heading">
-  <h2>Recent presentations</h2>
-</div>
-
-<div class="student-highlight-grid">
-  <a class="student-highlight" href="/undergraduate-research/spring-2026/">
-    <img src="/assets/img/IMG_0180-EDIT.jpg"
-         alt="Michael Buccino and Kendra Scheele presenting their research poster at the APS Global Physics Summit">
-    <div class="student-highlight-caption">
-      <span class="student-semester">Spring 2026</span>
-      <span class="student-names">Michael Buccino · Kendra Scheele</span>
-      <span class="student-event">APS Global Physics Summit · Denver, Colorado · March 2026</span>
-    </div>
-  </a>
-
-  <a class="student-highlight" href="/undergraduate-research/summer-2026/">
-    <img src="/assets/img/summer-2026-ac2-group.jpg"
-         alt="Leonides Lopez IV, Saif Imdad, and Anthony Flemister with their Summer 2026 research poster">
-    <div class="student-highlight-caption">
-      <span class="student-semester">Summer 2026</span>
-      <span class="student-names">Leonides Lopez IV · Saif Imdad · Anthony Flemister</span>
-      <span class="student-event">AC2 Undergraduate Research · SUNY New Paltz · Summer 2026</span>
-    </div>
-  </a>
-</div>

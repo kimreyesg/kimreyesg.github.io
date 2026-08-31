@@ -84,15 +84,6 @@ Korean · Enthusiast
   <img src="/IMG_9255.gif" alt="Boo" style="max-width:280px; width:100%; height:auto; border-radius:10px;">
 </div>
 
-<div style="text-align:center; color:#687270;">
-<p style="font-family:Georgia, Garamond, serif; font-style:italic; line-height:1.7;">
-Boo wakes me up with no regret,<br>
-she purrs like motors finely set.<br>
-A loaf, a blob, a drama queen,<br>
-The softest tyrant ever seen.<br>
-Yet still I coo, “My little Boo”,<br>
-Though technically, she pays no due.<br>
-So useless, but love like that?<br>
-It only comes with one dummy cat.
+<p style="text-align:center; color:#687270;">
+This is Boo, my little ball of fur and unofficial office supervisor.
 </p>
-</div>
