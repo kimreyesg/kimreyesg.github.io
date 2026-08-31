@@ -88,5 +88,5 @@ Korean · Enthusiast
 </div>
 
 <p style="text-align:center; color:#687270;">
-This is Boo, my little ball of fur and unofficial office supervisor.
+This is Boo, my little ball of fur, prrr and meow meow.
 </p>
