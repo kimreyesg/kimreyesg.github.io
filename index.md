@@ -7,7 +7,7 @@ title: Home
   <span class="eyebrow">Physics · SUNY New Paltz</span>
   <h1>Teaching, computational materials, and undergraduate mentoring.</h1>
   <p class="lead">
-    I am a physics professor and computational materials researcher. My academic work connects three parts of the same goal: understanding materials, teaching physics, and involving undergraduate students in research.
+    I am a physicist who enjoys teaching, exploring materials with computational tools, and building small research and study projects with undergraduate students that often grow into something interesting.
   </p>
 </div>
 
