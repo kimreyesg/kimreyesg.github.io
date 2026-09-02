@@ -17,19 +17,26 @@
   <body>
     <div class="wrapper">
       <header class="site-sidebar">
-        <a class="site-name" href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a>
-
         {% if page.title == "Home" %}
+          <div class="sidebar-focus" style="margin-bottom:18px;">Computational Materials Science</div>
+
           <a href="{{ "/about.html" | absolute_url }}" class="sidebar-portrait-link">
             <img class="sidebar-portrait" src="/assets/img/portrait-river.jpg" alt="Greis J. Kim Reyes" />
           </a>
-        {% elsif site.logo %}
-          <a href="{{ "/about.html" | absolute_url }}" class="sidebar-portrait-link">
-            <img class="sidebar-portrait" src="{{ site.logo | relative_url }}" alt="{{ site.logo_alt | default: site.title }}" />
-          </a>
-        {% endif %}
 
-        <div class="site-description">{{ site.description | default: site.github.project_tagline }}</div>
+          <a class="site-name" href="{{ "/" | absolute_url }}" style="margin-bottom:10px;">{{ site.title | default: site.github.repository_name }}</a>
+          <div class="site-description">Assistant Professor of Physics<br>SUNY New Paltz</div>
+        {% else %}
+          <a class="site-name" href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a>
+
+          {% if site.logo %}
+            <a href="{{ "/about.html" | absolute_url }}" class="sidebar-portrait-link">
+              <img class="sidebar-portrait" src="{{ site.logo | relative_url }}" alt="{{ site.logo_alt | default: site.title }}" />
+            </a>
+          {% endif %}
+
+          <div class="site-description">{{ site.description | default: site.github.project_tagline }}</div>
+        {% endif %}
 
         {% if site.author.email %}
           <p class="sidebar-contact"><a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></p>
