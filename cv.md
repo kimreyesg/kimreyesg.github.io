@@ -7,10 +7,6 @@ permalink: /cv.html
 <span class="eyebrow">Curriculum Vitae</span>
 # Greis J. Kim Reyes, Ph.D.
 
-<div style="text-align:center; margin:18px 0 30px;">
-  <img src="/assets/img/portrait2.jpg" alt="Greis J. Kim Reyes" style="max-width:210px; width:100%; height:auto; border-radius:12px;">
-</div>
-
 ## Academic appointment
 
 **2024–present · Assistant Professor of Physics**  
