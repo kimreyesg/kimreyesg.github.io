@@ -12,33 +12,6 @@ title: Home
 </div>
 
 <div class="section-heading">
-  <h2>What I do</h2>
-</div>
-
-<div class="pillar-grid">
-  <div class="pillar-card">
-    <span class="eyebrow">Teaching</span>
-    <h3>Physics in the classroom</h3>
-    <p>Interactive lectures, problem solving, simulations, and computational tools are central to my courses.</p>
-    <a class="card-link" href="/teaching.html">Teaching &amp; resources →</a>
-  </div>
-
-  <div class="pillar-card">
-    <span class="eyebrow">Research</span>
-    <h3>Computational materials physics</h3>
-    <p>I study semiconductor materials, electronic structure, defects, and related magnetic and optical properties.</p>
-    <a class="card-link" href="/research.html">Research &amp; publications →</a>
-  </div>
-
-  <div class="pillar-card">
-    <span class="eyebrow">Mentoring</span>
-    <h3>Undergraduate research</h3>
-    <p>Students work on computational projects, posters, code, and presentations organized by semester.</p>
-    <a class="card-link" href="/undergraduate-research/">Student research →</a>
-  </div>
-</div>
-
-<div class="section-heading">
   <h2>Recent student work</h2>
   <p>Research presentations and programs</p>
 </div>
@@ -63,6 +36,33 @@ title: Home
       <span class="student-event">AC2 Undergraduate Research · SUNY New Paltz · Summer 2026</span>
     </div>
   </a>
+</div>
+
+<div class="section-heading">
+  <h2>What I do</h2>
+</div>
+
+<div class="pillar-grid">
+  <div class="pillar-card">
+    <span class="eyebrow">Teaching</span>
+    <h3>Physics in the classroom</h3>
+    <p>Interactive lectures, problem solving, simulations, and computational tools are central to my courses.</p>
+    <a class="card-link" href="/teaching.html">Teaching &amp; resources →</a>
+  </div>
+
+  <div class="pillar-card">
+    <span class="eyebrow">Research</span>
+    <h3>Computational materials physics</h3>
+    <p>I study semiconductor materials, electronic structure, defects, and related magnetic and optical properties.</p>
+    <a class="card-link" href="/research.html">Research &amp; publications →</a>
+  </div>
+
+  <div class="pillar-card">
+    <span class="eyebrow">Mentoring</span>
+    <h3>Undergraduate research</h3>
+    <p>Students work on computational projects, posters, code, and presentations organized by semester.</p>
+    <a class="card-link" href="/undergraduate-research/">Student research →</a>
+  </div>
 </div>
 
 <div class="callout-card">
