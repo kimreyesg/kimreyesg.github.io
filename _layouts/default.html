@@ -19,9 +19,9 @@
       <header class="site-sidebar">
         <a class="site-name" href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a>
 
-        {% if page.url == "/" %}
+        {% if page.title == "Home" %}
           <a href="{{ "/about.html" | absolute_url }}" class="sidebar-portrait-link">
-            <img class="sidebar-portrait" src="/assets/img/home-portrait.svg" alt="Greis J. Kim Reyes" />
+            <img class="sidebar-portrait" src="/assets/img/home-portrait.jpg" alt="Greis J. Kim Reyes" />
           </a>
         {% elsif site.logo %}
           <a href="{{ "/about.html" | absolute_url }}" class="sidebar-portrait-link">
